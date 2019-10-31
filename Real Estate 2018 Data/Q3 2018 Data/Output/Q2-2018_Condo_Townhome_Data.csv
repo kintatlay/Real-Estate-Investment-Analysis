@@ -1,0 +1,1698 @@
+Bath,Bed,City,Half-bath,House_type,Latitude,Listing_type,Longitude,Price,Square_Feet,State,Street,Zip_code
+2,2,Los Angeles,0,Condo/Townhome,34.05225,FOR SALE,-118.40849,"$1,949,000","1,639",CA,2222 Avenue of the Stars 1201E,90067
+3,4,Santa Rosa,0,Condo/Townhome,38.44093,FOR SALE,-122.80131,"$1,500,000","3,671",CA,5167 Hall Rd,95401
+3,4,Merced,1,Condo/Townhome,37.30981,FOR SALE,-120.43886,"$649,900","3,385",CA,2625 E North Bear Creek Dr,95340
+2,3,Paso Robles,0,Condo/Townhome,35.60401,FOR SALE,-120.66757,"$559,950","1,821",CA,820 Saint Andrews Circle,93446
+3,4,Rocklin,0,Condo/Townhome,38.80384,FOR SALE,-121.26919,"$550,000","2,650",CA,3017 Strand,95765
+2,2,Petaluma,0,Condo/Townhome,38.243362,FOR SALE,-122.648918,"$520,000","1,092",CA,7 Liberty Lane,94952
+2,3,Oakdale,0,Condo/Townhome,37.77773,FOR SALE,-120.84571,"$375,000","1,738",CA,831 River Bluff Ct,95361
+2,4,Riverbank,1,Condo/Townhome,37.71547,FOR SALE,-120.95234,"$370,000","2,052",CA,5323 St Elmo Ct,95367
+1,2,Simi Valley,1,Condo/Townhome,34.265548,FOR SALE,-118.662878,"$369,777","1,137",CA,6524 Stoney View Ln 7,93063
+1,2,San Luis Obispo,1,Condo/Townhome,35.26114,FOR SALE,-120.70168,"$369,000","1,001",CA,1750 Prefumo Canyon Rd. #55,93405
+2,3,Bakersfield,0,Condo/Townhome,35.35881,FOR SALE,-119.15812,"$285,000","1,558",CA,416 Corte Mismo,93314
+2,3,Merced,0,Condo/Townhome,37.32092,FOR SALE,-120.45147,"$229,900","1,393",CA,3209 N Parsons Ave,95340
+1,2,Lodi,0,Condo/Townhome,38.12397,FOR SALE,-121.26946,"$225,000",812,CA,201 Cherry St,95240
+2,3,Stockton,0,Condo/Townhome,38.02732,FOR SALE,-121.30783,"$209,900","1,410",CA,8453 Cayuga Dr,95210
+1,1,Modesto,1,Condo/Townhome,37.691357,FOR SALE,-121.010645,"$155,000",791,CA,3701 Colonial Dr. 187,95356
+1,2,Union City,1,Condo/Townhome,37.58787,FOR SALE,-122.08037,"$558,000","1,054",CA,4554 Reyes Drive,94587
+2,3,San Miguel,0,Condo/Townhome,35.72894,FOR SALE,-120.55592,"$639,000","2,098",CA,5923 Sweetie Lane,93451
+1,1,Chula Vista,0,Condo/Townhome,32.6468,FOR SALE,-117.1,"$242,900",796,CA,695 Sea Vale St 105,91910
+1,1,Corona,0,Condo/Townhome,33.9006,FOR SALE,-117.532,"$230,000",724,CA,1980 Las Colinas Circle 204,92879
+2,3,Antioch,0,Condo/Townhome,38.0026,FOR SALE,-121.829,"$209,950","1,141",CA,2410 Shadow Lane 90,94509
+2,2,Clovis,0,Condo/Townhome,36.824608,FOR SALE,-119.724472,"$184,998","1,320",CA,646 W Stuart Avenue,93612
+1,2,Palm Desert,0,Condo/Townhome,33.708874,FOR SALE,-116.397904,"$159,900",924,CA,72616 Edgehill Drive 4,92260
+2,2,Fremont,1,Condo/Townhome,37.56023,FOR SALE,-122.0536,"$999,999","1,655",CA,5435 Quebec Cmn,94555
+3,5,Hilmar,0,Condo/Townhome,37.38819,FOR SALE,-120.809,"$749,000","3,205",CA,17777 Williams Ave,95324
+3,3,Oak Park,0,Condo/Townhome,34.17198,FOR SALE,-118.78767,"$699,900","1,611",CA,167 Concerto Dr,91377
+2,3,Torrance,5,Condo/Townhome,33.83883,FOR SALE,-118.31923,"$649,900","1,487",CA,830 Arlington Ave,90501
+1,2,Santa Cruz,1,Condo/Townhome,36.9647,FOR SALE,-122.03226,"$645,000","1,174",CA,121 Shelter Lagoon Drive,95060
+1,2,Campbell,0,Condo/Townhome,37.29272,FOR SALE,-121.94686,"$575,000",810,CA,208 Watson Dr 1,95008
+3,3,Valley Glen,0,Condo/Townhome,34.17884,FOR SALE,-118.43751,"$510,000","1,380",CA,5968 Costello,91401
+2,4,Tracy,0,Condo/Townhome,37.72573,FOR SALE,-121.4519,"$495,900","1,844",CA,1965 Pagoda Ct,95376
+3,5,Oakdale,1,Condo/Townhome,37.75464,FOR SALE,-120.86494,"$469,900","3,310",CA,510 Gelding,95361
+2,3,Sunland,0,Condo/Townhome,34.25806,FOR SALE,-118.32389,"$464,999","1,428",CA,8732 Wyngate St,91040
+3,4,Turlock,0,Condo/Townhome,37.51417,FOR SALE,-120.87426,"$395,000","1,887",CA,2321 Trotter Way,95380
+2,3,Vallejo,1,Condo/Townhome,38.11231,FOR SALE,-122.20852,"$389,500","1,348",CA,300 Locust Dr. #27,94591
+3,3,Modesto,0,Condo/Townhome,37.68233,FOR SALE,-120.95131,"$379,000","2,080",CA,3013 Caden Dr,95355
+3,3,Canyon Country,0,Condo/Townhome,34.41515,FOR SALE,-118.44714,"$367,000","1,268",CA,18016 River CR #1,91387
+2,4,Fontana,1,Condo/Townhome,34.1526,FOR SALE,-117.461,"$369,900","2,047",CA,15723 Parkhouse Drive 102,92336
+2,4,Fontana,1,Condo/Townhome,34.1526,FOR SALE,-117.461,"$369,900","2,047",CA,15723 Parkhouse Drive 102,92336
+2,2,Canoga Park,0,Condo/Townhome,34.213,FOR SALE,-118.605,"$369,000",905,CA,7826 Topanga Canyon Boulevard 326,91304
+2,3,San Diego,0,Condo/Townhome,32.6796,FOR SALE,-117.0393,"$360,000","1,222",CA,7069 Wattle Dr,92139
+2,3,Palm Desert,0,Condo/Townhome,33.725121,FOR SALE,-116.363663,"$359,000","1,584",CA,44509 Sorrento Court,92201
+2,2,Laguna Woods,0,Condo/Townhome,33.603,FOR SALE,-117.734,"$359,000","1,257",CA,4009 Calle Sonora Oeste 2H,92637
+1,2,Lake Forest,0,Condo/Townhome,33.633,FOR SALE,-117.688,"$359,000",873,CA,22752 Madrid Drive,92630
+1,1,Fullerton,1,Condo/Townhome,33.902284,FOR SALE,-117.8824014,"$350,000",831,CA,2757 Quail Ridge Circle #38 #38,92835
+2,3,Chula Vista,0,Condo/Townhome,32.5954,FOR SALE,-117.04,"$349,000","1,074",CA,1691 Melrose A,91911
+2,3,Oxnard,1,Condo/Townhome,34.161225,FOR SALE,-119.154325,"$345,000","1,249",CA,2029 E Bard Road,93033
+2,2,Oceanside,0,Condo/Townhome,33.2146,FOR SALE,-117.326,"$319,900","1,250",CA,3760 Vista Campana 2,92057
+2,3,Murrieta,0,Condo/Townhome,33.5532,FOR SALE,-117.164,"$315,000","1,408",CA,39903 Millbrook Way 7C,92563
+2,2,Murrieta,0,Condo/Townhome,33.5558,FOR SALE,-117.161,"$314,990","1,532",CA,26095 Mayfield Union Way A,92563
+1,2,Pomona,0,Condo/Townhome,34.0253,FOR SALE,-117.763,"$309,000",892,CA,16 Country Mile Road,91766
+1,2,Pomona,0,Condo/Townhome,34.0253,FOR SALE,-117.763,"$309,000",892,CA,16 Country Mile Road,91766
+1,1,Livermore,0,Condo/Townhome,37.6753,FOR SALE,-121.784,"$299,800",674,CA,1001 Murrieta Blvd 90,94550
+1,1,San Clemente,0,Condo/Townhome,33.4466,FOR SALE,-117.59856,"$297,500",438,CA,1062 Calle Del Cerro 1227,92672
+2,2,Pomona,0,Condo/Townhome,34.0875,FOR SALE,-117.736,"$295,900","1,022",CA,2410 N Towne Avenue 24,91767
+1,2,Laguna Woods,0,Condo/Townhome,33.619,FOR SALE,-117.721,"$292,000",866,CA,2328 Via Mariposa West A,92637
+3,4,Long Beach,1,Condo/Townhome,33.7684,FOR SALE,-118.125,"$975,000","2,068",CA,5420 Heron Bay,90803
+2,3,Newport Beach,1,Condo/Townhome,33.6268,FOR SALE,-117.936,"$845,000","1,775",CA,9 Kialoa Court 103,92663
+2,2,Carlsbad,0,Condo/Townhome,33.1439,FOR SALE,-117.324,"$799,998","1,453",CA,4513 Cove Dr 7,92008
+2,2,Playa Del Rey,0,Condo/Townhome,33.95754,FOR SALE,-118.43723,"$769,000","1,367",CA,8601 FALMOUTH Avenue 324,90293
+3,3,Claremont,0,Condo/Townhome,34.1097,FOR SALE,-117.722,"$675,000","1,854",CA,456 Potomac Way,91711
+2,3,San Diego,1,Condo/Townhome,32.882,FOR SALE,-117.219,"$625,000","1,520",CA,9823 Genesee Ave,92121
+1,2,San Diego,0,Condo/Townhome,32.7089,FOR SALE,-117.155,"$615,000",976,CA,350 11Th Ave 431,92101
+1,2,Oakland,1,Condo/Townhome,37.8002294,FOR SALE,-122.272868,"$599,000","1,200",CA,801 Franklin Street #1234,94607
+2,3,Yorba Linda,1,Condo/Townhome,33.8779,FOR SALE,-117.764,"$579,000","1,531",CA,21109 Via Rincon,92887
+2,2,Hayward,1,Condo/Townhome,37.6734,FOR SALE,-122.063,"$574,999","1,640",CA,1884 Sally Creek Circle,94541
+2,2,Westlake Village,1,Condo/Townhome,34.161,FOR SALE,-118.807046,"$574,900","1,251",CA,308 Via Colinas,91362
+2,3,Encino,0,Condo/Townhome,34.1575,FOR SALE,-118.484,"$568,000","1,348",CA,4807 Woodley Avenue 109,91436
+3,2,San Dimas,0,Condo/Townhome,34.105,FOR SALE,-117.807,"$565,000","2,000",CA,270 S San Dimas Avenue,91773
+2,3,Monterey Park,1,Condo/Townhome,34.0579,FOR SALE,-118.108,"$538,000","1,712",CA,407 S New Avenue A,91755
+2,2,San Diego,0,Condo/Townhome,32.7729,FOR SALE,-117.148,"$524,900","1,179",CA,8233 Station Village 2416,92108
+2,2,Simi Valley,0,Condo/Townhome,34.28722,FOR SALE,-118.714332,"$509,900","1,373",CA,2916 Esperanza Way D,93063
+2,3,Agoura Hills,0,Condo/Townhome,34.148649,FOR SALE,-118.755379,"$509,000","1,149",CA,28850 Conejo View Drive,91301
+2,2,Woodland Hills,0,Condo/Townhome,34.1731,FOR SALE,-118.601,"$489,950","1,295",CA,21650 Burbank Boulevard 102,91367
+2,4,San Diego,0,Condo/Townhome,32.8268,FOR SALE,-117.094,"$475,000","1,450",CA,5262 Marigot Place,92124
+2,2,San Diego,0,Condo/Townhome,32.8035,FOR SALE,-117.237,"$475,000","1,033",CA,1855 Diamond St 113,92109
+2,2,San Diego,1,Condo/Townhome,32.7971,FOR SALE,-117.244,"$819,900","1,536",CA,1380 Grand Ave,92109
+3,4,Torrance,0,Condo/Townhome,33.8245,FOR SALE,-118.339,"$799,000","1,867",CA,2300 Maple Avenue 166,90503
+2,2,Los Angeles,0,Condo/Townhome,34.0616,FOR SALE,-118.358,"$799,000","1,323",CA,750 S Spaulding Avenue 203,90036
+2,2,Irvine,1,Condo/Townhome,33.6995,FOR SALE,-117.754,"$795,000","1,824",CA,103 Mission,92620
+2,2,Los Angeles,1,Condo/Townhome,34.1,FOR SALE,-118.349,"$795,000","1,559",CA,1601 N Fuller Avenue 104,90046
+2,3,Dublin,1,Condo/Townhome,37.7066,FOR SALE,-121.947,"$789,888","1,598",CA,11478 Winding Trail Ln,94568
+2,2,Irvine,0,Condo/Townhome,33.6385,FOR SALE,-117.76,"$768,990","1,281",CA,133 Burgess,92618
+2,3,Irvine,0,Condo/Townhome,33.6674,FOR SALE,-117.851,"$747,000","1,345",CA,1368 Scholarship,92612
+2,2,San Diego,1,Condo/Townhome,32.7089,FOR SALE,-117.155,"$739,900","1,350",CA,350 11th Ave 1131,92101
+2,2,Los Angeles (City),0,Condo/Townhome,34.05736,FOR SALE,-118.46764,"$729,000","1,242",CA,612 South BARRINGTON Avenue 214,90049
+2,3,San Diego,1,Condo/Townhome,32.7898,FOR SALE,-117.063,"$699,000","2,078",CA,6306 Caminito Estrellado,92120
+2,2,Irvine,1,Condo/Townhome,33.6274,FOR SALE,-117.83,"$698,888","1,234",CA,120 Jadestone,92603
+2,2,Walnut Creek,0,Condo/Townhome,37.931,FOR SALE,-122.055,"$698,000","1,144",CA,57 Iron Horse Ln,94597
+2,2,Irvine,1,Condo/Townhome,33.6764,FOR SALE,-117.83,"$684,900","1,300",CA,46 Alcoba,92614
+2,2,Palm Springs,0,Condo/Townhome,33.800426083,FOR SALE,-116.537490098,"$675,000","1,896",CA,951 OCEO Circle,92264
+2,3,San Diego,1,Condo/Townhome,32.7818,FOR SALE,-117.149,"$674,900","1,306",CA,2526 Aperture Cir,92108
+2,4,Placentia,1,Condo/Townhome,33.8699,FOR SALE,-117.846,"$669,999","1,700",CA,1130 Davis Way,92870
+1,1,Los Angeles (City),0,Condo/Townhome,34.0408,FOR SALE,-118.26319,"$665,000",920,CA,1155 South GRAND Avenue 1605,90015
+2,3,Aliso Viejo,1,Condo/Townhome,33.5725,FOR SALE,-117.732,"$649,900","1,509",CA,102 Nantucket Lane 97,92656
+2,3,Exeter,1,Condo/Townhome,36.294204,FOR SALE,-119.145802,"$179,000","1,702",CA,142 S Filbert,93221
+2,2,Big Bear Lake,0,Condo/Townhome,34.2391,FOR SALE,-116.947,"$179,000",827,CA,760 Blue Jay Road 45,92315
+1,3,Bakersfield,1,Condo/Townhome,35.3354,FOR SALE,-119.068,"$95,777","1,040",CA,2100 Pinon Springs Circle A,93309
+1,2,Imperial Beach,0,Condo/Townhome,32.56701,FOR SALE,-117.1325,"$699,000",806,CA,1670 Seacoast Dr A,91932
+1,4,Alta Loma,1,Condo/Townhome,34.15631,FOR SALE,-117.625,"$670,000","2,103",CA,5423 Sapphire St.,91701
+4,3,Laguna Woods,0,Condo/Townhome,33.612604,FOR SALE,-117.747114,"$575,000","1,627",CA,5370-3E Punta Alta,92637
+1,2,San Luis Obispo,1,Condo/Townhome,35.26308,FOR SALE,-120.69828,"$429,000","1,322",CA,1445 Prefumo Canyon,93405
+2,2,Chula Vista,0,Condo/Townhome,32.620078,FOR SALE,-116.958297,"$425,000","1,579",CA,1757 Cripple Creek Dr 1,91915
+3,3,Chatsworth,0,Condo/Townhome,34.25034,FOR SALE,-118.60104,"$424,950","1,470",CA,9906 Owensmouth Ave 36,91311
+2,4,Turlock,0,Condo/Townhome,37.53571,FOR SALE,-120.88219,"$389,900","2,019",CA,4521 Sunny Oak Dr,95382
+1,2,Oceanside,0,Condo/Townhome,33.17706,FOR SALE,-117.2851,"$375,000",968,CA,4168 Baycliff Way,92056
+2,4,Modesto,0,Condo/Townhome,37.69441,FOR SALE,-120.9886,"$315,000","1,442",CA,420 Cassidy Ct,95356
+1,2,Chula Vista,0,Condo/Townhome,32.5963,FOR SALE,-117.04,"$299,000",889,CA,1679 Melrose Ave D,91911
+2,3,Merced,0,Condo/Townhome,37.28663,FOR SALE,-120.49351,"$182,000","1,024",CA,624 Seville Way,95341
+1,2,Tracy,0,Condo/Townhome,37.67435,FOR SALE,-121.27459,"$120,000",672,CA,30000 Kasson Road 2M1,95304
+2,3,Huntington Beach,1,Condo/Townhome,33.6859,FOR SALE,-117.993,"$730,000","1,585",CA,19058 Delaware Street,92648
+2,2,San Jose,0,Condo/Townhome,37.3107524,FOR SALE,-121.8826458,"$728,888","1,096",CA,1375 Lick AVE Apt 628,95110
+2,2,La Jolla,0,Condo/Townhome,32.8401,FOR SALE,-117.271,"$725,000",928,CA,7434 Herschel Avenue 1,92037
+3,3,Valley Village,0,Condo/Townhome,34.1689,FOR SALE,-118.399,"$719,000","1,903",CA,5404 Bellingham Avenue 2,91607
+2,2,Irvine,1,Condo/Townhome,33.6655,FOR SALE,-117.775,"$699,900","1,215",CA,7 Alevera Street,92618
+2,1,San Pedro,0,Condo/Townhome,33.7383,FOR SALE,-118.28299,"$699,000","2,300",CA,285 West 6TH Street 106,90731
+2,3,Glendale,1,Condo/Townhome,34.16264,FOR SALE,-118.25068,"$699,000","1,780",CA,1130 CAMPBELL Street 101,91207
+2,2,Los Angeles (City),0,Condo/Townhome,34.04819,FOR SALE,-118.43367,"$670,000",990,CA,1926 GLENDON Avenue 1,90025
+2,2,Laguna Woods,0,Condo/Townhome,33.6049,FOR SALE,-117.743,"$650,000","1,084",CA,3254 San Amadeo A,92637
+2,2,Brea,0,Condo/Townhome,33.9079,FOR SALE,-117.848,"$639,000","1,344",CA,426 Maravilla Lane,92823
+2,4,San Diego,1,Condo/Townhome,32.8273,FOR SALE,-117.115,"$629,000","1,989",CA,9832 Rimpark Way,92124
+2,2,Palm Desert,0,Condo/Townhome,33.691372,FOR SALE,-116.385376,"$629,000","1,629",CA,73356 Irontree Dr Drive,92260
+2,2,Irvine,0,Condo/Townhome,33.7192,FOR SALE,-117.778,"$615,000","1,383",CA,49 Leucadia 73,92602
+2,3,Poway,0,Condo/Townhome,32.9534,FOR SALE,-117.044,"$599,000","1,288",CA,13286 Creek Park Lane,92064
+2,2,Los Angeles (City),0,Condo/Townhome,33.99936,FOR SALE,-118.42394,"$599,000","1,027",CA,4125 Inglewood 4,90066
+2,3,Aliso Viejo,1,Condo/Townhome,33.6041,FOR SALE,-117.74,"$589,500","1,372",CA,98 Nightingale Drive,92656
+1,2,Los Angeles (City),0,Condo/Townhome,34.04003,FOR SALE,-118.46809,"$589,000",739,CA,1323 South CARMELINA Avenue 216,90025
+2,1,Los Angeles (City),0,Condo/Townhome,34.05666,FOR SALE,-118.3952,"$589,000",730,CA,1115 South ELM Drive 319,90035
+3,3,Tarzana,0,Condo/Townhome,34.1767,FOR SALE,-118.544,"$575,000","1,896",CA,18850 Hatteras Street 6,91356
+1,1,Los Angeles (City),0,Condo/Townhome,34.04799,FOR SALE,-118.23751,"$575,000",735,CA,100 South ALAMEDA Street 279,90012
+2,3,Chula Vista,1,Condo/Townhome,32.617911,FOR SALE,-116.956174,"$475,000","1,794",CA,2205 Andalusia Ln 3,91915
+3,3,El Monte,0,Condo/Townhome,34.06674,FOR SALE,-118.0067,"$450,000","1,408",CA,3599 Daybreak Street,91732
+2,2,Corona,0,Condo/Townhome,33.77383,FOR SALE,-117.50932,"$439,900","1,909",CA,23803 La Posta Court,92883
+2,3,Chino,1,Condo/Townhome,33.96663,FOR SALE,-117.62794,"$418,000","1,612",CA,15803  Mcintosh Ave,91708
+2,4,Hughson,0,Condo/Townhome,37.60621,FOR SALE,-120.86789,"$369,900","2,070",CA,6716 Metcalf Way,95326
+2,3,Woodland,0,Condo/Townhome,38.68295,FOR SALE,-121.79955,"$349,000","1,273",CA,101 Marin Pl,95695
+2,4,Turlock,0,Condo/Townhome,37.50516,FOR SALE,-120.86402,"$345,000","1,660",CA,1411 Tramway Pl,95380
+2,3,Copperopolis,0,Condo/Townhome,37.9388,FOR SALE,-120.62542,"$325,000","1,804",CA,1204 Cheyenne Rd,95228
+2,3,Los Banos,0,Condo/Townhome,37.07088,FOR SALE,-120.83675,"$309,000","1,924",CA,1213 Santa Cruz Way,93635
+3,4,Beaumont,0,Condo/Townhome,33.94718,FOR SALE,-116.95641,"$305,000","1,919",CA,1432 Currant Way,92223
+2,4,Stockton,0,Condo/Townhome,38.03868,FOR SALE,-121.33391,"$299,950","1,823",CA,1715 Laramie Way,95209
+2,3,Turlock,0,Condo/Townhome,37.47476,FOR SALE,-120.84271,"$275,000","1,155",CA,581 E Glenwood Ave,95380
+2,3,Huntington Park,0,Condo/Townhome,33.98712,FOR SALE,-118.19513,"$275,000","1,104",CA,5951 Corona Ave. #E,90255
+2,3,Madera,0,Condo/Townhome,36.96081,FOR SALE,-120.09907,"$249,000","1,619",CA,141 Countess Lane,93637
+3,3,Lomita,0,Condo/Townhome,33.7844,FOR SALE,-118.31048,"$35,400","1,544",CA,1801 263rd St # 127,90717
+3,4,Sunnyvale,1,Condo/Townhome,37.38823,FOR SALE,-121.99761,"$1,499,000","1,906",CA,1064 Doheny Ter,94085
+2,2,Del Mar,1,Condo/Townhome,32.9374,FOR SALE,-117.25351,"$1,350,000","1,668",CA,13017 Caminito Mar Villa,92014
+3,5,San Gabriel,0,Condo/Townhome,34.11573,FOR SALE,-118.09067,"$1,238,000","3,750",CA,8210 Somerset Place,91775
+3,3,San Jose,0,Condo/Townhome,37.28875,FOR SALE,-121.76328,"$998,000","1,969",CA,2084 Mataro Way,95135
+2,3,San Ramon,0,Condo/Townhome,37.78398,FOR SALE,-121.94196,"$799,000","1,960",CA,6236 Lakeview Cir,94582
+1,1,Los Angeles,0,Condo/Townhome,34.0811,FOR SALE,-118.343,"$475,000",622,CA,525 N Sycamore Avenue 430,90036
+3,3,Anaheim Hills,0,Condo/Townhome,33.8483,FOR SALE,-117.737,"$474,900","1,181",CA,8084 E Naples Lane,92808
+2,3,La Habra,1,Condo/Townhome,33.9264,FOR SALE,-117.963,"$470,000","1,618",CA,1560 Silver Maple Drive,90631
+3,3,West Covina,0,Condo/Townhome,34.0605,FOR SALE,-117.911,"$468,888","1,652",CA,1636 Aspen Village Way,91791
+2,3,Buena Park,1,Condo/Townhome,33.8867,FOR SALE,-117.992,"$460,000","1,276",CA,8238 Inverness Green,90621
+1,1,Long Beach,0,Condo/Townhome,33.7644,FOR SALE,-118.171,"$459,000",632,CA,1750 E Ocean Boulevard 302,90802
+1,1,Alhambra,0,Condo/Townhome,34.0801,FOR SALE,-118.113,"$450,000",834,CA,999 E Valley Boulevard 115,91801
+3,3,San Pablo,0,Condo/Townhome,37.9551,FOR SALE,-122.337,"$449,888","1,858",CA,2121 Vale Rd 21,94806
+2,3,North Hills,1,Condo/Townhome,34.2389,FOR SALE,-118.463,"$445,555","1,603",CA,9300 Burnet Avenue 113,91343
+2,2,Aliso Viejo,0,Condo/Townhome,33.5694,FOR SALE,-117.722,"$445,000","1,147",CA,23412 Pacific Park Drive 35K,92656
+2,1,Palm Springs,0,Condo/Townhome,33.853988081,FOR SALE,-116.550549192,"$440,000","1,072",CA,360 CABRILLO Road 118,92262
+1,2,Placentia,2,Condo/Townhome,33.8706,FOR SALE,-117.866,"$432,000","1,270",CA,110 Kauai Lane,92870
+1,1,Ladera Ranch,1,Condo/Townhome,33.5546,FOR SALE,-117.646,"$425,000","1,057",CA,51 Sansovino,92694
+1,1,Ladera Ranch,1,Condo/Townhome,33.5546,FOR SALE,-117.646,"$425,000","1,057",CA,51 Sansovino,92694
+1,2,Yorba Linda,1,Condo/Townhome,33.8686,FOR SALE,-117.785,"$425,000","1,017",CA,19926 Ridge Manor Way 2,92886
+2,2,Woodland Hills,0,Condo/Townhome,34.1725,FOR SALE,-118.6,"$424,999",920,CA,21550 Burbank Boulevard 205,91367
+2,2,Lake Forest,0,Condo/Townhome,33.6811,FOR SALE,-117.654,"$418,000","1,060",CA,19431 Rue De Valore 33B,92610
+2,4,Chula Vista,0,Condo/Townhome,32.6371,FOR SALE,-117.055,"$410,000","1,618",CA,600 Sheffield Court 30,91910
+2,3,San Diego,0,Condo/Townhome,32.8191,FOR SALE,-117.173,"$399,995","1,015",CA,6555 Mount Ada Rd 222,92111
+2,2,West Hollywood,0,Condo/Townhome,34.07653,FOR SALE,-118.38513,"$735,000",870,CA,141 Clark Dr #301,90048
+2,2,Cupertino,0,Condo/Townhome,37.32281,FOR SALE,-122.0696,"$1,525,000","1,313",CA,22650 Silver Oak LN,95014
+2,3,Sacramento,0,Condo/Townhome,38.5665,FOR SALE,-121.48189,"$759,900","1,918",CA,1818 22nd Street 119,95816
+2,2,Sacramento,0,Condo/Townhome,38.56649,FOR SALE,-121.48182,"$485,950","1,101",CA,2117 S Street 205,95816
+1,2,Citrus Heights,1,Condo/Townhome,38.67539,FOR SALE,-121.32321,"$229,900","1,378",CA,6124 Shadow Lane,95621
+2,2,Playa Vista,1,Condo/Townhome,33.97015,FOR SALE,-118.42837,"$1,699,000","2,400",CA,6241 Crescent Park 406,90094
+2,2,Los Angeles (City),0,Condo/Townhome,34.06093,FOR SALE,-118.43727,"$1,649,000","1,697",CA,10727 Wilshire 605,90024
+2,2,San Francisco,0,Condo/Townhome,37.803841,FOR SALE,-122.414566,"$1,095,000","1,087",CA,690 Chestnut Street Unit: 402,94133
+2,3,Santa Clara,1,Condo/Townhome,37.3926,FOR SALE,-121.965,"$1,048,000","1,564",CA,2330 Falling Water Ct,95054
+3,4,Irvine,1,Condo/Townhome,33.6797,FOR SALE,-117.746,"$999,000","1,982",CA,126 Barrington,92618
+3,4,Newark,1,Condo/Townhome,37.5204,FOR SALE,-121.994,"$999,000","1,902",CA,39868 Sawyer Terrace,94560
+2,2,San Francisco,0,Condo/Townhome,37.786945,FOR SALE,-122.424164,"$999,000","1,128",CA,1483 Sutter Street Unit: 706,94109
+2,3,Dana Point,1,Condo/Townhome,33.4762,FOR SALE,-117.699,"$950,000","1,859",CA,24586 Polaris Drive 267,92629
+2,2,Playa Vista,0,Condo/Townhome,33.972,FOR SALE,-118.429,"$939,000","1,230",CA,5625 Crescent Park W 208,90094
+3,3,Redondo Beach,0,Condo/Townhome,33.8172,FOR SALE,-118.38,"$915,000","1,622",CA,1800 S Pacific Coast Highway,90277
+3,3,Hawthorne,0,Condo/Townhome,33.8963,FOR SALE,-118.378,"$850,000","1,660",CA,5512 W 149th Place 11,90250
+4,2,Los Angeles (City),0,Condo/Townhome,34.10357,FOR SALE,-118.33735,"$850,000","1,370",CA,6735 YUCCA Street 504,90028
+2,2,San Diego,1,Condo/Townhome,32.7996,FOR SALE,-117.245,"$829,900","1,540",CA,1369 Felspar St,92109
+4,4,Tustin,0,Condo/Townhome,33.7043,FOR SALE,-117.803,"$810,000","2,213",CA,226 Jet Stream,92782
+2,3,Rancho Mirage,0,Condo/Townhome,33.7503,FOR SALE,-116.409,"$305,000","2,127",CA,4 Lorca Drive,92270
+1,1,Fullerton,0,Condo/Townhome,33.9045,FOR SALE,-117.882,"$289,000",676,CA,3046 Associated Road 43,92835
+1,1,Fullerton,0,Condo/Townhome,33.9045,FOR SALE,-117.882,"$289,000",676,CA,3046 Associated Road 43,92835
+1,2,Spring Valley,1,Condo/Townhome,32.7197,FOR SALE,-117.002,"$279,000","1,008",CA,1604 Presioca St 23,91977
+1,1,Santa Ana,0,Condo/Townhome,33.696,FOR SALE,-117.881,"$277,000",647,CA,1001 W Stevens Avenue 425,92707
+1,1,Santa Ana,0,Condo/Townhome,33.696,FOR SALE,-117.881,"$277,000",647,CA,1001 W Stevens Avenue 425,92707
+1,2,Paso Robles,1,Condo/Townhome,35.6286,FOR SALE,-120.674,"$269,000",952,CA,714 Tanner Drive A-6,93446
+2,2,Palm Springs,0,Condo/Townhome,33.853255,FOR SALE,-116.54496,"$265,000","1,400",CA,200 East RACQUET CLUB Road 45,92262
+1,1,Lake Balboa,0,Condo/Townhome,34.1986,FOR SALE,-118.484,"$259,000",608,CA,7035 Woodley Avenue 118,91406
+1,2,Lakeside,0,Condo/Townhome,32.8541,FOR SALE,-116.93,"$254,900",728,CA,9731 Winter Gardens Boulevard 66,92040
+2,2,Cathedral City,0,Condo/Townhome,33.80101,FOR SALE,-116.46959,"$192,500","1,255",CA,68037 LAKELAND Drive,92234
+3,4,Walnut Grove,0,Condo/Townhome,38.25018,FOR SALE,-121.51739,"$849,950","4,548",CA,13920 Islandview Ct,95690
+2,3,Turlock,0,Condo/Townhome,37.46161,FOR SALE,-120.86211,"$849,900","1,842",CA,3336 S Soderquist Rd,95380
+2,2,Rancho Santa Margarita,1,Condo/Townhome,33.65664,FOR SALE,-117.58425,"$519,900","1,350",CA,11  Vista Sierra 62,92688
+2,2,Laguna Woods,0,Condo/Townhome,33.60761,FOR SALE,-117.74385,"$450,000","1,079",CA,3299 Via Carrizo #P,92637
+2,2,Rancho Cucamonga,1,Condo/Townhome,34.102619171,FOR SALE,-117.584228516,"$445,000","1,838",CA,8072 Cresta Bella Road,91730
+3,4,Lancaster,0,Condo/Townhome,34.69292,FOR SALE,-118.1598,"$415,000","2,830",CA,1631 Norberry St,93534
+2,3,Santa Rosa,1,Condo/Townhome,38.45175,FOR SALE,-122.76816,"$410,000","1,127",CA,1548 Pinebrook Place,95403
+2,2,Mira Mesa,0,Condo/Townhome,32.9013,FOR SALE,-117.121,"$450,000","1,058",CA,9959 Maya Linda Rd. 26,92126
+1,1,Del Mar,0,Condo/Townhome,32.9479,FOR SALE,-117.245,"$449,000",800,CA,13681 Ruette Le Parc F,92014
+3,3,Alhambra,0,Condo/Townhome,34.0803,FOR SALE,-118.141,"$440,000","1,220",CA,1016 S Marengo Avenue 6,91803
+2,2,San Pedro,0,Condo/Townhome,33.7383,FOR SALE,-118.283,"$439,900","1,080",CA,285 W 6th Street 301,90731
+2,2,Huntington Beach,0,Condo/Townhome,33.6777,FOR SALE,-117.995,"$439,900",973,CA,215 Wichita Avenue 204,92648
+2,2,Signal Hill,0,Condo/Townhome,33.7922,FOR SALE,-118.16,"$425,000","1,111",CA,1903 Temple Avenue 320,90755
+3,2,Saugus,0,Condo/Townhome,34.4457,FOR SALE,-118.477,"$420,000","1,440",CA,28424 Mirabelle Lane,91350
+1,2,Walnut Creek,0,Condo/Townhome,37.9187,FOR SALE,-122.062,"$418,000",924,CA,2548 Jones Rd 9,94597
+1,3,Ventura,1,Condo/Townhome,34.262331,FOR SALE,-119.194802,"$414,900","1,182",CA,1656 Tapir Circle,93003
+1,1,Sherman Oaks,0,Condo/Townhome,34.1531,FOR SALE,-118.45384,"$379,000",698,CA,4501 CEDROS Avenue 130,91403
+2,2,San Diego,0,Condo/Townhome,32.9622,FOR SALE,-117.1,"$375,000",881,CA,10375 Azuaga St 115,92129
+1,2,Anaheim Hills,0,Condo/Townhome,33.8654,FOR SALE,-117.794,"$364,990",882,CA,5486 E Willow Woods Lane B,92807
+2,2,Corona,0,Condo/Townhome,33.8746,FOR SALE,-117.627,"$359,900","1,004",CA,3160 Castelar Court 201,92882
+2,2,Laguna Woods,0,Condo/Townhome,33.605,FOR SALE,-117.745,"$357,000","1,145",CA,3271 San Amadeo N,92637
+1,2,Mission Viejo,1,Condo/Townhome,33.6294,FOR SALE,-117.671,"$349,900",940,CA,22928 Via Nuez 36,92691
+2,2,Spring Valley,1,Condo/Townhome,32.7314,FOR SALE,-117.008,"$335,000","1,020",CA,2267 Kings View Circle,91977
+2,4,Winchester,1,Condo/Townhome,33.5933,FOR SALE,-117.102,"$330,000","2,016",CA,31887 Delfina Way,92596
+3,3,Palm Desert,0,Condo/Townhome,33.742365,FOR SALE,-116.382185,"$325,000","2,056",CA,75 Maximo Way,92260
+2,2,Long Beach,0,Condo/Townhome,33.7781,FOR SALE,-118.182,"$319,900",892,CA,839 E 9th Street 10,90813
+2,2,Martinez,1,Condo/Townhome,37.981,FOR SALE,-122.097,"$315,000","1,122",CA,1608 Ashwood Dr,94553
+2,2,San Diego,0,Condo/Townhome,32.7769,FOR SALE,-117.253,"$1,275,000",725,CA,3443 Ocean Front Walk D,92109
+2,3,Irvine,1,Condo/Townhome,33.6237,FOR SALE,-117.824,"$1,198,000","1,628",CA,48 Gardenpath,92603
+2,3,Solana Beach,1,Condo/Townhome,32.9978,FOR SALE,-117.255,"$1,099,000","1,737",CA,964 Santa Helena Park Ct.,92075
+4,3,Moraga,0,Condo/Townhome,37.8284,FOR SALE,-122.134,"$1,098,000","2,222",CA,105 Westchester St.,94556
+2,2,Avalon,0,Condo/Townhome,33.3555,FOR SALE,-118.332,"$1,035,000","1,403",CA,87 Gaviota,90704
+2,3,Huntington Beach,1,Condo/Townhome,33.7238,FOR SALE,-118.073,"$929,000","1,740",CA,16425 Lazare Lane 93,92649
+2,2,Marina Del Rey,1,Condo/Townhome,33.98138,FOR SALE,-118.43778,"$920,000","1,582",CA,13232 MINDANAO Way,90292
+2,3,Walnut Creek,1,Condo/Townhome,37.9165,FOR SALE,-122.056,"$899,000","1,770",CA,2480 Westcliffe Ln B,94597
+2,2,San Diego,0,Condo/Townhome,32.7374,FOR SALE,-117.16,"$879,000","1,320",CA,3060 6th Avenue 14,92103
+2,4,Aliso Viejo,1,Condo/Townhome,33.574,FOR SALE,-117.732,"$759,000","1,865",CA,9 Nantucket Lane,92656
+2,3,Monrovia,1,Condo/Townhome,34.1462,FOR SALE,-118.002,"$648,000","1,820",CA,522 Date Court,91016
+2,4,Placentia,1,Condo/Townhome,33.8692,FOR SALE,-117.847,"$619,999","1,700",CA,1067 Moreno Way,92870
+2,3,Santa Ana,1,Condo/Townhome,33.7741,FOR SALE,-117.865,"$619,000","1,841",CA,442 E Jeanette Lane,92705
+3,3,San Marcos,1,Condo/Townhome,33.1445,FOR SALE,-117.17,"$559,000","1,647",CA,421 Mission Villas Road,92069
+3,3,Rancho Mirage,0,Condo/Townhome,33.789463,FOR SALE,-116.431908,"$539,000","3,489",CA,745 Inverness Drive,92270
+2,2,San Diego,1,Condo/Townhome,33.0501,FOR SALE,-117.069,"$539,000","1,366",CA,18582 Caminito Pasadero,92128
+2,2,Carlsbad,1,Condo/Townhome,33.127,FOR SALE,-117.242,"$525,000","1,322",CA,6170 Citracado Circle,92009
+1,2,Lomita,2,Condo/Townhome,33.7855,FOR SALE,-118.319,"$510,000","1,485",CA,26120 Narbonne Avenue J,90717
+1,2,Tustin,1,Condo/Townhome,33.7311,FOR SALE,-117.807,"$469,999","1,078",CA,13785 Browning Avenue 6,92780
+2,2,Orange,0,Condo/Townhome,33.7823,FOR SALE,-117.876,"$455,000","1,602",CA,400 S Flower Street 2,92868
+3,2,Los Angeles (City),0,Condo/Townhome,34.1014,FOR SALE,-118.32545,"$1,050,000","1,627",CA,6250 HOLLYWOOD Boulevard 6i,90028
+3,3,San Francisco,1,Condo/Townhome,37.730114,FOR SALE,-122.416885,"$1,049,000","1,693",CA,681 Sweeny Street,94134
+2,2,Solana Beach,0,Condo/Townhome,32.981,FOR SALE,-117.265,"$1,015,000","1,218",CA,234 Turf View Drive,92075
+2,2,San Diego,1,Condo/Townhome,32.7227,FOR SALE,-117.231,"$999,900","2,162",CA,3025 Byron 207,92106
+2,2,Santa Monica,0,Condo/Townhome,34.0251,FOR SALE,-118.502,"$999,800","1,145",CA,834 6th Street 101,90403
+2,3,Irvine,1,Condo/Townhome,33.737,FOR SALE,-117.751,"$880,000","1,772",CA,147 Rodeo,92602
+2,3,Irvine,1,Condo/Townhome,33.737,FOR SALE,-117.751,"$880,000","1,772",CA,147 Rodeo,92602
+2,2,West Hollywood,1,Condo/Townhome,34.08751,FOR SALE,-118.38422,"$879,000","1,340",CA,8839 CYNTHIA Street 6,90069
+2,3,San Juan Capistrano,1,Condo/Townhome,33.4905,FOR SALE,-117.642,"$865,000","2,159",CA,28197 Camino Del Rio,92675
+2,3,Laguna Woods,0,Condo/Townhome,33.6067,FOR SALE,-117.745,"$814,000","1,253",CA,3325 Via Carrizo C,92637
+2,2,Hawthorne,0,Condo/Townhome,33.9151,FOR SALE,-118.377,"$799,000","1,584",CA,12922 Union Avenue 402,90250
+2,2,Los Angeles (City),0,Condo/Townhome,0.0,FOR SALE,0.0,"$799,000","1,126",CA,1155 North LA CIENEGA 106,90069
+2,2,Dana Point,0,Condo/Townhome,33.4844,FOR SALE,-117.712,"$768,500","1,045",CA,23 Wightman Court,92629
+2,3,Ladera Ranch,1,Condo/Townhome,33.5564,FOR SALE,-117.642,"$745,000","1,703",CA,1 Potters Bend,92694
+2,3,Irvine,1,Condo/Townhome,33.7445,FOR SALE,-117.769,"$729,900","1,640",CA,38 Ardmore,92602
+2,3,Irvine,1,Condo/Townhome,33.7445,FOR SALE,-117.769,"$729,900","1,640",CA,38 Ardmore,92602
+2,2,San Diego,0,Condo/Townhome,32.7212,FOR SALE,-117.168,"$729,000","1,383",CA,1501 India Street 301,92101
+3,3,Tustin,0,Condo/Townhome,33.7041,FOR SALE,-117.802,"$699,000","1,607",CA,216 Liberty Street,92782
+3,3,Tustin,0,Condo/Townhome,33.7041,FOR SALE,-117.802,"$699,000","1,607",CA,216 Liberty Street,92782
+1,1,San Diego,0,Condo/Townhome,32.7587,FOR SALE,-117.083,"$264,900",609,CA,4466 Dawson Ave 5,92115
+1,2,Escondido,0,Condo/Townhome,33.1343,FOR SALE,-117.079,"$260,000","1,008",CA,907 N Fig Street F,92026
+1,1,San Diego,0,Condo/Townhome,32.7828,FOR SALE,-117.112,"$259,900",530,CA,5958 Rancho Mission Rd 209,92108
+2,2,Murrieta,0,Condo/Townhome,33.5424,FOR SALE,-117.168,"$254,900",890,CA,26368 Arboretum Way 3204,92563
+2,2,Palm Springs,0,Condo/Townhome,33.81779,FOR SALE,-116.51172,"$252,000","1,012",CA,401 South EL CIELO Road 39,92262
+2,2,Antioch,0,Condo/Townhome,38.0022,FOR SALE,-121.83,"$195,000",944,CA,2415 Horizon Ln 127,94509
+1,3,Fresno,1,Condo/Townhome,36.807298,FOR SALE,-119.731979,"$150,000","1,250",CA,4929 N Winery Circle Unit: 116,93726
+2,2,Indio,0,Condo/Townhome,33.704311,FOR SALE,-116.236885,"$134,000",942,CA,47395 Monroe Street 195,92201
+2,2,Paradise,0,Condo/Townhome,39.7635,FOR SALE,-121.613,"$84,900",973,CA,5975 Maxwell Drive 21,95969
+2,3,San Jose,1,Condo/Townhome,37.31631,FOR SALE,-121.76448,"$1,098,888","1,532",CA,4295 Voltaire Street,95135
+3,3,Oakdale,0,Condo/Townhome,37.736306,FOR SALE,-120.906716,"$779,000","2,751",CA,4849 Santa Fe Ave,95361
+1,1,La Jolla,0,Condo/Townhome,32.83978,FOR SALE,-117.27074,"$599,000",728,CA,7411 Herschel Ave 1D,92037
+2,2,Sacramento,1,Condo/Townhome,38.67975,FOR SALE,-121.5222,"$559,999","2,538",CA,2642 Aspen Valley Ln,95835
+3,4,San Diego,1,Condo/Townhome,32.625105796,FOR SALE,-117.020137099,"$519,000","2,034",CA,1251 Paseo Sea Breeze 20,92154
+2,3,Lathrop,1,Condo/Townhome,37.793173,FOR SALE,-121.31596,"$499,995","2,100",CA,936 River Bend Dr,95330
+2,2,Moorpark,1,Condo/Townhome,34.26578,FOR SALE,-118.89995,"$459,999","1,420",CA,11844 Barletta Pl,93021
+2,2,San Diego,0,Condo/Townhome,32.86355,FOR SALE,-117.20041,"$459,000",848,CA,7120 Shoreline 2207,92122
+3,5,Los Banos,0,Condo/Townhome,37.06798,FOR SALE,-120.8211,"$445,000","2,645",CA,2188 Naples Ct,93635
+2,3,San Diego,1,Condo/Townhome,32.563579616893,FOR SALE,-117.014237391114,"$410,000","1,686",CA,5426 Santa Alicia,92154
+2,4,Modesto,1,Condo/Townhome,37.60449,FOR SALE,-121.02422,"$336,900","2,387",CA,1705 St Charlotte Ln,95358
+2,2,Carlsbad,0,Condo/Townhome,33.1439,FOR SALE,-117.324,"$695,000","1,254",CA,4513 Cove Dr 5,92008
+2,3,Los Angeles (City),0,Condo/Townhome,34.06318,FOR SALE,-118.29448,"$680,000","1,480",CA,625 South BERENDO Street 307,90005
+2,3,Fremont,0,Condo/Townhome,37.5419,FOR SALE,-121.979,"$675,000","1,389",CA,4067 Murray Cmn 65,94538
+3,3,San Juan Capistrano,0,Condo/Townhome,33.4903,FOR SALE,-117.654,"$657,500","1,763",CA,27387 Paseo La Serna,92675
+2,4,La Mirada,1,Condo/Townhome,33.9208,FOR SALE,-117.995,"$629,500","2,016",CA,12203 Santa Gertrudes Avenue 30,90638
+3,4,Garden Grove,1,Condo/Townhome,33.7826,FOR SALE,-117.952,"$619,990","1,639",CA,12234 Greenleaf Lane,92840
+3,3,Alhambra,0,Condo/Townhome,34.0985,FOR SALE,-118.134,"$618,000","1,404",CA,511 N 3rd Street A,91801
+1,2,Walnut Creek,1,Condo/Townhome,37.9157,FOR SALE,-122.058,"$600,000","1,166",CA,450 Westcliffe Pl,94597
+2,3,Rancho Mission Viejo,1,Condo/Townhome,33.5253,FOR SALE,-117.621,"$599,900","1,648",CA,28 Sembrio Street,92694
+2,3,Mission Viejo,1,Condo/Townhome,33.6431,FOR SALE,-117.642,"$599,900","1,477",CA,22114 Antigua 206,92692
+1,2,San Diego,1,Condo/Townhome,32.7768,FOR SALE,-117.18,"$599,000","1,110",CA,6355 Caminito Del Cervato,92111
+2,3,Garden Grove,1,Condo/Townhome,33.7826,FOR SALE,-117.952,"$596,490","1,501",CA,12225 Greenleaf Lane,92840
+2,2,Irvine,1,Condo/Townhome,33.6817,FOR SALE,-117.755,"$588,000","1,172",CA,88 Bronze Leaf,92620
+3,4,Covina,0,Condo/Townhome,34.0953,FOR SALE,-117.844,"$579,000","1,730",CA,2190 E Cypress Street,91724
+3,4,Canyon Country,0,Condo/Townhome,34.4322,FOR SALE,-118.412,"$575,900","2,336",CA,28977 Sam Place,91387
+3,3,Valencia,0,Condo/Townhome,34.4429,FOR SALE,-118.569,"$575,000","1,936",CA,24350 Lorenzo Lane,91355
+2,3,North Hollywood,1,Condo/Townhome,34.173,FOR SALE,-118.381,"$575,000","1,369",CA,5625 Farmdale Avenue 11,91601
+2,3,Laguna Niguel,0,Condo/Townhome,33.5039,FOR SALE,-117.72,"$560,000","1,219",CA,31624 W Nine Drive GL109,92677
+2,3,Laguna Niguel,0,Condo/Townhome,33.5039,FOR SALE,-117.72,"$560,000","1,219",CA,31624 W Nine Drive GL109,92677
+1,2,Culver City,0,Condo/Townhome,34.0084,FOR SALE,-118.396,"$550,000",980,CA,4900 Overland Avenue 291,90230
+5,5,Valley Springs,2,Condo/Townhome,38.13655,FOR SALE,-120.9368,"$795,000","6,092",CA,8222 Center Dr.,95252
+1,2,San Jose,0,Condo/Townhome,37.25653,FOR SALE,-121.84106,"$625,000",942,CA,5425 Colony Green Drive,95123
+3,4,Galt,1,Condo/Townhome,38.26272,FOR SALE,-121.32061,"$520,000","2,939",CA,414 Alpen Rose Way,95632
+3,4,Roseville,0,Condo/Townhome,38.75295,FOR SALE,-121.31971,"$499,000","2,150",CA,2227 Longview Dr,95747
+2,2,Torrance,0,Condo/Townhome,33.87336,FOR SALE,-118.3144,"$499,000","1,091",CA,2025 Artesia Boulevard A,90504
+1,2,Irvine,0,Condo/Townhome,33.6867,FOR SALE,-117.81123,"$475,000",917,CA,900  Solvay Aisle,92606
+2,3,Chula Vista,1,Condo/Townhome,32.63742,FOR SALE,-116.99641,"$450,000","1,653",CA,1511 Apache Dr A,91910
+2,2,Port Hueneme,0,Condo/Townhome,34.17829,FOR SALE,-119.19896,"$435,000","1,145",CA,210 E Bay Blvd,93041
+2,4,Stockton,1,Condo/Townhome,38.05291,FOR SALE,-121.38831,"$434,900","2,140",CA,10516 Clarks Fork Cir,95219
+3,3,El Monte,0,Condo/Townhome,34.09095,FOR SALE,-118.04058,"$428,888","1,206",CA,10451 Mulhall St. # 19,91731
+2,3,Simi Valley,1,Condo/Townhome,34.28656,FOR SALE,-118.70994,"$419,000","1,540",CA,4359 Alamo St,93063
+2,4,Oakdale,1,Condo/Townhome,37.77784,FOR SALE,-120.83935,"$383,999","2,089",CA,674 Peachcrest Dr,95361
+1,2,Torrance,0,Condo/Townhome,33.81373,FOR SALE,-118.2949,"$369,000",796,CA,23300 Marigold Avenue Z201,90502
+1,5,Turlock,0,Condo/Townhome,37.48306,FOR SALE,-120.84717,"$349,900","2,068",CA,810 W F St,95380
+1,2,La Mesa,1,Condo/Townhome,32.78355,FOR SALE,-117.03497,"$314,999","1,068",CA,5700 Baltimore Dr 76,91942
+2,3,Turlock,0,Condo/Townhome,37.51583,FOR SALE,-120.86394,"$299,900","1,402",CA,1360 Campbell Way,95382
+1,2,Hilmar,0,Condo/Townhome,37.41124,FOR SALE,-120.852,"$220,000","1,125",CA,20109 American Ave,95324
+1,2,Sacramento,1,Condo/Townhome,38.67159,FOR SALE,-121.35744,"$95,000",933,CA,5718 Hillsdale Blvd,95842
+2,3,Rosamond,0,Condo/Townhome,34.86183,FOR SALE,-118.2105,"$45,000","1,536",CA,4500 W Rosamond Blvd Spc 7a,93560
+2,3,La Jolla,0,Condo/Townhome,32.83932,FOR SALE,-117.28138,"$6,500,000","2,738",CA,202 Coast Bld 3,92037
+1,1,Tustin,1,Condo/Townhome,33.7126,FOR SALE,-117.819,"$499,000","1,391",CA,15231 Cambridge Street,92782
+2,2,Anaheim,0,Condo/Townhome,33.8296,FOR SALE,-117.906,"$499,000","1,203",CA,714 S Casita Street,92805
+2,2,North Hollywood,0,Condo/Townhome,34.1588,FOR SALE,-118.375,"$499,000",974,CA,11230 Peach Grove Street 105,91601
+2,2,San Luis Obispo,1,Condo/Townhome,35.2607,FOR SALE,-120.694,"$485,000","1,369",CA,1106 Oceanaire Drive 26,93405
+4,4,chula Vista,1,Condo/Townhome,32.6377,FOR SALE,-117.081,"$479,900","2,430",CA,368 Park Way Unit 4,91910
+2,3,Chula Vista,1,Condo/Townhome,32.6336,FOR SALE,-116.94,"$475,000","1,646",CA,2737 Crown Ridge Road 2,91915
+2,2,San Diego,0,Condo/Townhome,32.9502,FOR SALE,-117.109,"$474,900","1,056",CA,9971 Paseo Montril,92129
+2,3,Tarzana,0,Condo/Townhome,34.1704,FOR SALE,-118.528,"$469,000","1,464",CA,18134 Killion Street 1,91356
+2,2,Valencia,0,Condo/Townhome,34.4391,FOR SALE,-118.556,"$465,000","1,352",CA,27461 Acacia Drive,91354
+2,2,Valencia,0,Condo/Townhome,34.4397,FOR SALE,-118.556,"$465,000","1,352",CA,24014 Cottage Circle Drive,91354
+3,3,Panorama City,0,Condo/Townhome,34.2366,FOR SALE,-118.452,"$459,000","1,840",CA,9141 Tobias Avenue A,91402
+2,2,Laguna Hills,0,Condo/Townhome,33.6234,FOR SALE,-117.744,"$449,900","1,368",CA,23346 Caminito Los Pocitos 125,92653
+3,3,Stevenson Ranch,0,Condo/Townhome,34.3898,FOR SALE,-118.579,"$449,900","1,232",CA,25781 Perlman Place B,91381
+3,2,Valley Glen,0,Condo/Townhome,34.1936,FOR SALE,-118.438,"$449,900","1,094",CA,14018 Vanowen Street 7,91405
+1,1,Burbank,0,Condo/Townhome,34.1513,FOR SALE,-118.343,"$449,000",768,CA,151 N Maple Street 208,91505
+1,2,Los Alamitos,0,Condo/Townhome,33.7996,FOR SALE,-118.066,"$448,000",900,CA,3845 Farquhar Avenue 308,90720
+2,2,Seal Beach,0,Condo/Townhome,33.7829,FOR SALE,-118.076,"$445,000","1,220",CA,12400 Montecito Road 307,90740
+2,2,Seal Beach,0,Condo/Townhome,33.7829,FOR SALE,-118.076,"$445,000","1,220",CA,12400 Montecito Road 307,90740
+1,2,Orange,1,Condo/Townhome,33.795,FOR SALE,-117.859,"$430,000","1,190",CA,700 W Walnut Avenue 14,92868
+2,3,Hacienda Heights,1,Condo/Townhome,33.9985,FOR SALE,-117.941,"$429,000","1,187",CA,1452 Forest Glen Drive 27,91745
+1,2,Lemon Grove,0,Condo/Townhome,32.74056,FOR SALE,-117.04346,"$310,000","1,026",CA,3224 Massachusetts Ave Unit 6,91945
+1,1,Ojai,0,Condo/Townhome,34.4225,FOR SALE,-119.29131,"$269,900",666,CA,"848 Woodland Ave, Unit 19",93023
+1,1,Oceanside,0,Condo/Townhome,33.2461,FOR SALE,-117.2824,"$265,000",762,CA,5070 Via Manos E,92057
+2,3,Jackson,0,Condo/Townhome,38.34462,FOR SALE,-120.76189,"$248,000","1,466",CA,511 Clinton Road,95642
+2,2,Chester,0,Condo/Townhome,40.29472,FOR SALE,-121.23827,"$239,000","1,246",CA,243 Watson Road,96020
+1,2,Desert Hot Springs,0,Condo/Townhome,33.97798,FOR SALE,-116.54139,"$71,900",829,CA,9643  Spyglass Avenue 37,92240
+2,2,Pacific Palisades,0,Condo/Townhome,34.04025,FOR SALE,-118.55441,"$2,750,000","2,041",CA,17351 West SUNSET 2A,90272
+2,2,San Francisco,1,Condo/Townhome,37.786072,FOR SALE,-122.392609,"$2,050,000","1,724",CA,489 Harrison Street Unit: #306,94105
+5,5,Huntington Beach,1,Condo/Townhome,33.6513,FOR SALE,-117.983,"$1,988,000","4,142",CA,21391 Abigail Ln,92646
+5,5,Huntington Beach,1,Condo/Townhome,33.6513,FOR SALE,-117.983,"$1,988,000","4,142",CA,21391 Abigail Ln,92646
+2,2,San Diego,1,Condo/Townhome,32.7193,FOR SALE,-117.171,"$1,595,000","1,811",CA,1325 Pacific Hwy 2201,92101
+3,3,Los Angeles (City),0,Condo/Townhome,34.06061,FOR SALE,-118.42469,"$1,559,000","2,900",CA,1520 South BEVERLY GLEN 208,90024
+3,4,Huntington Beach,0,Condo/Townhome,33.7283,FOR SALE,-118.064,"$1,325,000","2,044",CA,16108 Tortola Circle,92649
+2,3,Irvine,0,Condo/Townhome,33.6439,FOR SALE,-117.812,"$1,175,000","2,200",CA,25 Canyon Ridge,92603
+3,3,mammoth lakes,0,Condo/Townhome,37.6511,FOR SALE,-118.986,"$1,099,000","1,457",CA,1111 Forest Trail #1311 Grand Sierra Lodge #1311,93546
+2,2,Malibu,0,Condo/Townhome,34.0433,FOR SALE,-118.572,"$1,065,000","1,032",CA,18203 Coastline Drive 9,90265
+2,3,Los Angeles (City),1,Condo/Townhome,34.0414,FOR SALE,-118.45875,"$940,000","1,460",CA,1529 South WESTGATE Avenue 101,90025
+2,2,Dana Point,0,Condo/Townhome,33.4836,FOR SALE,-117.713,"$895,000","1,357",CA,17 Centre Court 86,92629
+2,2,Los Angeles,0,Condo/Townhome,34.0456,FOR SALE,-118.259,"$870,000","1,360",CA,801 S. Grand Ave. 1502,90017
+1,1,Livingston,0,Condo/Townhome,37.38999,FOR SALE,-120.71888,"$159,000",324,CA,1544 Swan St,95334
+2,2,Los Angeles,1,Condo/Townhome,34.05637,FOR SALE,-118.41477,"$4,150,000","2,520",CA,1 W Century Dr Unit 27D,90067
+3,2,Malibu,0,Condo/Townhome,34.04873,FOR SALE,-118.95302,"$1,395,000","1,337",CA,11952 Whalers Ln,90265
+2,3,Carlsbad,0,Condo/Townhome,33.1608,FOR SALE,-117.3527,"$1,310,000","2,367",CA,2744 Carlsbad Blvd 203,92008
+2,2,Encino,1,Condo/Townhome,34.1575,FOR SALE,-118.50016,"$1,200,000","2,267",CA,4720 Park Encino Ln Unit 120,91436
+2,2,Beverly Hills,1,Condo/Townhome,34.07615,FOR SALE,-118.39079,"$979,000","1,552",CA,410 N Oakhurst Dr Apt 102,90210
+2,3,Santa Cruz,1,Condo/Townhome,36.97721,FOR SALE,-122.04922,"$949,500","1,855",CA,104 Village Cir,95060
+1,2,Los Angeles,0,Condo/Townhome,34.11248,FOR SALE,-118.28639,"$915,000","1,005",CA,4411 Los Feliz Unit 902,90027
+2,3,Los Angeles,1,Condo/Townhome,34.04167,FOR SALE,-118.45324,"$819,000","1,508",CA,11652 Iowa Ave Unit 1,90025
+4,5,Covina,0,Condo/Townhome,34.074211,FOR SALE,-117.865611,"$798,000","2,297",CA,850 S Forest Hills Drive,91724
+2,3,Fortuna,1,Condo/Townhome,40.57569,FOR SALE,-124.12767,"$795,000","2,549",CA,1155 Huffman Drive,95540
+4,4,Irvine,0,Condo/Townhome,33.70111,FOR SALE,-117.7301,"$788,800","1,929",CA,118 Capricorn,92618
+2,4,Monrovia,1,Condo/Townhome,34.14532,FOR SALE,-118.01875,"$769,950","1,408",CA,902 W Colorado Boulevard #D,91016
+2,4,Monrovia,1,Condo/Townhome,34.14532,FOR SALE,-118.01875,"$769,950","1,408",CA,902 W Colorado Boulevard #B,91016
+2,3,Monrovia,1,Condo/Townhome,34.14532,FOR SALE,-118.01875,"$749,950","1,318",CA,902 W Colorado Boulevard #C,91016
+2,3,Monrovia,1,Condo/Townhome,34.14532,FOR SALE,-118.01875,"$749,950","1,318",CA,902 W Colorado Boulevard #A,91016
+2,4,Rosemead,1,Condo/Townhome,34.08557,FOR SALE,-118.0827,"$729,000","1,830",CA,4445 Walnut Grove Avenue,91770
+3,4,Los Angeles,1,Condo/Townhome,34.08062,FOR SALE,-118.16265,"$715,000","2,183",CA,2979 Lowell Avenue,90032
+3,3,La Quinta,1,Condo/Townhome,33.65146,FOR SALE,-116.2627,"$649,000","3,054",CA,54873 Inverness Way,92253
+1,1,Santa Clara,0,Condo/Townhome,37.32592,FOR SALE,-121.97147,"$649,000",656,CA,121 Buckingham Dr 46,95051
+1,2,Upland,1,Condo/Townhome,34.0906,FOR SALE,-117.676,"$290,000",994,CA,305 Spencer Avenue 125,91786
+1,2,El Cajon,0,Condo/Townhome,32.8165,FOR SALE,-116.96,"$280,000",745,CA,1423 Graves Ave 147,92021
+1,2,Ontario,0,Condo/Townhome,34.083,FOR SALE,-117.613,"$275,000",816,CA,1360 N Placer Avenue,91764
+1,2,Ontario,0,Condo/Townhome,34.082,FOR SALE,-117.613,"$275,000",816,CA,1324 N Placer Avenue,91764
+1,1,Long Beach,0,Condo/Townhome,33.7723,FOR SALE,-118.176,"$259,000",521,CA,416 Orange Avenue 6,90802
+1,2,Palm Springs,1,Condo/Townhome,33.84721,FOR SALE,-116.54993,"$250,000","1,088",CA,345 West MARISCAL Road,92262
+1,2,South Lake Tahoe,0,Condo/Townhome,38.944305,FOR SALE,-119.970032,"$220,000",812,CA,3344 Sandy Way Unit: 6,96150
+1,1,Corona,0,Condo/Townhome,33.8641,FOR SALE,-117.597,"$199,950",731,CA,1565 Border Avenue G,92882
+2,2,Irvine,0,Condo/Townhome,33.6586,FOR SALE,-117.83086,"$735,000","1,507",CA,9  Madrona,92612
+4,5,Modesto,0,Condo/Townhome,37.70202,FOR SALE,-121.03849,"$525,000","3,497",CA,4209 Penninsula Dr,95356
+2,2,Torrance,0,Condo/Townhome,33.820463,FOR SALE,-118.341895,"$520,000","1,117",CA,22904 Nadine Circle A,90505
+2,4,Modesto,1,Condo/Townhome,37.60439,FOR SALE,-121.01516,"$278,900","1,610",CA,1601 Waterloo Ct,95358
+2,2,San Francisco,1,Condo/Townhome,37.75564,FOR SALE,-122.44339,"$1,149,000","1,300",CA,672 Corbett Ave Apt B,94114
+2,2,Pacific Grove,0,Condo/Townhome,36.60386,FOR SALE,-121.92273,"$837,000","1,404",CA,50 Glen Lake Dr,93950
+2,2,San Diego,0,Condo/Townhome,32.72125,FOR SALE,-117.16784,"$720,000","1,540",CA,1501 India St.,92101
+2,3,Greenbrae,0,Condo/Townhome,37.94751,FOR SALE,-122.53321,"$699,000","1,130",CA,840 Via Casitas,94904
+2,2,Irvine,0,Condo/Townhome,33.68046,FOR SALE,-117.75615,"$625,000","1,182",CA,110 Evening Sun,92620
+2,3,Carlsbad,0,Condo/Townhome,33.11456,FOR SALE,-117.2316,"$612,000","1,406",CA,6480 Terraza Portico,92009
+2,2,Pasadena,0,Condo/Townhome,34.13734,FOR SALE,-118.1372,"$469,000","1,019",CA,497 South El Molino Avenue #310,91101
+2,2,Thousand Oaks,1,Condo/Townhome,34.180286,FOR SALE,-118.850154,"$469,900","1,361",CA,192 Helecho Court,91362
+2,3,Torrance,1,Condo/Townhome,33.8198,FOR SALE,-118.304,"$459,000","1,340",CA,1520 W 227th Street 7,90501
+3,4,Saugus,0,Condo/Townhome,34.4659,FOR SALE,-118.533,"$434,995","1,146",CA,28343 Seco Canyon Road 101,91390
+2,2,Diamond Bar,1,Condo/Townhome,34.0297,FOR SALE,-117.792,"$419,900","1,145",CA,24206 Sylvan Glen Road C,91765
+2,2,Seal Beach,0,Condo/Townhome,33.7852,FOR SALE,-118.075,"$410,000","1,010",CA,12200 Montecito Road D123,90740
+3,3,Canyon Country,0,Condo/Townhome,34.4053,FOR SALE,-118.454,"$395,000","1,419",CA,27007 Karns Court 2402,91387
+2,2,Ventura,1,Condo/Townhome,34.283891,FOR SALE,-119.179022,"$389,000","1,330",CA,9540 Telegraph Road 3,93004
+3,3,Rancho Mirage,0,Condo/Townhome,33.7938,FOR SALE,-116.434,"$365,000","2,380",CA,34910 Mission Hills Drive,92270
+1,2,Inglewood,0,Condo/Townhome,33.97325,FOR SALE,-118.35888,"$365,000",856,CA,800 North EUCALYPTUS Avenue 204,90302
+1,1,San Diego,0,Condo/Townhome,32.7159,FOR SALE,-117.151,"$359,900",795,CA,1480 Broadway 2319,92101
+1,2,Santa Ana,1,Condo/Townhome,33.7567,FOR SALE,-117.842,"$349,900","1,101",CA,1344 Cabrillo Park Drive F,92701
+2,2,Long Beach,0,Condo/Townhome,33.7866,FOR SALE,-118.192,"$299,000",799,CA,1566 Pine Avenue 106A,90813
+1,1,San Diego,0,Condo/Townhome,32.9624,FOR SALE,-117.1,"$285,000",572,CA,10369 Azuaga St 159,92129
+2,2,Oceanside,0,Condo/Townhome,33.2463,FOR SALE,-117.315,"$280,000",912,CA,194 Avenida Descanso C,92057
+2,2,Palm Springs,0,Condo/Townhome,33.828705,FOR SALE,-116.540878,"$279,000","1,618",CA,411 Rio Vista,92262
+2,2,Palm Desert,0,Condo/Townhome,33.753853,FOR SALE,-116.320404,"$262,000","1,294",CA,40481 Pebble Beach Circle 12-5,92211
+3,4,Quartz Hill,0,Condo/Townhome,34.664344,FOR SALE,-118.212987,"$659,900","2,754",CA,4621 W Ave K12,93536
+2,4,Moorpark,0,Condo/Townhome,34.29636,FOR SALE,-118.84673,"$439,900","1,455",CA,15110 Marquette St C,93021
+2,2,Oceanside,1,Condo/Townhome,33.1609,FOR SALE,-117.266,"$719,000","1,899",CA,4744 Galicia Way,92056
+2,2,Newport Beach,0,Condo/Townhome,33.625,FOR SALE,-117.933,"$703,000","1,392",CA,101 Scholz 235,92663
+2,2,Burbank,0,Condo/Townhome,34.1762,FOR SALE,-118.302,"$699,000","1,380",CA,750 S San Fernando Boulevard 105,91502
+2,3,San Diego,0,Condo/Townhome,32.7182,FOR SALE,-117.168,"$695,000","1,281",CA,1240 India St 702,92101
+2,2,La Jolla,0,Condo/Townhome,32.84,FOR SALE,-117.276,"$689,000",938,CA,7509 Draper Ave 305,92037
+2,3,San Diego,0,Condo/Townhome,32.8611,FOR SALE,-117.225,"$675,000","1,322",CA,4150 Porte De Palmas 11,92122
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6547,FOR SALE,-117.583,"$638,800","1,475",CA,17 Calle Katrina,92688
+2,3,Carlsbad,1,Condo/Townhome,33.1146,FOR SALE,-117.232,"$625,000","1,406",CA,6468 Terraza Portico,92009
+2,3,Orange,1,Condo/Townhome,33.8343,FOR SALE,-117.8,"$620,000","1,500",CA,5034 E Hunsford Drive C,92867
+1,1,Irvine,1,Condo/Townhome,33.6771,FOR SALE,-117.849,"$619,500","1,426",CA,513 Rockefeller,92612
+2,2,Culver City,0,Condo/Townhome,34.00308,FOR SALE,-118.39121,"$619,000",942,CA,4923 MAYTIME Lane,90230
+2,2,Costa Mesa,1,Condo/Townhome,33.6501,FOR SALE,-117.913,"$615,000","1,294",CA,335 Sydney Lane 335,92627
+3,3,Lawndale,0,Condo/Townhome,33.8891,FOR SALE,-118.348,"$599,900","1,962",CA,15616 Freeman Avenue A,90260
+3,4,Ventura,0,Condo/Townhome,34.287805,FOR SALE,-119.151163,"$589,000","2,418",CA,11180 Darling Road,93004
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6168,FOR SALE,-117.612,"$579,900","1,397",CA,54 Rabano,92688
+2,3,Simi Valley,1,Condo/Townhome,34.2515,FOR SALE,-118.815,"$565,000","1,504",CA,717 Congressional Road,93065
+2,3,Moorpark,1,Condo/Townhome,34.2764,FOR SALE,-118.879,"$564,900","1,792",CA,4796 Dartmoor Court,93021
+2,3,Orange,1,Condo/Townhome,33.8389,FOR SALE,-117.855,"$560,000","1,506",CA,386 W Mountain Holly Avenue,92865
+2,3,Orange,1,Condo/Townhome,33.8389,FOR SALE,-117.855,"$560,000","1,506",CA,386 W Mountain Holly Avenue,92865
+2,3,Woodland Hills,1,Condo/Townhome,34.1834,FOR SALE,-118.612,"$559,900","1,568",CA,22271 Erwin Street,91367
+3,5,Palmdale,0,Condo/Townhome,34.57443,FOR SALE,-118.00584,"$365,000","3,335",CA,38119 Aidea St,93552
+2,4,Los Banos,0,Condo/Townhome,37.06938,FOR SALE,-120.85023,"$315,000","1,876",CA,203 Lime Ave,93635
+2,2,Laguna Woods,0,Condo/Townhome,33.61794,FOR SALE,-117.71733,"$250,000","1,009",CA,2271-C Via Puerta,92637
+2,1,Mariposa,0,Condo/Townhome,37.48613,FOR SALE,-119.83302,"$225,000","1,008",CA,5521 Clouds Rest,95338
+1,2,Marysville,1,Condo/Townhome,39.160323,FOR SALE,-121.565832,"$125,000","1,152",CA,1181 E 22nd St,95901
+2,3,Santa Monica,1,Condo/Townhome,34.02402,FOR SALE,-118.509,"$5,950,000","2,694",CA,603 Ocean Ave Unit 4A,90402
+3,5,San Francisco,1,Condo/Townhome,37.77998,FOR SALE,-122.49368,"$1,398,000","2,397",CA,499 33rd Avenue Unit 305,94121
+1,1,Santa Monica,1,Condo/Townhome,33.99826,FOR SALE,-118.4816,"$1,249,000","1,081",CA,2960 Neilson Way Unit 204,90405
+3,4,Los Angeles,0,Condo/Townhome,34.04059,FOR SALE,-118.44579,"$1,195,000","2,196",CA,1930 Purdue Ave Unit 7,90025
+2,2,Los Angeles,0,Condo/Townhome,34.04749,FOR SALE,-118.24903,"$1,165,000","1,268",CA,460 S Spring St Unit 102,90013
+1,1,San Francisco,0,Condo/Townhome,37.78095,FOR SALE,-122.39155,"$1,095,000","1,378",CA,650 2nd Street Unit 302,94107
+2,3,Irvine,1,Condo/Townhome,33.64621,FOR SALE,-117.775,"$998,888","2,073",CA,103 Canopy,92603
+3,2,Los Angeles,0,Condo/Townhome,34.05172,FOR SALE,-118.4308,"$949,000","1,863",CA,1815 Manning Ave Unit 202,90025
+1,4,San Jose,1,Condo/Townhome,37.38107,FOR SALE,-121.87051,"$914,888","1,452",CA,1240 Whitfield Ct,95131
+2,3,Corte Madera,0,Condo/Townhome,37.91864,FOR SALE,-122.50373,"$900,000","1,508",CA,17 Mariner Green Drive,94925
+2,2,Los Angeles,1,Condo/Townhome,34.0829,FOR SALE,-118.33185,"$799,000","1,848",CA,637 Wilcox Ave Unit 2D,90004
+2,2,Los Angeles,1,Condo/Townhome,34.07188,FOR SALE,-118.31211,"$795,000","1,543",CA,140 S Gramercy Pl Unit 7,90004
+2,2,San Jose,1,Condo/Townhome,37.25822,FOR SALE,-121.84288,"$699,999","1,294",CA,5358 Colony Field Dr,95123
+2,3,Lake Forest,1,Condo/Townhome,33.6417,FOR SALE,-117.672,"$539,900","1,351",CA,26368 Spring Creek Circle 52,92630
+3,3,Tarzana,0,Condo/Townhome,34.1796,FOR SALE,-118.53,"$520,000","1,745",CA,6020 Etiwanda Avenue 120,91356
+2,3,Clio,1,Condo/Townhome,39.7181,FOR SALE,-120.537,"$519,000","2,350",CA,52 Hawk Ridge,96103
+2,2,San Diego,0,Condo/Townhome,32.7214,FOR SALE,-117.164,"$519,000","1,058",CA,1501 Front St 216,92101
+2,3,Downey,0,Condo/Townhome,33.93,FOR SALE,-118.113,"$515,000","1,745",CA,9557 Firestone Boulevard A,90241
+2,2,Pasadena,0,Condo/Townhome,34.1474,FOR SALE,-118.126,"$515,000",913,CA,77 N Michigan Avenue 11,91106
+2,3,Downey,1,Condo/Townhome,33.9369,FOR SALE,-118.148,"$499,000","1,712",CA,7604 Stewart And Gray Road A,90241
+2,3,Garden Grove,0,Condo/Townhome,33.7882,FOR SALE,-117.912,"$499,000","1,343",CA,12664 Chapman Avenue 1404,92840
+2,2,Glendora,0,Condo/Townhome,34.1273,FOR SALE,-117.819,"$498,800","1,358",CA,2431 E Curtis Court,91741
+3,3,Chula Vista,0,Condo/Townhome,32.6201,FOR SALE,-116.958,"$498,000","1,874",CA,1731 Rolling Water Dr 3,91915
+2,2,Simi Valley,0,Condo/Townhome,34.2542,FOR SALE,-118.809441,"$485,000","1,366",CA,485 Country Club Drive 224,93065
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6198,FOR SALE,-117.62,"$484,999","1,083",CA,3 Alondra,92688
+2,2,Glendora,0,Condo/Townhome,34.135,FOR SALE,-117.839,"$484,000","1,174",CA,126 Oak Forest Circle,91741
+2,2,Anaheim Hills,0,Condo/Townhome,33.8571,FOR SALE,-117.73,"$479,900",998,CA,944 S Prescott Place,92808
+2,2,Glendale,1,Condo/Townhome,34.153759,FOR SALE,-118.267715,"$479,000",970,CA,620 W Doran Street 7,91203
+2,3,Van Nuys,1,Condo/Townhome,34.1892,FOR SALE,-118.458,"$469,900","1,620",CA,14903 Hamlin Street,91411
+2,3,Lakewood,1,Condo/Townhome,33.841,FOR SALE,-118.079,"$449,900","1,210",CA,20809 Seine Avenue 4,90715
+1,2,Hayward,0,Condo/Townhome,37.6269,FOR SALE,-122.095,"$449,000",936,CA,2431 Oliver Dr,94545
+3,3,Santa Ana,0,Condo/Townhome,33.7484,FOR SALE,-117.92,"$447,200","1,495",CA,1416 N. Harbor Blvd 2,92703
+3,3,Santa Ana,0,Condo/Townhome,33.7484,FOR SALE,-117.92,"$447,200","1,495",CA,1446 N. Harbor Blvd 4,92703
+3,3,South San Francisco,0,Condo/Townhome,37.6659851,FOR SALE,-122.4455719,"$998,000","1,580",CA,1279 Mission Road,94080
+2,3,San Jose,0,Condo/Townhome,37.28644,FOR SALE,-121.84237,"$570,000","1,094",CA,291 Kenbrook CIR,95111
+3,3,Coronado,0,Condo/Townhome,32.6806,FOR SALE,-117.179,"$6,500,000","2,034",CA,1500 Orange Avenue Cottage 9,92118
+1,1,Coronado,0,Condo/Townhome,32.6806,FOR SALE,-117.179,"$4,500,000","1,085",CA,1500 Orange Avenue Cottage 10,92118
+4,4,Venice,1,Condo/Townhome,33.99075,FOR SALE,-118.46852,"$3,295,000","3,110",CA,1219 CABRILLO Avenue,90291
+3,3,Hermosa Beach,1,Condo/Townhome,33.8625,FOR SALE,-118.396,"$2,199,000","2,250",CA,1102 Cypress,90266
+3,3,Santa Monica,0,Condo/Townhome,34.0273,FOR SALE,-118.496,"$1,995,000","2,034",CA,931 10th Street B,90403
+2,3,Beverly Hills,1,Condo/Townhome,34.06257,FOR SALE,-118.39827,"$1,959,000","2,285",CA,261 South REEVES Drive 101,90212
+2,2,Los Angeles,1,Condo/Townhome,34.0609,FOR SALE,-118.437,"$1,649,500","1,723",CA,10727 Wilshire Boulevard 606,90024
+3,4,Newport Coast,1,Condo/Townhome,33.6074,FOR SALE,-117.809,"$1,565,000","2,400",CA,54 Talmont,92657
+3,3,Manhattan Beach,0,Condo/Townhome,33.88799,FOR SALE,-118.38834,"$1,349,000","1,670",CA,1440 12TH Street D,90266
+3,3,Hermosa Beach,0,Condo/Townhome,33.8563,FOR SALE,-118.389,"$1,299,000","1,814",CA,937 1st Street A,90254
+3,3,Costa Mesa,1,Condo/Townhome,33.6509,FOR SALE,-117.919,"$1,257,000","2,362",CA,2105 Two Harbors Circle,92627
+3,3,Newport Beach,0,Condo/Townhome,33.6231,FOR SALE,-117.942,"$1,250,000","1,814",CA,5025 River Avenue 2,92663
+2,3,Redondo Beach,1,Condo/Townhome,33.8302,FOR SALE,-118.388,"$1,249,000","2,200",CA,718 S Catalina Avenue 4,90277
+3,4,Redondo Beach,0,Condo/Townhome,33.8707,FOR SALE,-118.37,"$1,185,000","1,973",CA,2310 Carnegie Lane A,90278
+2,2,Marina del Rey,0,Condo/Townhome,33.989,FOR SALE,-118.439,"$939,000","1,370",CA,4211 Redwood Avenue 409,90066
+2,2,Los Angeles (City),0,Condo/Townhome,34.057485502,FOR SALE,-118.410662935,"$939,000","1,066",CA,2160 Century Park East 609,90067
+2,2,Rancho Palos Verdes,1,Condo/Townhome,33.7625,FOR SALE,-118.415,"$925,000","1,767",CA,1005 Estrella Del Mar,90275
+3,3,Danville,0,Condo/Townhome,37.7851,FOR SALE,-121.968,"$920,000","1,971",CA,2213 Shoshone Cir,94526
+1,1,Simi Valley,0,Condo/Townhome,34.287423,FOR SALE,-118.706051,"$245,000",531,CA,4557 Alamo Street A,93063
+2,2,Ontario,0,Condo/Townhome,34.0557,FOR SALE,-117.673,"$243,691",845,CA,1309 W Mission Boulevard U-27,91762
+1,2,Ventura,0,Condo/Townhome,34.262393,FOR SALE,-119.217864,"$235,000",873,CA,1300 Saratoga Avenue 1207,93003
+2,3,Palm Desert,0,Condo/Townhome,33.736656,FOR SALE,-116.372203,"$205,000","1,122",CA,265 Via Rengo,92260
+2,2,Palm Springs,0,Condo/Townhome,33.79623,FOR SALE,-116.52008,"$169,000","1,200",CA,2210 South CALLE PALO FIERRO 32,92264
+1,1,Chico,0,Condo/Townhome,39.7349,FOR SALE,-121.833,"$154,000",702,CA,555 Vallombrosa Avenue 88,95926
+2,2,Apple Valley,0,Condo/Townhome,34.463,FOR SALE,-117.245,"$99,900",848,CA,19109 Palo Verde Drive,92308
+2,3,Santa Clara,1,Condo/Townhome,37.35592,FOR SALE,-121.95173,"$1,348,888","1,661",CA,1278 Warburton Avenue,95050
+2,3,Santa Clara,1,Condo/Townhome,37.35583,FOR SALE,-121.95195,"$1,298,888","1,661",CA,1298 Warburton Avenue,95050
+2,3,Irvine,1,Condo/Townhome,33.68946,FOR SALE,-117.7376,"$1,098,000","2,269",CA,149 Follyhatch,92618
+4,3,Arcadia,0,Condo/Townhome,34.13317,FOR SALE,-118.03014,"$998,000","2,408",CA,"28 Fano St., #D",91006
+3,4,Artesia,0,Condo/Townhome,33.86312,FOR SALE,-118.07396,"$890,000","1,926",CA,12115 186th,90701
+3,4,Lodi,0,Condo/Townhome,38.13253,FOR SALE,-121.30702,"$499,000","2,514",CA,2565 Paradise Dr,95242
+2,2,Camarillo,1,Condo/Townhome,34.20058,FOR SALE,-118.98304,"$464,900","1,465",CA,6280 Paseo Encantada,93012
+2,3,Turlock,0,Condo/Townhome,37.5298,FOR SALE,-120.84597,"$399,000","1,863",CA,4024 St George Pl,95382
+2,4,Patterson,1,Condo/Townhome,37.46807,FOR SALE,-121.14574,"$374,990","2,238",CA,1139 Kestrel Dr,95363
+2,3,Sacramento,0,Condo/Townhome,38.68252,FOR SALE,-121.50364,"$359,000","1,492",CA,1892 Dawnelle Way,95835
+2,3,Lancaster,0,Condo/Townhome,34.70002,FOR SALE,-118.184718,"$350,000","1,770",CA,44953 Shad St,93536
+1,1,Culver City,0,Condo/Townhome,33.98243,FOR SALE,-118.38987,"$456,000",863,CA,5875 DOVERWOOD Drive 108,90230
+2,2,Santa Ana,0,Condo/Townhome,33.7009,FOR SALE,-117.905,"$455,000",907,CA,3500 S Greenville Street G16,92704
+2,3,Santa Ana,0,Condo/Townhome,33.7085,FOR SALE,-117.904,"$449,000","1,284",CA,2910 S Greenville Street I,92704
+2,2,Lake Forest,0,Condo/Townhome,33.659,FOR SALE,-117.673,"$429,900","1,000",CA,26342 Forest Ridge 3C,92630
+2,2,Long Beach,0,Condo/Townhome,33.8392,FOR SALE,-118.182,"$425,000","1,328",CA,4505 California Avenue 504,90807
+2,2,Long Beach,0,Condo/Townhome,33.8392,FOR SALE,-118.182,"$425,000","1,328",CA,4505 California Avenue 504,90807
+2,2,Bellflower,1,Condo/Townhome,33.8789,FOR SALE,-118.136,"$425,000","1,251",CA,9245 Park Street,90706
+2,2,Camarillo,0,Condo/Townhome,34.211344,FOR SALE,-119.025979,"$399,000","1,142",CA,290 Riverdale Court 1113,93012
+3,2,Montebello,0,Condo/Townhome,34.008,FOR SALE,-118.108,"$395,888","1,249",CA,204 S Montebello Boulevard,90640
+3,3,Laguna Woods,0,Condo/Townhome,33.6139,FOR SALE,-117.723,"$395,000","1,663",CA,2390 Via Mariposa W 3E,92637
+1,2,Santa Monica,0,Condo/Townhome,34.03322,FOR SALE,-118.47022,"$385,000",913,CA,1517 HARVARD Street 8,90404
+2,2,Chula Vista,0,Condo/Townhome,32.6691,FOR SALE,-116.982,"$380,000","1,061",CA,280 Salinas Dr. 171,91914
+2,3,Bell Gardens,0,Condo/Townhome,33.9751,FOR SALE,-118.156,"$375,000","1,517",CA,6021 Gage Avenue 1,90201
+2,3,Palm Springs,0,Condo/Townhome,33.83374,FOR SALE,-116.52475,"$369,000","1,387",CA,795 North SEVILLE Circle,92262
+2,3,Canoga Park,0,Condo/Townhome,34.2111,FOR SALE,-118.605,"$369,000","1,246",CA,7800 Topanga Canyon Boulevard 206,91304
+1,2,Lake Forest,0,Condo/Townhome,33.6435,FOR SALE,-117.679,"$350,000",829,CA,21991 Rimhurst Drive G,92630
+1,2,Bonsall,0,Condo/Townhome,33.293,FOR SALE,-117.211,"$349,000",900,CA,31916 Del Cielo Este 25,92003
+2,3,Lemon Grove,0,Condo/Townhome,32.7445,FOR SALE,-117.026,"$330,000","1,088",CA,3525 Grove St 116,91945
+2,2,Rancho Cucamonga,0,Condo/Townhome,34.1006,FOR SALE,-117.584,"$315,000","1,010",CA,8429 Spring Desert Pl. #H,91730
+2,2,Azusa,0,Condo/Townhome,34.1292,FOR SALE,-117.898,"$315,000",921,CA,428 N Cerritos Avenue,91702
+2,2,Irvine,1,Condo/Townhome,33.625,FOR SALE,-117.821,"$803,500","1,116",CA,65 Clouds,92603
+2,3,Irvine,1,Condo/Townhome,33.7331,FOR SALE,-117.776,"$789,800","1,625",CA,107 Waterman 150,92602
+2,3,Irvine,1,Condo/Townhome,33.6973,FOR SALE,-117.712,"$788,888","1,733",CA,162 Desert Bloom,92618
+2,2,Los Angeles,1,Condo/Townhome,34.0951,FOR SALE,-118.345,"$770,000","1,490",CA,1319 N Detroit Street PH2,90046
+2,4,Carlsbad,1,Condo/Townhome,33.1128,FOR SALE,-117.279,"$749,000","1,959",CA,1626 Fairlead Ave,92011
+3,3,Signal Hill,0,Condo/Townhome,33.7992,FOR SALE,-118.16,"$700,000","2,070",CA,2353 Ohio Avenue,90755
+3,3,Signal Hill,0,Condo/Townhome,33.7992,FOR SALE,-118.16,"$700,000","2,070",CA,2353 Ohio Avenue,90755
+2,2,San Diego,1,Condo/Townhome,32.712,FOR SALE,-117.166,"$659,995","1,225",CA,301 W G 123,92101
+3,3,Palm Springs,0,Condo/Townhome,33.765899,FOR SALE,-116.528083,"$659,000","2,662",CA,3608 East Bogert Trail B,92264
+1,2,Los Angeles (City),0,Condo/Townhome,34.10863,FOR SALE,-118.29132,"$649,500","1,172",CA,2030 North VERMONT Avenue 15,90027
+2,2,San Diego,1,Condo/Townhome,32.7109,FOR SALE,-117.163,"$640,000","1,290",CA,101 Market St 107,92101
+2,3,Tustin,1,Condo/Townhome,33.751,FOR SALE,-117.814,"$639,000","1,508",CA,14632 Holt Avenue,92780
+1,2,Fremont,1,Condo/Townhome,37.5686,FOR SALE,-121.965,"$624,888","1,120",CA,38737 Aurora Ter 19,94536
+2,2,Newport Beach,0,Condo/Townhome,33.6246,FOR SALE,-117.933,"$599,999","1,120",CA,100 Scholz 104,92663
+3,3,Aliso Viejo,0,Condo/Townhome,33.5744,FOR SALE,-117.723,"$599,000","1,367",CA,43 Wisteria Place,92656
+1,1,Walnut Creek,0,Condo/Townhome,37.9082,FOR SALE,-122.051,"$599,000",739,CA,1281 Homestead Ave 2B,94598
+2,2,Signal Hill,0,Condo/Townhome,33.7933,FOR SALE,-118.161,"$594,900","1,772",CA,1995 Molino Avenue 203,90755
+2,2,Irvine,1,Condo/Townhome,33.6958,FOR SALE,-117.79,"$585,800","1,150",CA,18 Goldenbush,92604
+2,2,Lake Forest,1,Condo/Townhome,33.6421,FOR SALE,-117.671,"$577,000","1,556",CA,22073 Summit Hill Drive 22,92630
+2,2,Mission Viejo,0,Condo/Townhome,33.6611,FOR SALE,-117.633,"$575,000","1,367",CA,161 Winterberry,92692
+2,2,Irvine,0,Condo/Townhome,33.6285,FOR SALE,-117.831,"$819,000","1,643",CA,223 Lonetree,92603
+2,3,Huntington Beach,0,Condo/Townhome,33.6622,FOR SALE,-117.976,"$609,900","1,287",CA,8855 Sutter Circle 516D,92646
+2,2,Laguna Beach,1,Condo/Townhome,33.5954,FOR SALE,-117.751,"$595,000","1,263",CA,402 San Nicholas Court,92651
+4,4,Santee,0,Condo/Townhome,32.8362,FOR SALE,-116.976,"$475,000","1,733",CA,10165 Brightwood Ln 5,92071
+1,2,Laguna Niguel,1,Condo/Townhome,33.5462,FOR SALE,-117.684,"$450,000","1,232",CA,25604 Paseo La 3,92677
+2,2,Laguna Woods,0,Condo/Townhome,33.6101,FOR SALE,-117.742,"$449,000","1,200",CA,5489 Paseo Del Lago W P,92637
+2,3,Pittsburg,1,Condo/Townhome,38.0386,FOR SALE,-121.888,"$419,000","1,583",CA,307 Heron Dr,94565
+2,2,Sherman Oaks,0,Condo/Townhome,34.1536,FOR SALE,-118.437,"$409,900","1,077",CA,4521 Colbath Avenue 105,91423
+1,1,Irvine,0,Condo/Townhome,33.6711,FOR SALE,-117.775,"$400,000",814,CA,287 Tangelo 333,92618
+2,3,Hercules,0,Condo/Townhome,37.995187,FOR SALE,-122.244791,"$399,999","1,274",CA,163 Seaway Ct,94547
+1,2,Truckee,1,Condo/Townhome,39.3511,FOR SALE,-120.229,"$399,000","1,054",CA,12575 Northwoods Boulevard 3,96161
+2,2,Saugus,0,Condo/Townhome,34.4441,FOR SALE,-118.475,"$389,000","1,404",CA,28364 Mirabelle Lane 476,91350
+2,2,Saugus,0,Condo/Townhome,34.4441,FOR SALE,-118.475,"$389,000","1,404",CA,28364 Mirabelle Lane 476,91350
+2,2,Anaheim,0,Condo/Townhome,33.8125,FOR SALE,-118.011,"$385,000","1,026",CA,3550 W Sweetbay Court W F,92804
+2,2,Chula Vista,0,Condo/Townhome,32.6304,FOR SALE,-117.046,"$330,000","1,006",CA,824 Tamayo Dr 2,91910
+2,2,Fallbrook,0,Condo/Townhome,33.3605,FOR SALE,-117.164,"$300,000","1,308",CA,1764 Pala Lake Dr,92028
+1,1,Mammoth Lakes,0,Condo/Townhome,37.6358761,FOR SALE,-118.9875778,"$299,000",620,CA,3253 Meridian Blvd 23,93546
+3,3,Cathedral City,0,Condo/Townhome,33.79205,FOR SALE,-116.46642,"$258,500","1,850",CA,35200 CATHEDRAL CANYON Drive 118,92234
+1,1,Palm Springs,1,Condo/Townhome,33.84424,FOR SALE,-116.54438,"$155,000",750,CA,1555 North CHAPARRAL Road 301,92262
+3,3,San Jose,0,Condo/Townhome,37.28376,FOR SALE,-121.85609,"$998,000","1,813",CA,3099 Lina Ln Unit 1,95136
+2,2,Milpitas,1,Condo/Townhome,37.40998,FOR SALE,-121.89845,"$899,999","1,300",CA,1501 Bond St,95035
+3,3,San Diego,0,Condo/Townhome,32.78756,FOR SALE,-117.2384,"$859,000","1,608",CA,3748 Promontory St,92109
+2,3,San Gabriel,0,Condo/Townhome,34.12711,FOR SALE,-118.06791,"$780,000","1,506",CA,9167 Arcadia Avenue,91775
+2,2,Campbell,0,Condo/Townhome,37.26566,FOR SALE,-121.94757,"$685,000",992,CA,87 Redding Rd,95008
+2,2,Santa Clara,0,Condo/Townhome,37.32592,FOR SALE,-121.97147,"$678,910","1,137",CA,121 Buckingham Dr 56,95051
+2,3,Anaheim,1,Condo/Townhome,33.817867,FOR SALE,-117.997267,"$650,000","1,531",CA,914 S Belterra Way,92804
+3,3,Tustin,1,Condo/Townhome,33.704755,FOR SALE,-117.803831,"$635,000","1,589",CA,5 Aviator Ln,92782
+3,3,Oxnard,0,Condo/Townhome,34.18933,FOR SALE,-119.23203,"$620,000","1,950",CA,1269 Bayside Lane,93035
+2,2,Fullerton,1,Condo/Townhome,33.89984,FOR SALE,-117.96646,"$584,000","1,444",CA,2314 Applewood Cr. #63,92833
+3,5,Carson,0,Condo/Townhome,33.82831,FOR SALE,-118.27345,"$575,000","1,890",CA,227 E 220th St,90745
+2,3,Yorba Linda,1,Condo/Townhome,33.877277,FOR SALE,-117.763236,"$545,000","1,531",CA,5823 Via Sonora #15,92887
+2,2,San Diego,0,Condo/Townhome,32.7109,FOR SALE,-117.1542,"$540,000",910,CA,525 11th Ave. 1105,92101
+2,2,Ladera Ranch,1,Condo/Townhome,33.547531,FOR SALE,-117.647647,"$535,000","1,578",CA,42 Palladium Lane #81,92694
+2,2,Brea,1,Condo/Townhome,33.93101,FOR SALE,-117.89491,"$500,000","1,302",CA,749 Sather Court 46,92821
+1,2,Petaluma,0,Condo/Townhome,38.24288,FOR SALE,-122.63765,"$495,000",952,CA,27 Natalie Circle,94952
+2,2,San Diego,0,Condo/Townhome,33.00842,FOR SALE,-117.06805,"$489,000","1,096",CA,12242 Paseo Lucido D,92128
+2,1,Los Angeles,0,Condo/Townhome,34.10293,FOR SALE,-118.34746,"$480,000",912,CA,7250 Franklin Ave Unit 508,90046
+3,4,Chula Vista,1,Condo/Townhome,32.614627041,FOR SALE,-116.989843163,"$474,000","1,719",CA,1427 Santa Victoria Rd 4,91913
+2,2,Oak Park,0,Condo/Townhome,34.1856,FOR SALE,-118.765,"$449,999","1,104",CA,5805 Oak Bend Lane 407,91377
+3,2,Valencia,0,Condo/Townhome,34.4287,FOR SALE,-118.549,"$449,000","1,106",CA,23632 Big Horn Walk 42,91354
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6511,FOR SALE,-117.583,"$449,000",922,CA,5 Via Acuatica,92688
+1,1,Dana Point,0,Condo/Townhome,33.4885,FOR SALE,-117.713,"$447,000",800,CA,74 Corniche Drive A,92629
+2,3,Palm Springs,0,Condo/Townhome,33.78662,FOR SALE,-116.54176,"$435,000","1,542",CA,425 East AVENIDA GRANADA,92264
+3,2,Tujunga,0,Condo/Townhome,34.2534,FOR SALE,-118.288,"$435,000","1,409",CA,10141 Samoa Avenue 5,91042
+2,2,San Dimas,0,Condo/Townhome,34.1189,FOR SALE,-117.799,"$429,000","1,198",CA,926 Malakoff Road,91773
+3,2,Orange,0,Condo/Townhome,33.7907,FOR SALE,-117.789,"$420,000",984,CA,285 N Singingwood Street 7,92869
+1,1,Tustin,0,Condo/Townhome,33.7407,FOR SALE,-117.775,"$415,000",791,CA,2960 Champion Way 1311,92782
+2,2,Laguna Woods,0,Condo/Townhome,33.6126,FOR SALE,-117.733,"$414,500","1,009",CA,3036 Via Vista A,92637
+2,2,Anaheim,0,Condo/Townhome,33.8142,FOR SALE,-118.011,"$399,900","1,026",CA,3507 W Greentree Circle A,92804
+2,2,Placentia,0,Condo/Townhome,33.8691,FOR SALE,-117.819,"$399,000",852,CA,121 S Lakeview Avenue 121F,92870
+2,3,Moorpark,0,Condo/Townhome,34.294399,FOR SALE,-118.846298,"$398,000","1,487",CA,6453 Marquette Street E,93021
+2,2,San Pedro,0,Condo/Townhome,33.7544,FOR SALE,-118.305,"$395,000",961,CA,1275 W Capitol Drive 118,90732
+1,1,San Diego,0,Condo/Townhome,32.7128,FOR SALE,-117.156,"$395,000",650,CA,908 G Street 13,92101
+2,2,Placentia,0,Condo/Townhome,33.871,FOR SALE,-117.832,"$390,000",934,CA,1530 E Spruce Street G,92870
+1,1,Torrance,0,Condo/Townhome,33.8205,FOR SALE,-118.342,"$370,000",725,CA,22707 Maple Avenue,90505
+2,2,Chula Vista,1,Condo/Townhome,32.6559,FOR SALE,-116.974,"$360,000",937,CA,715 Eastshore Terrace 41,91913
+2,2,Ontario,0,Condo/Townhome,34.0135,FOR SALE,-117.565,"$348,000","1,314",CA,3250 S Edenglen Avenue 7,91761
+2,3,San Francisco,1,Condo/Townhome,37.752369,FOR SALE,-122.459038,"$1,195,000","1,731",CA,660 Clarendon Avenue Unit: 18,94131
+2,3,Irvine,1,Condo/Townhome,33.6942,FOR SALE,-117.815,"$1,010,000","2,690",CA,63 Juneberry,92606
+2,3,Irvine,1,Condo/Townhome,33.6942,FOR SALE,-117.815,"$1,010,000","2,690",CA,63 Juneberry,92606
+2,2,Playa Vista,0,Condo/Townhome,33.97203,FOR SALE,-118.42907,"$999,000","1,659",CA,5625 Crescent Park West 207,90094
+2,1,Los Angeles (City),0,Condo/Townhome,34.1014,FOR SALE,-118.32545,"$997,000","1,320",CA,6250 Hollywood 11b,90028
+3,4,Newark,1,Condo/Townhome,37.5359844,FOR SALE,-122.0154764,"$989,000","2,026",CA,5509 Azalea WAY,94560
+3,3,Irvine,0,Condo/Townhome,33.6772,FOR SALE,-117.848,"$959,990","1,914",CA,204 Tribeca,92612
+2,2,West Hollywood,0,Condo/Townhome,34.0873,FOR SALE,-118.384,"$925,000","1,473",CA,CYNTHIA Street,90069
+3,4,Rancho Mission Viejo,1,Condo/Townhome,33.5584,FOR SALE,-117.633,"$799,900","2,254",CA,72 Promesa Avenue,92694
+1,1,Sunnyvale,0,Condo/Townhome,37.392582,FOR SALE,-122.013481,"$799,876",870,CA,601 Arcadia Terrace Unit: 103,94085
+2,2,San Diego,0,Condo/Townhome,32.7092,FOR SALE,-117.238,"$779,900","1,265",CA,2915 Lawrence 6,92106
+2,3,Irvine,0,Condo/Townhome,33.6591,FOR SALE,-117.831,"$759,000","1,507",CA,7 Verde,92612
+2,3,Pasadena,1,Condo/Townhome,34.1641,FOR SALE,-118.09,"$749,000","1,660",CA,2880 Ashley Drive,91107
+2,3,Irvine,0,Condo/Townhome,33.6657,FOR SALE,-117.851,"$748,000","1,456",CA,3259 Watermarke Place,92612
+2,3,San Diego,1,Condo/Townhome,32.7818,FOR SALE,-117.149,"$739,900","1,585",CA,2613 Aperture Cir,92108
+2,2,San Juan Capistrano,1,Condo/Townhome,33.4908,FOR SALE,-117.654,"$725,000","1,390",CA,27273 Via Capri,92675
+4,4,Cerritos,0,Condo/Townhome,33.875,FOR SALE,-118.06,"$695,000","1,849",CA,11808 E Solana Place,90703
+3,3,San Diego,1,Condo/Townhome,32.797,FOR SALE,-117.192,"$685,000","1,422",CA,2985 Pacific Palm Way,92117
+2,2,El Segundo,0,Condo/Townhome,33.9263,FOR SALE,-118.415,"$679,900","1,256",CA,123 E Oak Avenue 108,90245
+2,3,Encino,1,Condo/Townhome,34.1677,FOR SALE,-118.519,"$675,999","2,075",CA,5335 White Oak Ave E,91316
+2,3,San Clemente,1,Condo/Townhome,33.4292,FOR SALE,-117.628,"$749,000","1,398",CA,1412 Buena Vista 7,92672
+2,3,Tustin,1,Condo/Townhome,33.6958,FOR SALE,-117.81,"$739,990","1,764",CA,3214 Carrotwood Drive,92782
+2,3,San Diego,1,Condo/Townhome,32.7818,FOR SALE,-117.149,"$699,000","1,470",CA,2400 Aperture Cir,92108
+2,2,San Diego,1,Condo/Townhome,32.787,FOR SALE,-117.13,"$599,000","1,204",CA,2776 Bellezza Dr,92108
+1,3,Irvine,1,Condo/Townhome,33.6698,FOR SALE,-117.82,"$549,000","1,260",CA,16 Fairside 31,92614
+2,2,Culver City,0,Condo/Townhome,34.0055,FOR SALE,-118.391,"$548,000",916,CA,2103 Summertime Lane,90230
+2,3,Lake Forest,1,Condo/Townhome,33.6558,FOR SALE,-117.67,"$540,000","1,358",CA,21101 Highlander,92630
+2,3,Lake Forest,1,Condo/Townhome,33.6558,FOR SALE,-117.67,"$540,000","1,358",CA,21101 Highlander,92630
+2,2,Walnut Creek,0,Condo/Townhome,37.9175,FOR SALE,-122.058,"$518,500",992,CA,1308 Walden Rd 28,94597
+2,2,San Diego,0,Condo/Townhome,32.7455,FOR SALE,-117.171,"$508,000","1,025",CA,836 W Pennsylvania Ave 205,92103
+2,3,Lake Arrowhead,0,Condo/Townhome,34.2584,FOR SALE,-117.197,"$419,000","1,306",CA,27783 Peninsula Dr Unit 406 406,92352
+2,2,Chino Hills,0,Condo/Townhome,34.0163,FOR SALE,-117.748,"$389,000",954,CA,13104 Glen Court 49,91709
+2,2,Chino Hills,0,Condo/Townhome,34.0163,FOR SALE,-117.748,"$389,000",954,CA,13104 Glen Court 49,91709
+1,2,San Pedro,0,Condo/Townhome,33.7222,FOR SALE,-118.294,"$375,000",930,CA,741 W 24th Street 5,90731
+1,2,San Pedro,0,Condo/Townhome,33.7222,FOR SALE,-118.294,"$375,000",930,CA,741 W 24th Street 5,90731
+2,3,Fontana,1,Condo/Townhome,34.1241,FOR SALE,-117.455,"$369,900","1,665",CA,16001 Chase Road 88,92336
+2,3,La Quinta,0,Condo/Townhome,33.653835,FOR SALE,-116.264755,"$369,000","1,627",CA,54338 Oak Tree A121,92253
+1,1,Huntington Beach,0,Condo/Townhome,33.7215,FOR SALE,-118.046,"$275,000",843,CA,16512 Blackbeard Lane 207,92649
+2,2,Graeagle,0,Condo/Townhome,39.7646,FOR SALE,-120.611,"$225,500","1,314",CA,61 Graeagle Meadows Road,96103
+2,4,Wilmington,2,Condo/Townhome,33.788903,FOR SALE,-118.256927,"$897,000","3,071",CA,1266 Cary Avenue,90744
+2,3,Huntington Beach,0,Condo/Townhome,33.7292,FOR SALE,-118.052,"$350,000","1,218",CA,16053 Warmington Lane 73,92649
+2,3,Huntington Beach,0,Condo/Townhome,33.7292,FOR SALE,-118.052,"$350,000","1,218",CA,16053 Warmington Lane 73,92649
+2,2,Long Beach,0,Condo/Townhome,33.8214,FOR SALE,-118.187,"$350,000",794,CA,3565 Linden Avenue 258,90807
+1,2,San Diego,0,Condo/Townhome,32.7578,FOR SALE,-117.117,"$349,900",767,CA,3532 Meade 31,92116
+2,3,Pomona,0,Condo/Townhome,34.025,FOR SALE,-117.765,"$349,000","1,158",CA,55 Town And Country Road,91766
+2,2,San Diego,0,Condo/Townhome,32.7491,FOR SALE,-117.113,"$340,000",828,CA,3870 37th St 1,92105
+2,2,Palm Springs,0,Condo/Townhome,33.84145,FOR SALE,-116.52757,"$310,000","1,050",CA,1712 East CHIA Road,92262
+1,1,Rancho Santa Margarita,0,Condo/Townhome,33.6182,FOR SALE,-117.613,"$305,000",608,CA,32 Baya,92688
+2,2,Panorama City,1,Condo/Townhome,34.2375,FOR SALE,-118.45,"$299,900",918,CA,9210 Van Nuys Boulevard 6,91402
+2,2,La Quinta,0,Condo/Townhome,33.64933,FOR SALE,-116.268227,"$295,000","1,330",CA,55066 Shoal Creek,92253
+2,2,San Diego,0,Condo/Townhome,32.7757,FOR SALE,-117.052,"$279,000","1,139",CA,6811 Alvarado 12,92120
+2,2,Alpine,0,Condo/Townhome,32.8351,FOR SALE,-116.768,"$272,000",960,CA,2157 Arnold Way 914,91901
+1,1,Truckee,0,Condo/Townhome,39.3542,FOR SALE,-120.26,"$239,500",644,CA,11557 Snowpeak Way 639,96161
+2,2,Palm Desert,0,Condo/Townhome,33.757839,FOR SALE,-116.31337,"$209,000","1,177",CA,77419 Sawgrass Circle,92211
+1,1,Murrieta,0,Condo/Townhome,33.5572,FOR SALE,-117.158,"$174,000",762,CA,28661 Via Las Flores 307,92563
+1,2,Fresno,1,Condo/Townhome,36.793106,FOR SALE,-119.718971,"$123,000","1,295",CA,5188 E Ashlan Unit: 110,93727
+1,1,Palm Springs,0,Condo/Townhome,33.816448,FOR SALE,-116.54277,"$118,500",568,CA,464 South Calle Encilia A12,92262
+2,3,Laguna Woods,0,Condo/Townhome,33.617087,FOR SALE,-117.746648,"$1,099,000","1,592",CA,5084 Ovalo,92637
+4,3,Friant,0,Condo/Townhome,37.05389,FOR SALE,-119.649321,"$599,999","2,750",CA,49405 Ralston Ridge,93626
+2,3,Alhambra,1,Condo/Townhome,34.09374,FOR SALE,-118.12328,"$568,000","1,295",CA,200 E Bay State St C,91801
+2,3,Huntington Beach,0,Condo/Townhome,33.7286,FOR SALE,-118.052,"$349,900","1,218",CA,16095 Warmington Lane 1,92649
+2,3,Huntington Beach,0,Condo/Townhome,33.7286,FOR SALE,-118.052,"$349,900","1,218",CA,16095 Warmington Lane 1,92649
+1,2,Stanton,0,Condo/Townhome,33.8099,FOR SALE,-118.009,"$339,900",825,CA,7100 Cerritos Avenue 83,90680
+2,2,Hawaiian Gardens,0,Condo/Townhome,33.8327,FOR SALE,-118.069,"$329,000",960,CA,21606 Belshire Avenue 5,90716
+2,2,Hawaiian Gardens,0,Condo/Townhome,33.8327,FOR SALE,-118.069,"$329,000",960,CA,21606 Belshire Avenue 5,90716
+2,2,Azusa,0,Condo/Townhome,34.1085,FOR SALE,-117.891,"$327,000",990,CA,777 S Citrus Avenue 218,91702
+2,2,Murrieta,0,Condo/Townhome,33.554,FOR SALE,-117.164,"$320,000","1,532",CA,39875 Alpine Union Street A,92563
+2,2,San Diego,0,Condo/Townhome,32.772,FOR SALE,-117.075,"$320,000",697,CA,5540 Lindo Paseo 3,92115
+1,2,El Monte,0,Condo/Townhome,34.0605,FOR SALE,-118.022,"$318,000",819,CA,11937 Magnolia Street 21,91732
+1,2,El Monte,0,Condo/Townhome,34.0605,FOR SALE,-118.022,"$318,000",819,CA,11937 Magnolia Street 21,91732
+1,1,Long Beach,0,Condo/Townhome,33.7736,FOR SALE,-118.176,"$305,000",686,CA,550 Orange Avenue 113,90802
+2,2,Rancho Mirage,0,Condo/Townhome,33.79259,FOR SALE,-116.42921,"$298,000","1,756",CA,904 INVERNESS Drive,92270
+1,1,San Diego,0,Condo/Townhome,32.7669,FOR SALE,-117.18,"$289,900",661,CA,6406 Friars Rd 134,92108
+1,2,Oceanside,0,Condo/Townhome,33.2462,FOR SALE,-117.314,"$277,900",741,CA,155 Avenida Descanso 102,92057
+1,2,Lakeside,0,Condo/Townhome,32.8622,FOR SALE,-116.917,"$249,000",921,CA,12730 Laurel Street 305,92040
+1,1,Corona,0,Condo/Townhome,33.8658,FOR SALE,-117.619,"$248,000",650,CA,2350 Del Mar Way 305,92882
+1,2,El Cajon,1,Condo/Townhome,32.8003,FOR SALE,-116.957,"$235,000",925,CA,505 E Madison Avenue 85,92020
+1,1,Laguna Woods,1,Condo/Townhome,33.6126,FOR SALE,-117.747,"$229,900",837,CA,5369 Algarrobo 1F,92637
+1,1,Corona,0,Condo/Townhome,33.9006,FOR SALE,-117.531,"$225,000",724,CA,2040 Las Colinas Circle 206,92879
+1,1,Huntington Beach,0,Condo/Townhome,33.6882,FOR SALE,-117.993,"$208,000",657,CA,18900 Delaware Street 335,92648
+2,2,Los Angeles,0,Condo/Townhome,34.0465,FOR SALE,-118.237,"$899,000","1,330",CA,629 Traction Avenue 614,90013
+3,3,Arcadia,0,Condo/Townhome,34.1333,FOR SALE,-118.025,"$888,000","1,610",CA,613 S 2nd Ave,91006
+3,4,Arcadia,0,Condo/Townhome,34.1329,FOR SALE,-118.025,"$865,000","1,566",CA,615 S 2nd Ave,91006
+2,3,Irvine,1,Condo/Townhome,33.6963,FOR SALE,-117.752,"$789,000","1,719",CA,129 Regal,92620
+2,3,Irvine,1,Condo/Townhome,33.6963,FOR SALE,-117.752,"$789,000","1,719",CA,129 Regal,92620
+3,3,Long Beach,0,Condo/Townhome,33.7747,FOR SALE,-118.117,"$744,990","2,068",CA,601 Holbrook Court 103,90803
+3,3,Arcadia,0,Condo/Townhome,34.133,FOR SALE,-118.024,"$738,000","1,475",CA,613 S 3rd Avenue B,91006
+2,2,San Diego,0,Condo/Townhome,32.7112,FOR SALE,-117.159,"$649,900","1,032",CA,575 6th Ave 310,92101
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6409,FOR SALE,-117.589,"$564,000","1,400",CA,6 Via Barcelona,92688
+2,2,Rancho Mission Viejo,1,Condo/Townhome,33.5277,FOR SALE,-117.618,"$549,900","1,520",CA,11 Higo Street,92694
+2,2,Rancho Mission Viejo,1,Condo/Townhome,33.5277,FOR SALE,-117.618,"$549,900","1,520",CA,11 Higo Street,92694
+2,3,Simi Valley,1,Condo/Townhome,34.2514,FOR SALE,-118.813,"$523,000","1,579",CA,"620  Ivywood Lane, E E",93065
+2,3,Downey,0,Condo/Townhome,33.9486,FOR SALE,-118.127,"$505,000","1,968",CA,10420 Downey Avenue 205,90241
+1,1,Studio City,1,Condo/Townhome,34.1409,FOR SALE,-118.368,"$499,000","1,094",CA,10926 Bluffside Drive 3,91604
+2,2,Fullerton,1,Condo/Townhome,33.8868,FOR SALE,-117.92,"$479,900","1,150",CA,512 Quiet Brook Circle 188,92831
+2,2,Fullerton,1,Condo/Townhome,33.8868,FOR SALE,-117.92,"$479,900","1,150",CA,512 Quiet Brook Circle 188,92831
+2,2,Ventura,0,Condo/Townhome,34.2638,FOR SALE,-119.226,"$470,000","1,270",CA,1080 Stravinsky Lane,93003
+2,2,Huntington Beach,0,Condo/Townhome,33.6596,FOR SALE,-117.973,"$449,000","1,055",CA,8788 Coral Springs Court 205F,92646
+2,2,San Diego,0,Condo/Townhome,32.7186,FOR SALE,-117.144,"$430,000",979,CA,1233 22Nd St 5,92102
+2,3,Rancho Cucamonga,1,Condo/Townhome,34.1242,FOR SALE,-117.514,"$425,000","1,611",CA,7161 East Avenue 43,91739
+3,3,Monterey Hills,0,Condo/Townhome,34.0945,FOR SALE,-118.188,"$605,000","1,419",CA,4225 Via Arbolada 519,90042
+2,3,Aliso Viejo,1,Condo/Townhome,33.5791,FOR SALE,-117.732,"$595,000","1,531",CA,27 Tulare Drive,92656
+2,3,Newbury Park,1,Condo/Townhome,34.179424,FOR SALE,-118.91158,"$579,500","1,562",CA,40 Secret Hollow Lane,91320
+1,1,San Diego,0,Condo/Townhome,32.7098,FOR SALE,-117.156,"$569,000",848,CA,427 9th Avenue 1403,92101
+2,2,Carson,1,Condo/Townhome,33.8301,FOR SALE,-118.265,"$560,000","1,376",CA,668 Colorado Circle,90745
+2,2,Carson,1,Condo/Townhome,33.8301,FOR SALE,-118.265,"$560,000","1,376",CA,668 Colorado Circle,90745
+3,3,La Quinta,1,Condo/Townhome,33.6445,FOR SALE,-116.266,"$549,999","2,125",CA,55837 Oakhill,92253
+1,1,Oakland,0,Condo/Townhome,37.8125,FOR SALE,-122.259,"$549,000","1,013",CA,193 Montecito Avenue 203,94610
+2,3,Simi Valley,1,Condo/Townhome,34.269328,FOR SALE,-118.793412,"$535,000","1,499",CA,173 Harpstone Lane 158,93065
+2,2,Carlsbad,0,Condo/Townhome,33.0995,FOR SALE,-117.265,"$535,000","1,372",CA,7087 Estrella De Mar Rd B,92009
+2,3,Lake Forest,1,Condo/Townhome,33.6405,FOR SALE,-117.673,"$535,000","1,351",CA,26367 W Grove Circle 60,92630
+3,4,Chino,0,Condo/Townhome,33.9873,FOR SALE,-117.673,"$525,000","1,996",CA,14653 Marquette Avenue,91710
+3,4,Chino,0,Condo/Townhome,33.9873,FOR SALE,-117.673,"$525,000","1,996",CA,14653 Marquette Avenue,91710
+2,2,Palm Springs,0,Condo/Townhome,33.84552,FOR SALE,-116.53813,"$525,000","1,230",CA,197 West VIA LOLA 1,92262
+2,3,Carlsbad,1,Condo/Townhome,33.1663,FOR SALE,-117.295,"$515,000","1,341",CA,4051 Peninsula Drive,92010
+2,3,San Diego,1,Condo/Townhome,32.7989,FOR SALE,-117.158,"$508,000","1,247",CA,7611 Family Circle,92111
+2,3,Camarillo,1,Condo/Townhome,34.21918,FOR SALE,-119.011764,"$500,000","1,348",CA,266 Calle Orovista,93012
+2,3,Simi Valley,1,Condo/Townhome,34.252834,FOR SALE,-118.809042,"$479,999","1,579",CA,450 Country Club Drive C,93065
+2,2,Woodland Hills,0,Condo/Townhome,34.1727,FOR SALE,-118.599,"$475,000","1,050",CA,21500 Burbank Boulevard 322,91367
+2,2,Huntington Beach,0,Condo/Townhome,33.7131,FOR SALE,-118.041,"$470,000",982,CA,5071 DORADO Drive 112,92649
+2,3,Oceanside,1,Condo/Townhome,33.1902,FOR SALE,-117.379,"$1,199,000","1,931",CA,313 S Myers Street 2,92054
+2,3,Pacific Palisades,1,Condo/Townhome,34.06986,FOR SALE,-118.56186,"$1,195,000","1,820",CA,1283 PALISADES Drive,90272
+2,1,San Francisco,0,Condo/Townhome,37.771652,FOR SALE,-122.411812,"$1,100,000","1,343",CA,380 10th Street Unit: 18,94103
+2,2,San Diego,0,Condo/Townhome,32.7119,FOR SALE,-117.165,"$1,099,000","1,370",CA,645 Front St. 1607,92101
+3,3,Huntington Beach,0,Condo/Townhome,33.7286,FOR SALE,-118.062,"$1,095,000","1,890",CA,16087 Saint Croix Circle,92649
+2,3,Los Angeles (City),1,Condo/Townhome,34.07771,FOR SALE,-118.36296,"$1,095,000","1,630",CA,357 North HAYWORTH Avenue 302,90048
+2,3,Irvine,1,Condo/Townhome,33.6845,FOR SALE,-117.754,"$1,048,000","1,879",CA,118 Island Coral,92620
+2,3,Irvine,1,Condo/Townhome,33.6845,FOR SALE,-117.754,"$1,048,000","1,879",CA,118 Island Coral,92620
+3,3,Pismo Beach,1,Condo/Townhome,35.1442,FOR SALE,-120.643,"$960,000","1,756",CA,374 San Luis Avenue,93449
+2,2,San Diego,1,Condo/Townhome,32.7227,FOR SALE,-117.231,"$929,900","1,798",CA,3025 Byron 203,92106
+3,4,Newport Beach,0,Condo/Townhome,33.6251,FOR SALE,-117.937,"$899,998","1,778",CA,24 Kamalii Court 262,92663
+3,4,North Hollywood,0,Condo/Townhome,34.1588,FOR SALE,-118.368,"$870,000","2,196",CA,4840 Cleon Avenue 108,91601
+2,2,Irvine,0,Condo/Townhome,33.654,FOR SALE,-117.751,"$859,990","1,900",CA,245 Carlow,92618
+3,3,Los Angeles,0,Condo/Townhome,34.0951,FOR SALE,-118.345,"$839,500","1,510",CA,1319 N Detroit Street 6,90046
+3,4,Torrance,0,Condo/Townhome,33.8253,FOR SALE,-118.339,"$805,000","1,867",CA,2300 Maple Avenue 231,90503
+2,3,Castro Valley,1,Condo/Townhome,37.7106,FOR SALE,-122.037,"$799,950","1,561",CA,6050 Mount Rushmore Cir,94552
+3,4,Culver City,0,Condo/Townhome,34.00424,FOR SALE,-118.39253,"$779,000","1,555",CA,4729 MAYTIME Lane,90230
+2,3,San Clemente,1,Condo/Townhome,33.4271,FOR SALE,-117.61,"$765,000","2,100",CA,3 Vista Encanta 3,92672
+2,2,Dublin,0,Condo/Townhome,37.7069,FOR SALE,-121.862,"$749,950","1,519",CA,4259 Fitzwilliam,94568
+3,2,Burbank,0,Condo/Townhome,34.1809,FOR SALE,-118.307,"$740,000","1,770",CA,201 E Angeleno Avenue 133,91502
+1,1,Hayward,0,Condo/Townhome,37.65618,FOR SALE,-122.04925,"$399,950",785,CA,2437 Creekside Ct,94542
+1,2,Orange,1,Condo/Townhome,33.79499,FOR SALE,-117.85906,"$415,500","1,190",CA,700 W Walnut Avenue 59,92868
+2,3,San Francisco,1,Condo/Townhome,37.7422028,FOR SALE,-122.4366684,"$1,399,000","1,900",CA,55 Topaz Way,94131
+3,3,Encinitas,0,Condo/Townhome,33.0815,FOR SALE,-117.311,"$2,775,000","2,035",CA,1870 Parliament Road,92024
+2,3,San Diego,0,Condo/Townhome,32.7173,FOR SALE,-117.171,"$2,248,888","1,944",CA,1199 Pacific Highway 2306,92101
+2,3,Huntington Beach,1,Condo/Townhome,33.6744,FOR SALE,-118.021,"$1,275,000","2,361",CA,6260 Seabourne Drive 53,92648
+2,3,Irvine,1,Condo/Townhome,33.6232,FOR SALE,-117.822,"$1,268,800","1,628",CA,24 Bower Tree,92603
+3,5,La Jolla,0,Condo/Townhome,32.8236,FOR SALE,-117.245,"$1,199,000","2,903",CA,1839 Caminito Ascua,92037
+3,4,Irvine,0,Condo/Townhome,33.7038,FOR SALE,-117.735,"$1,120,000","2,117",CA,72 Somerton,92620
+3,4,Irvine,0,Condo/Townhome,33.7038,FOR SALE,-117.735,"$1,120,000","2,117",CA,72 Somerton,92620
+2,3,San Diego,1,Condo/Townhome,32.7089,FOR SALE,-117.158,"$998,000","1,894",CA,325 7Th Ave 215,92101
+1,2,Los Angeles,0,Condo/Townhome,34.0522,FOR SALE,-118.264,"$995,000","1,140",CA,1100 Wilshire Boulevard 2711,90017
+2,2,Oakland,0,Condo/Townhome,37.7944,FOR SALE,-122.273,"$979,000","1,263",CA,311 2nd St 307,94607
+3,3,Los Angeles (City),0,Condo/Townhome,34.107346566,FOR SALE,-118.249270245,"$968,000","1,897",CA,2980 RIPPLE Place 206,90039
+2,3,Irvine,1,Condo/Townhome,33.7327,FOR SALE,-117.778,"$898,000","2,347",CA,52 Sorenson,92602
+3,3,Irvine,0,Condo/Townhome,33.6911,FOR SALE,-117.736,"$809,900","1,963",CA,223 Follyhatch,92618
+2,3,Danville,1,Condo/Townhome,37.8147,FOR SALE,-121.976,"$775,000","1,780",CA,418 Old Orchard Ct,94526
+2,2,Redondo Beach,1,Condo/Townhome,33.8764,FOR SALE,-118.38,"$750,000","1,471",CA,1900 Voorhees Avenue C,90278
+2,3,Huntington Beach,1,Condo/Townhome,33.6629,FOR SALE,-117.998,"$735,000","1,384",CA,626 Lake Street 60,92648
+2,3,Irvine,1,Condo/Townhome,33.6339,FOR SALE,-117.801,"$728,000","1,525",CA,13 Evening Song 21,92603
+3,3,El Cajon,0,Condo/Townhome,32.78839,FOR SALE,-116.93212,"$405,000","1,420",CA,1380 E Washington avenue 9w,92019
+1,2,Oxnard,0,Condo/Townhome,34.189746,FOR SALE,-119.220238,"$399,900","1,110",CA,3732 Via Pacifica Walk,93035
+2,2,Hercules,0,Condo/Townhome,38.0095,FOR SALE,-122.28195,"$375,000","1,011",CA,101 Devonwood,94547
+2,3,Quincy,0,Condo/Townhome,39.98084,FOR SALE,-120.941524,"$355,000","2,424",CA,39398 Highway 70,95971
+1,1,Huntington Beach,0,Condo/Townhome,33.715301,FOR SALE,-118.013312,"$325,555",754,CA,6600 Warner Avenue #119,92647
+1,1,Beckwourth,0,Condo/Townhome,39.82165,FOR SALE,-120.3768,"$124,900",956,CA,301 Indian Street,96129
+2,3,Dana Point,1,Condo/Townhome,33.4866,FOR SALE,-117.723,"$1,525,000","1,858",CA,23256 Atlantis Way 48,92629
+2,3,San Diego,0,Condo/Townhome,32.7173,FOR SALE,-117.171,"$1,524,900","1,945",CA,1199 Pacific Hwy 1606,92101
+3,3,Newport Beach,0,Condo/Townhome,33.6181,FOR SALE,-117.935,"$1,499,000","1,515",CA,209 38th Street A,92663
+3,3,Newport Beach,0,Condo/Townhome,33.6181,FOR SALE,-117.935,"$1,499,000","1,515",CA,209 38th Street A,92663
+2,3,Irvine,1,Condo/Townhome,33.6454,FOR SALE,-117.758,"$1,200,000","2,022",CA,88 Cipresso,92618
+2,3,Irvine,1,Condo/Townhome,33.6454,FOR SALE,-117.758,"$1,200,000","2,022",CA,88 Cipresso,92618
+1,1,San Francisco,1,Condo/Townhome,37.783062,FOR SALE,-122.390114,"$1,168,000",815,CA,219 Brannan Street Unit: 15A,94107
+3,3,Carlsbad,0,Condo/Townhome,33.0923,FOR SALE,-117.257,"$1,125,000","3,663",CA,7418 Avenida De Palais,92009
+3,3,San Clemente,0,Condo/Townhome,33.4315,FOR SALE,-117.626,"$1,025,000","1,500",CA,1503 Calle Mirador A,92672
+2,2,West Hollywood,0,Condo/Townhome,34.09319,FOR SALE,-118.38303,"$845,000","1,297",CA,1230 HORN Avenue 101,90069
+2,2,Huntington Beach,1,Condo/Townhome,33.7252,FOR SALE,-118.074,"$799,000","1,390",CA,16511 Bordeaux Lane 209,92649
+2,3,Dana Point,1,Condo/Townhome,33.472,FOR SALE,-117.693,"$759,900","1,966",CA,33791 Mariana Drive 3,92629
+2,2,Los Angeles (City),1,Condo/Townhome,34.09647,FOR SALE,-118.35141,"$750,000","1,355",CA,1416 North VISTA Street 2,90046
+2,3,Irvine,1,Condo/Townhome,33.6522,FOR SALE,-117.778,"$749,500","1,330",CA,34 Windchime,92603
+1,2,Sacramento,0,Condo/Townhome,38.62583,FOR SALE,-121.50008,"$152,000",956,CA,500 Del Verde Circle Unit 8,95833
+1,1,Palm Springs,0,Condo/Townhome,33.85802,FOR SALE,-116.55571,"$96,900",589,CA,2857 N Los Felices Rd #215,92262
+3,3,Los Angeles (City),0,Condo/Townhome,34.06281,FOR SALE,-118.30869,"$2,750,000","2,810",CA,3785 Wilshire Ph-5,90010
+2,2,Marina del Rey,1,Condo/Townhome,33.9846,FOR SALE,-118.445,"$2,000,000","1,770",CA,13700 Marina Pointe Drive PH1916,90292
+2,2,Laguna Beach,0,Condo/Townhome,33.506,FOR SALE,-117.748,"$1,775,000","1,150",CA,31423 Hwy Coast 12,92651
+3,4,Carlsbad,0,Condo/Townhome,33.1571,FOR SALE,-117.35,"$1,749,000","3,017",CA,3120 Lincoln St,92008
+2,3,Irvine,1,Condo/Townhome,33.6327,FOR SALE,-117.822,"$1,394,900","2,038",CA,1 Shade Tree,92603
+2,3,Manhattan Beach,1,Condo/Townhome,33.8807,FOR SALE,-118.379,"$1,150,000","1,747",CA,211 Aviation Place,90266
+2,3,Rancho Mirage,0,Condo/Townhome,33.767891,FOR SALE,-116.429863,"$949,000","3,061",CA,6 Trinity Court,92270
+3,3,Irvine,1,Condo/Townhome,33.664,FOR SALE,-117.776,"$839,800","1,822",CA,102 Oak Forest,92618
+3,3,Irvine,1,Condo/Townhome,33.664,FOR SALE,-117.776,"$839,800","1,822",CA,102 Oak Forest,92618
+2,3,Sherman Oaks,1,Condo/Townhome,34.1517,FOR SALE,-118.429,"$775,000","2,272",CA,4454 Ventura Canyon Avenue 308,91423
+2,3,Redondo Beach,1,Condo/Townhome,33.8735,FOR SALE,-118.369,"$769,000","1,692",CA,2308 Mathews Avenue 4,90278
+2,2,Westlake Village,1,Condo/Townhome,34.148916,FOR SALE,-118.834918,"$764,900","1,904",CA,1206 S Westlake Boulevard E,91361
+2,2,Oceanside,0,Condo/Townhome,33.2069,FOR SALE,-117.391,"$750,000","1,364",CA,1200 Harbor Dr. N 11C,92054
+2,2,Oceanside,0,Condo/Townhome,33.2069,FOR SALE,-117.391,"$750,000","1,364",CA,1200 Harbor Dr. N 11C,92054
+3,4,Lake Arrowhead,1,Condo/Townhome,34.2525,FOR SALE,-117.182,"$699,000","1,972",CA,184 State Hwy 173 50,92352
+2,2,San Diego,0,Condo/Townhome,32.7086,FOR SALE,-117.155,"$679,000","1,103",CA,321 10th Avenue 1407,92101
+2,2,Studio City,0,Condo/Townhome,34.14716,FOR SALE,-118.40485,"$645,000","1,297",CA,4212 WHITSETT Avenue 101,91604
+2,2,Oceanside,0,Condo/Townhome,33.1632,FOR SALE,-117.267,"$619,000","1,800",CA,4702 Majorca Way,92056
+2,3,Corona del Mar,1,Condo/Townhome,33.5971,FOR SALE,-117.865,"$2,595,000","2,194",CA,701 Poinsettia,92625
+2,4,Redondo Beach,1,Condo/Townhome,33.8745,FOR SALE,-118.379,"$1,299,000","2,340",CA,1916 Nelson Avenue A,90278
+2,2,San Diego,1,Condo/Townhome,32.7119,FOR SALE,-117.165,"$955,000","1,291",CA,645 Front 1606,92101
+2,2,Newport Beach,0,Condo/Townhome,33.6278,FOR SALE,-117.868,"$898,900","1,197",CA,59 Sea Pine Lane,92660
+3,3,Irvine,0,Condo/Townhome,33.6963,FOR SALE,-117.752,"$794,000","1,961",CA,73 Winding Way,92620
+2,3,Huntington Beach,0,Condo/Townhome,33.6629,FOR SALE,-117.971,"$660,000","1,287",CA,8933 Yolo Circle 1308C,92646
+2,3,Huntington Beach,0,Condo/Townhome,33.6629,FOR SALE,-117.971,"$660,000","1,287",CA,8933 Yolo Circle 1308C,92646
+2,2,Temple City,1,Condo/Townhome,34.1007,FOR SALE,-118.06,"$630,000","1,584",CA,9575 Broadway 2,91780
+1,1,San Jose,0,Condo/Townhome,37.2416,FOR SALE,-121.795,"$610,880",808,CA,5951 Sunstone Drive 309,95123
+2,3,Orange,1,Condo/Townhome,33.7962,FOR SALE,-117.818,"$599,000","1,771",CA,596 N Pageant Drive A,92869
+2,2,Oxnard,1,Condo/Townhome,34.19559,FOR SALE,-119.24458,"$579,000","1,258",CA,5413 Driftwood Street,93035
+2,2,San Diego,0,Condo/Townhome,32.711,FOR SALE,-117.165,"$550,000","1,036",CA,555 Front 401,92101
+2,3,Thousand Oaks,1,Condo/Townhome,34.214272,FOR SALE,-118.86706,"$519,900","1,501",CA,2601 Los Arcos Circle,91360
+2,2,Aliso Viejo,0,Condo/Townhome,33.5743,FOR SALE,-117.723,"$475,000","1,063",CA,59 Wisteria Place,92656
+2,2,Lake Forest,1,Condo/Townhome,33.6421,FOR SALE,-117.68,"$469,900","1,120",CA,25712 Le Parc 54,92630
+2,2,Chula Vista,1,Condo/Townhome,32.6579,FOR SALE,-116.97,"$419,000","1,458",CA,2207 Huntington Point Rd 15,91914
+2,2,San Diego,0,Condo/Townhome,32.7813,FOR SALE,-117.172,"$415,000","1,138",CA,2045 Burton Street 53,92111
+1,3,San Diego,1,Condo/Townhome,32.788,FOR SALE,-117.097,"$399,900","1,066",CA,4530 Vandever Avenue 3,92120
+3,3,Rancho Mirage,0,Condo/Townhome,33.792988,FOR SALE,-116.430763,"$399,089","2,227",CA,714 Inverness Drive,92270
+2,2,Long Beach,0,Condo/Townhome,33.7708,FOR SALE,-118.179,"$399,000",929,CA,1045 E 3rd Street 5,90802
+2,3,Pacoima,1,Condo/Townhome,34.2611,FOR SALE,-118.402,"$405,000","1,580",CA,12368 Osborne Street 19,91331
+2,2,Lake Forest,1,Condo/Townhome,33.6394,FOR SALE,-117.704,"$399,000","1,208",CA,22281 Vista Verde Drive,92630
+2,2,Camarillo,0,Condo/Townhome,34.224,FOR SALE,-119.039364,"$398,000",960,CA,641 Arneill Road,93010
+1,1,Long Beach,0,Condo/Townhome,33.7662,FOR SALE,-118.188,"$395,000",680,CA,388 E Ocean Boulevard 407,90802
+2,2,San Pedro,0,Condo/Townhome,33.756,FOR SALE,-118.308,"$394,900",840,CA,1441 Brett Place 341,90732
+2,3,Corona,1,Condo/Townhome,33.8534,FOR SALE,-117.544,"$379,000","1,385",CA,2000 Napoli Court 103,92881
+2,2,Laguna Woods,0,Condo/Townhome,33.6179,FOR SALE,-117.717,"$379,000","1,009",CA,2259 Via Puerta D,92637
+2,2,San Diego,0,Condo/Townhome,32.7669,FOR SALE,-117.18,"$375,000",972,CA,6406 Friars Road 235,92108
+2,2,San Diego,0,Condo/Townhome,32.6874,FOR SALE,-117.023,"$365,500","1,293",CA,1866 MANZANA Way,92139
+1,2,Lake Forest,0,Condo/Townhome,33.6405,FOR SALE,-117.68,"$364,900",957,CA,22182 Cedar Pointe 1D,92630
+2,3,Big Bear,0,Condo/Townhome,34.2379,FOR SALE,-116.888,"$349,900","1,528",CA,795 Summit Boulevard 3,92315
+2,3,Big Bear Lake,0,Condo/Townhome,34.2379,FOR SALE,-116.888,"$349,900","1,528",CA,795 Summit Boulevard 3,92315
+1,2,San Pedro,1,Condo/Townhome,33.7415,FOR SALE,-118.32,"$349,900","1,143",CA,374 S Miraleste Drive S 411,90732
+1,2,Torrance,0,Condo/Townhome,33.8126,FOR SALE,-118.295,"$349,900",796,CA,1133 Sepulveda Boulevard 202,90502
+2,2,Laguna Woods,0,Condo/Townhome,33.6074,FOR SALE,-117.744,"$349,000","1,079",CA,3302 Via Carrizo A,92637
+3,2,Arleta,0,Condo/Townhome,34.2492,FOR SALE,-118.447,"$339,900","1,217",CA,14333 Van Nuys Boulevard 56,91331
+2,3,Big Bear Lake,1,Condo/Townhome,34.2271,FOR SALE,-116.863,"$329,900","1,421",CA,1377 Clubview Drive 30,92315
+1,1,Newport Beach,0,Condo/Townhome,33.6251,FOR SALE,-117.933,"$324,900",561,CA,300 Cagney Lane 111,92663
+1,3,Alpine,1,Condo/Townhome,32.8354,FOR SALE,-116.756,"$322,000","1,240",CA,2636 Alpine Blvd B,91901
+2,3,Murrieta,1,Condo/Townhome,33.556,FOR SALE,-117.161,"$310,000","1,654",CA,39664 Columbia Union Drive B,92563
+2,2,Los Angeles,0,Condo/Townhome,34.1353,FOR SALE,-118.342,"$549,945","1,151",CA,3480 Barham Boulevard 311,90068
+2,2,Anaheim Hills,0,Condo/Townhome,33.8522,FOR SALE,-117.744,"$549,900","1,357",CA,7759 E Viewrim Drive,92808
+3,4,Santee,1,Condo/Townhome,32.8531,FOR SALE,-116.981,"$549,000","2,039",CA,9811 Old Tree Ln,92071
+2,2,Westlake Village,1,Condo/Townhome,34.162392,FOR SALE,-118.807394,"$549,000","1,251",CA,382 Via Colinas,91362
+2,2,San Diego,0,Condo/Townhome,32.7109,FOR SALE,-117.154,"$529,900","1,105",CA,550 Park Blvd 2202,92101
+3,2,Burbank,0,Condo/Townhome,34.1864,FOR SALE,-118.306,"$499,994","1,174",CA,552 E Palm Avenue G,91501
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6475,FOR SALE,-117.585,"$489,900","1,020",CA,41 Wild Horse Loop 37,92688
+2,2,San Diego,0,Condo/Townhome,32.7446,FOR SALE,-117.163,"$489,500","1,051",CA,3666 3rd Avenue 204,92103
+2,3,Simi Valley,0,Condo/Townhome,34.271404,FOR SALE,-118.690401,"$489,000","1,324",CA,1948 Suntree Lane A,93063
+1,1,Long Beach,0,Condo/Townhome,33.76616,FOR SALE,-118.18812,"$488,000",600,CA,388 East OCEAN 1102,90802
+1,1,Walnut Creek,0,Condo/Townhome,37.9139,FOR SALE,-122.058,"$478,000",858,CA,420 N Civic Dr 309,94596
+1,2,Imperial Beach,0,Condo/Townhome,32.583,FOR SALE,-117.128,"$475,000",800,CA,263 Dahlia Ave 7,91932
+2,2,Woodland Hills,0,Condo/Townhome,34.1707,FOR SALE,-118.601,"$465,000","1,050",CA,5500 Owensmouth Avenue 329,91367
+3,4,Saugus,0,Condo/Townhome,34.3968,FOR SALE,-118.537,"$454,850","1,790",CA,25401 Quail Creek Court,91350
+1,1,San Diego,0,Condo/Townhome,32.7097,FOR SALE,-117.154,"$450,000",966,CA,1150 J Street 220,92101
+2,3,Vallejo,1,Condo/Townhome,38.1304,FOR SALE,-122.212,"$449,000","1,713",CA,7508 King Leopold Ct,94591
+2,2,Oak Park,0,Condo/Townhome,34.1829,FOR SALE,-118.767,"$429,500","1,104",CA,631 Oak Run 307,91377
+3,4,Corona,1,Condo/Townhome,33.9742,FOR SALE,-117.575,"$425,990","1,682",CA,1014 Savi Drive 104,92880
+2,2,Pomona,1,Condo/Townhome,34.1121,FOR SALE,-117.749,"$425,000","1,370",CA,3784 Live Oak Drive,91767
+1,2,Trabuco Canyon,0,Condo/Townhome,33.5922,FOR SALE,-117.597,"$406,500",808,CA,103 White Sands,92679
+1,2,Santa Monica,0,Condo/Townhome,34.02228,FOR SALE,-118.47307,"$620,000",897,CA,1824 20TH Street C,90404
+1,1,Fremont,0,Condo/Townhome,37.4905,FOR SALE,-121.925,"$589,000",827,CA,330 Sequim Cmn,94539
+2,2,Anaheim Hills,0,Condo/Townhome,33.8367,FOR SALE,-117.775,"$579,888","1,472",CA,750 S Tourmaline Court,92807
+2,2,Redondo Beach,0,Condo/Townhome,33.8327,FOR SALE,-118.377,"$575,000",955,CA,603 S Prospect Avenue 307,90277
+2,3,Indio,2,Condo/Townhome,33.7347,FOR SALE,-116.192,"$569,990","2,274",CA,43252 Bacino Court,92203
+2,3,Monterey Park,1,Condo/Townhome,34.056,FOR SALE,-118.113,"$568,000","1,498",CA,522 Sefton Avenue D,91755
+2,3,Downey,1,Condo/Townhome,33.9458,FOR SALE,-118.114,"$559,900","1,494",CA,9120 Florence Avenue,90240
+2,2,Burbank,0,Condo/Townhome,34.1866,FOR SALE,-118.305,"$549,900","1,163",CA,601 E Orange Grove Avenue 101,91501
+1,1,Hermosa Beach,0,Condo/Townhome,33.8675,FOR SALE,-118.394,"$549,000",665,CA,1707 Pacific Coast Highway 409,90254
+1,3,Cypress,1,Condo/Townhome,33.8226,FOR SALE,-118.062,"$545,000","1,426",CA,9610 Bloomfield Avenue,90630
+2,3,Ladera Ranch,1,Condo/Townhome,33.5609,FOR SALE,-117.648,"$529,000","1,511",CA,23 Chadron Circle,92694
+2,2,Mission Viejo,1,Condo/Townhome,33.5603,FOR SALE,-117.66,"$525,000","1,223",CA,27815 Berwick 34,92691
+2,3,Sylmar,1,Condo/Townhome,34.3244,FOR SALE,-118.495,"$524,900","2,520",CA,16652 Nicklaus Drive 93,91342
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6409,FOR SALE,-117.589,"$524,900","1,342",CA,5 Via Barcelona,92688
+2,3,Valencia,1,Condo/Townhome,34.4297,FOR SALE,-118.54,"$495,000","1,433",CA,26607 Sierra Court,91354
+2,2,Monrovia,0,Condo/Townhome,34.1509,FOR SALE,-118.015,"$475,888","1,174",CA,752 W Foothill Boulevard 9,91016
+2,3,San Diego,0,Condo/Townhome,32.7467,FOR SALE,-117.143,"$475,000","1,047",CA,3759 Florida St L,92104
+2,2,Laguna Hills,1,Condo/Townhome,33.5818,FOR SALE,-117.703,"$469,900","1,270",CA,24415 Marquis Court 276,92653
+2,3,San Diego,0,Condo/Townhome,32.7603,FOR SALE,-117.081,"$469,000","1,452",CA,4108 Collwood Lane,92115
+1,3,North Hollywood,1,Condo/Townhome,34.205284,FOR SALE,-118.401451,"$469,000","1,308",CA,12316 Runnymede Street 3,91605
+1,1,Rancho Mission Viejo,1,Condo/Townhome,33.5277,FOR SALE,-117.618,"$449,000",974,CA,3 Higo Street,92694
+1,2,Trabuco Canyon,1,Condo/Townhome,33.5922,FOR SALE,-117.597,"$435,000","1,089",CA,53 White Sands,92679
+2,2,Laguna Woods,0,Condo/Townhome,33.6104,FOR SALE,-117.747,"$429,900","1,188",CA,3368 Punta Alta N,92637
+3,3,Laguna Woods,0,Condo/Townhome,33.6165,FOR SALE,-117.719,"$419,000","1,539",CA,2317 Via Puerta C,92637
+1,1,Long Beach,0,Condo/Townhome,33.7662,FOR SALE,-118.188,"$399,000",680,CA,388 E Ocean Boulevard 406,90802
+1,1,San Diego,0,Condo/Townhome,32.7159,FOR SALE,-117.151,"$379,000",808,CA,1480 Broadway 2620,92101
+2,2,Anaheim,0,Condo/Townhome,33.839,FOR SALE,-117.977,"$375,000","1,138",CA,2637 W Cameron Court 118,92801
+1,1,Aliso Viejo,0,Condo/Townhome,33.5694,FOR SALE,-117.722,"$369,000",762,CA,23412 PACIFIC PARK Drive 28B,92656
+1,1,Dana Point,0,Condo/Townhome,33.4705,FOR SALE,-117.683,"$365,000",650,CA,33852 Del Obispo Street 8,92629
+2,2,La Mesa,0,Condo/Townhome,32.7608,FOR SALE,-117.034,"$359,500",982,CA,4512 Parks Avenue 20,91942
+1,2,Torrance,1,Condo/Townhome,33.8143,FOR SALE,-118.289,"$355,000",842,CA,23236 Sesame Street D,90502
+1,2,Huntington Beach,0,Condo/Townhome,33.7205,FOR SALE,-117.991,"$349,900",835,CA,16713 Viewpoint Lane 138B,92647
+1,2,Placentia,0,Condo/Townhome,33.8543,FOR SALE,-117.883,"$347,900",864,CA,948 Eastwind Drive,92870
+1,1,Laguna Niguel,0,Condo/Townhome,33.5658,FOR SALE,-117.703,"$343,900",890,CA,27368 Young Drive,92677
+1,2,Canoga Park,0,Condo/Townhome,34.1945,FOR SALE,-118.6,"$330,000",868,CA,6825 Alabama Avenue 309,91303
+1,2,San Diego,0,Condo/Townhome,32.7539,FOR SALE,-117.115,"$325,000",760,CA,4227 36Th St 7,92104
+2,2,Agoura Hills,0,Condo/Townhome,34.1548,FOR SALE,-118.755,"$317,000",868,CA,5800 Kanan Road 264,91301
+1,1,South Lake Tahoe,0,Condo/Townhome,38.947647,FOR SALE,-119.960815,"$307,000",627,CA,3535 Lake Tahoe Boulevard Unit: 322,96150
+2,2,Long Beach,0,Condo/Townhome,33.7884,FOR SALE,-118.164,"$269,900",842,CA,2343 E 17th Street 116,90804
+1,1,Thousand Oaks,0,Condo/Townhome,34.190377,FOR SALE,-118.885663,"$219,000",514,CA,351 Chestnut Hill Court 36,91360
+2,3,Bermuda Dunes,0,Condo/Townhome,33.738392,FOR SALE,-116.289398,"$325,000","1,952",CA,78590 Montego Bay Circle,92203
+1,2,Bellflower,0,Condo/Townhome,33.8704,FOR SALE,-118.122,"$325,000",800,CA,9926 Cedar Street,90706
+1,2,Bellflower,0,Condo/Townhome,33.8704,FOR SALE,-118.122,"$325,000",800,CA,9926 Cedar Street,90706
+1,1,Tustin,0,Condo/Townhome,33.736,FOR SALE,-117.811,"$309,000",800,CA,13722 Red Hill Avenue 28,92780
+1,2,Pacoima,1,Condo/Townhome,34.2624,FOR SALE,-118.403,"$305,000","1,224",CA,12351 Osborne Street 8,91331
+1,1,Lake Forest,0,Condo/Townhome,33.6414,FOR SALE,-117.681,"$300,000",599,CA,25671 Le Parc 1,92630
+2,2,San Diego,0,Condo/Townhome,32.7756,FOR SALE,-117.051,"$299,900","1,139",CA,6851 Alvarado Road 10,92120
+2,2,San Diego,0,Condo/Townhome,32.7756,FOR SALE,-117.051,"$299,900","1,139",CA,6851 Alvarado Road 10,92120
+2,2,Loma Linda,0,Condo/Townhome,34.0462,FOR SALE,-117.254,"$295,000","1,014",CA,11424 Benton Street,92354
+2,2,Loma Linda,0,Condo/Townhome,34.0462,FOR SALE,-117.254,"$295,000","1,014",CA,11424 Benton Street,92354
+2,2,Riverside,0,Condo/Townhome,33.9552,FOR SALE,-117.32,"$282,000","1,121",CA,375 Central Avenue 7,92507
+2,2,Canyon Country,0,Condo/Townhome,34.4135,FOR SALE,-118.462,"$282,000",850,CA,18750 Mandan Street 1114,91351
+2,2,Palm Springs,0,Condo/Townhome,33.815594,FOR SALE,-116.526634,"$276,000","1,199",CA,1777 East Ramon Road 1,92264
+1,1,San Diego,0,Condo/Townhome,32.8013,FOR SALE,-117.027,"$249,950",724,CA,7838 Cowles Mountain Court C17,92119
+2,2,Garden Grove,0,Condo/Townhome,33.7732,FOR SALE,-117.979,"$239,000",919,CA,8800 Garden Grove Boulevard 22,92844
+1,1,Yorba Linda,0,Condo/Townhome,33.8918,FOR SALE,-117.81,"$225,900",552,CA,4748 Lakeview Avenue 33,92886
+2,2,Porterville,0,Condo/Townhome,36.075317,FOR SALE,-119.010071,"$119,000","1,375",CA,520 N Murry Street,93257
+3,3,Copperopolis,0,Condo/Townhome,37.94795,FOR SALE,-120.63046,"$499,000","1,874",CA,1860 Cheyenne Rd.,95228
+2,2,Napa,0,Condo/Townhome,38.3538,FOR SALE,-122.26616,"$850,000","1,004",CA,628 Cottage Dr,94558
+2,2,Marina Del Rey,0,Condo/Townhome,33.98458,FOR SALE,-118.44478,"$1,055,000","1,584",CA,13650 MARINA POINTE Drive 408,90292
+3,3,El Segundo,1,Condo/Townhome,33.9184,FOR SALE,-118.421,"$999,000","1,685",CA,221 Whiting Street 2,90245
+2,3,Rancho Palos Verdes,1,Condo/Townhome,33.778,FOR SALE,-118.39,"$950,000","2,412",CA,6317 Ridgepath Court,90275
+2,3,Irvine,0,Condo/Townhome,33.655,FOR SALE,-117.816,"$949,000","2,289",CA,42 Valley 28,92612
+2,3,Yorba Linda,1,Condo/Townhome,33.893,FOR SALE,-117.813,"$785,500","2,061",CA,3747 Paisley Drive,92886
+2,2,San Clemente,0,Condo/Townhome,33.4623,FOR SALE,-117.582,"$775,000","1,578",CA,6 Corte Pinturas,92673
+3,4,Montrose,0,Condo/Townhome,34.209347,FOR SALE,-118.231819,"$748,000","1,770",CA,2435 Florencita Avenue 204,91020
+3,3,Rancho Mission Viejo,0,Condo/Townhome,33.5584,FOR SALE,-117.633,"$744,990","1,760",CA,101 Garcilla,92694
+3,2,Palos Verdes Estates,0,Condo/Townhome,33.7752,FOR SALE,-118.417,"$725,000","1,878",CA,2306 Palos Verdes Drive W 103,90274
+2,3,Costa Mesa,1,Condo/Townhome,33.6575,FOR SALE,-117.942,"$720,000","1,551",CA,1001 Nancy Lane 1001,92627
+2,3,Carlsbad,1,Condo/Townhome,33.0813,FOR SALE,-117.238,"$699,000","2,089",CA,7735 Via Rico,92009
+2,4,Rancho Santa Margarita,1,Condo/Townhome,33.5898,FOR SALE,-117.629,"$659,000","1,711",CA,193 Seacountry Ln,92688
+2,4,Rancho Santa Margarita,1,Condo/Townhome,33.5898,FOR SALE,-117.629,"$659,000","1,711",CA,193 Seacountry Ln,92688
+2,3,San Juan Capistrano,0,Condo/Townhome,33.5003,FOR SALE,-117.648,"$649,000","1,674",CA,31832 Via Flores,92675
+2,2,Rancho Mission Viejo,0,Condo/Townhome,33.5234,FOR SALE,-117.626,"$628,500","1,276",CA,87 Galan Street,92694
+2,3,Cypress,1,Condo/Townhome,33.8164,FOR SALE,-118.062,"$618,000","1,587",CA,4027 Larwin Avenue,90630
+2,3,La Habra,1,Condo/Townhome,33.940683529,FOR SALE,-117.94833,"$534,900","1,722",CA,960 HILLSIDE Street B,90631
+2,3,La Habra,1,Condo/Townhome,33.940683529,FOR SALE,-117.94833,"$534,900","1,722",CA,960 HILLSIDE Street D,90631
+3,3,Palm Springs,0,Condo/Townhome,33.79345,FOR SALE,-116.54451,"$505,000","3,444",CA,215 East LA VERNE Way,92264
+2,3,Northridge,1,Condo/Townhome,34.2224,FOR SALE,-118.509,"$499,800","1,612",CA,17241 Roscoe Boulevard 5,91325
+2,4,San Diego,0,Condo/Townhome,32.9113,FOR SALE,-117.132,"$565,000","1,750",CA,10572 Greenford Dr,92126
+2,2,Dana Point,0,Condo/Townhome,33.4883,FOR SALE,-117.713,"$549,900","1,130",CA,22 Corniche Drive D,92629
+2,2,San Leandro,0,Condo/Townhome,37.6991,FOR SALE,-122.179,"$545,000","1,173",CA,2365 Fairway Dr,94577
+2,2,Rancho Santa Margarita,1,Condo/Townhome,33.6183,FOR SALE,-117.615,"$544,950","1,425",CA,71 Encantado,92688
+2,2,Rancho Santa Margarita,1,Condo/Townhome,33.6183,FOR SALE,-117.615,"$544,950","1,425",CA,71 Encantado,92688
+2,2,Mission Viejo,0,Condo/Townhome,33.6241,FOR SALE,-117.646,"$540,000","1,414",CA,27810 Gleneagles 73,92692
+2,3,Cypress,1,Condo/Townhome,33.8177,FOR SALE,-118.031,"$540,000","1,321",CA,9950 Del Rio Way 99,90630
+2,3,Lake Forest,0,Condo/Townhome,33.6553,FOR SALE,-117.666,"$539,000","1,208",CA,26571 Moon Ridge,92630
+2,3,Downey,1,Condo/Townhome,33.9323,FOR SALE,-118.117,"$512,000","1,705",CA,9357 Firestone,90241
+1,2,Irvine,1,Condo/Townhome,33.6963,FOR SALE,-117.774,"$499,866","1,100",CA,23 Heritage,92604
+2,3,San Pedro,0,Condo/Townhome,33.7568,FOR SALE,-118.306,"$499,000","1,365",CA,1424 Brett Place 155,90732
+2,3,Oakland,0,Condo/Townhome,37.7902,FOR SALE,-122.245,"$499,000","1,176",CA,1515 14Th Ave 202,94606
+4,3,Pomona,0,Condo/Townhome,34.0465,FOR SALE,-117.758,"$495,000","1,850",CA,1370 S White Avenue,91766
+2,2,Mission Viejo,0,Condo/Townhome,33.5596,FOR SALE,-117.663,"$495,000","1,206",CA,27677 Aquamarine 151,92691
+2,4,Anaheim Hills,0,Condo/Townhome,33.8471,FOR SALE,-117.833,"$492,500","1,447",CA,401 N Powder Horn Drive 4,92807
+2,4,Anaheim Hills,0,Condo/Townhome,33.8471,FOR SALE,-117.833,"$492,500","1,447",CA,401 N Powder Horn Drive 4,92807
+2,3,Los Angeles,0,Condo/Townhome,34.0681,FOR SALE,-118.239,"$488,000","1,403",CA,1550 Stadium Way 6,90012
+2,2,Anaheim Hills,0,Condo/Townhome,33.8617,FOR SALE,-117.741,"$475,000","1,000",CA,8131 E Oak Ridge Circle,92808
+2,2,San Diego,0,Condo/Townhome,32.7439,FOR SALE,-117.163,"$465,000",724,CA,3620 3rd Avenue 206,92103
+2,2,San Diego,0,Condo/Townhome,32.8635,FOR SALE,-117.198,"$462,000",848,CA,7180 Shoreline Dr 5304,92122
+2,2,San Diego,0,Condo/Townhome,32.7086,FOR SALE,-117.16,"$539,900",910,CA,530 K St 1115,92101
+3,3,La Quinta,1,Condo/Townhome,33.679367,FOR SALE,-116.263748,"$539,000","2,447",CA,80293 Via Tesoro,92253
+3,3,Tarzana,1,Condo/Townhome,34.1719,FOR SALE,-118.528,"$539,000","2,112",CA,18100 Burbank Boulevard 20,91356
+2,2,Sun Valley,1,Condo/Townhome,34.2133,FOR SALE,-118.339,"$539,000","1,244",CA,9514 Via Salerno,91504
+2,2,Sun Valley,1,Condo/Townhome,34.2133,FOR SALE,-118.339,"$539,000","1,244",CA,9514 Via Salerno,91504
+2,2,Calabasas,1,Condo/Townhome,34.137579,FOR SALE,-118.705539,"$535,000","1,385",CA,4240 Lost Hills Road 803,91301
+2,3,La Quinta,0,Condo/Townhome,33.689129,FOR SALE,-116.29953,"$525,000","1,960",CA,49823 Adelito Drive,92253
+2,2,San Pedro,1,Condo/Townhome,33.761,FOR SALE,-118.307,"$524,900","1,307",CA,1428 Stonewood Court,90732
+1,2,Irvine,1,Condo/Townhome,33.7007,FOR SALE,-117.8,"$499,999",952,CA,387 Deerfield Avenue 77,92606
+2,2,Irvine,0,Condo/Townhome,33.6742,FOR SALE,-117.775,"$489,999",951,CA,255 Tarocco,92618
+2,2,San Diego,0,Condo/Townhome,32.7226,FOR SALE,-117.157,"$480,000",971,CA,889 Date St 339,92101
+2,3,Palm Desert,0,Condo/Townhome,33.737831,FOR SALE,-116.390663,"$449,900","2,055",CA,118 Castellana West,92260
+2,3,Rancho Cucamonga,1,Condo/Townhome,34.1098,FOR SALE,-117.555,"$440,000","1,696",CA,11450 Church Street 86,91730
+2,3,Rancho Cucamonga,1,Condo/Townhome,34.1098,FOR SALE,-117.555,"$440,000","1,696",CA,11450 Church Street 86,91730
+2,3,Ventura,1,Condo/Townhome,34.262693,FOR SALE,-119.197025,"$435,000","1,259",CA,1552 Bittern Court,93003
+1,3,Simi Valley,1,Condo/Townhome,34.259892,FOR SALE,-118.77856,"$429,900","1,448",CA,1101 Catlin Street C,93065
+4,3,Palm Desert,0,Condo/Townhome,33.756123,FOR SALE,-116.346718,"$419,900","2,764",CA,198 Wild Horse Drive,92211
+1,2,Simi Valley,1,Condo/Townhome,34.276835,FOR SALE,-118.687954,"$399,500","1,156",CA,2280 Birchglen Street 156,93063
+2,2,Chino Hills,0,Condo/Townhome,33.9849,FOR SALE,-117.751,"$399,000","1,025",CA,2487 Moon Dust Drive E,91709
+2,2,Chino Hills,0,Condo/Townhome,33.9849,FOR SALE,-117.751,"$399,000","1,025",CA,2487 Moon Dust Drive E,91709
+1,1,Tustin,0,Condo/Townhome,33.73665,FOR SALE,-117.8123,"$315,000",696,CA,13722 RED HILL Avenue 9,92780
+1,1,Lake Forest,0,Condo/Townhome,33.6595,FOR SALE,-117.65,"$310,000",686,CA,20702 El Toro Road 406,92630
+2,2,Big Bear Lake,0,Condo/Townhome,34.2418,FOR SALE,-116.888,"$299,900","1,442",CA,569 Summit Boulevard 2,92315
+2,4,Redlands,1,Condo/Townhome,34.0719,FOR SALE,-117.174,"$289,900","1,406",CA,700 Church Place 2,92374
+2,2,Downey,0,Condo/Townhome,33.9366,FOR SALE,-118.13,"$250,000",770,CA,11410 Brookshire Avenue 222,90241
+1,1,Irvine,0,Condo/Townhome,33.715,FOR SALE,-117.76,"$245,000",415,CA,264 Streamwood,92620
+2,2,Palm Desert,0,Condo/Townhome,33.756283,FOR SALE,-116.314217,"$234,900","1,177",CA,40340 Bay Hill Way,92211
+2,2,Big Bear,0,Condo/Townhome,34.237,FOR SALE,-116.886,"$230,000","1,053",CA,41935 Switzerland Drive 127,92315
+1,1,Palm Springs,0,Condo/Townhome,33.859982,FOR SALE,-116.554632,"$114,900",589,CA,2810 North Arcadia Court 215,92262
+2,2,Oxnard,0,Condo/Townhome,34.17658,FOR SALE,-119.23173,"$638,888","1,549",CA,4451 Antigua Way,93035
+2,4,Redding,1,Condo/Townhome,40.5764,FOR SALE,-122.43736,"$472,555","2,334",CA,4695 Mayo Court,96001
+2,3,San Pedro,0,Condo/Townhome,33.73177,FOR SALE,-118.28938,"$439,000","1,723",CA,560 W 14th Street 4,90731
+2,3,Montclair,0,Condo/Townhome,34.05335,FOR SALE,-117.69119,"$365,000","1,196",CA,11048  Buckingham Way,91763
+2,2,Bonsall,0,Condo/Townhome,33.29375,FOR SALE,-117.21265,"$294,500",878,CA,31916 Del Cielo Este 19,92003
+2,3,Oakdale,0,Condo/Townhome,37.77436,FOR SALE,-120.84789,"$279,000","1,584",CA,687 Smithwood Dr,95361
+1,3,Stockton,0,Condo/Townhome,38.00051,FOR SALE,-121.30488,"$255,000","1,106",CA,122 E Yorkshire Dr,95207
+2,2,Glennville,0,Condo/Townhome,35.72897,FOR SALE,-118.70318,"$155,900","1,184",CA,10680 Highway 155,93226
+3,3,Los Angeles,1,Condo/Townhome,34.05933,FOR SALE,-118.44005,"$4,995,000","3,280",CA,10800 Wilshire Blvd Unit 1804,90024
+3,3,Pasadena,0,Condo/Townhome,34.13803,FOR SALE,-118.15763,"$1,575,000","2,347",CA,344 West Bellevue Drive #9,91105
+3,3,Burbank,1,Condo/Townhome,34.1881,FOR SALE,-118.308,"$775,000","2,351",CA,572 E San Jose Avenue 106,91501
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6114,FOR SALE,-117.622,"$679,900","1,933",CA,12 Regato,92688
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6114,FOR SALE,-117.622,"$679,900","1,933",CA,12 Regato,92688
+2,2,El Segundo,0,Condo/Townhome,33.9264,FOR SALE,-118.416,"$609,000","1,173",CA,745 Main Street 104,90245
+1,2,San Clemente,0,Condo/Townhome,33.442,FOR SALE,-117.625,"$579,000",984,CA,2137 Avenida Espada 107,92673
+1,1,Redondo Beach,0,Condo/Townhome,33.8327,FOR SALE,-118.377,"$575,000",875,CA,605 S Prospect Avenue 303,90277
+2,4,Escondido,1,Condo/Townhome,33.1284,FOR SALE,-117.107,"$529,900","1,918",CA,784 Trunorth Cir,92026
+3,3,Rancho Cucamonga,1,Condo/Townhome,34.1137,FOR SALE,-117.536,"$509,000","1,560",CA,7693 Chalet Place 6,91739
+1,1,Glendale,0,Condo/Townhome,34.16724,FOR SALE,-118.256271,"$460,000",759,CA,125 W Mountain Street 210,91202
+1,3,Seal Beach,1,Condo/Townhome,33.7817,FOR SALE,-118.076,"$450,000",951,CA,12478 Montecito Road 6,90740
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6408,FOR SALE,-117.589,"$439,000","1,179",CA,15 Via Pamplona,92688
+2,3,West Covina,1,Condo/Townhome,34.0498,FOR SALE,-117.91,"$419,900","1,480",CA,1657 Bridgeport,91791
+2,2,San Pedro,0,Condo/Townhome,33.7412,FOR SALE,-118.316,"$359,999","1,143",CA,356 S Miraleste Drive 323,90732
+3,3,Clio,1,Condo/Townhome,39.7193,FOR SALE,-120.542,"$359,000","2,135",CA,8 Deer Creek Crossing,96106
+2,2,Temecula,0,Condo/Townhome,33.4713,FOR SALE,-117.116,"$325,000","1,340",CA,44891 Athel Way 47,92592
+2,2,Laguna Woods,0,Condo/Townhome,33.6176,FOR SALE,-117.714,"$235,000","1,009",CA,2118 Via Puerta P,92637
+2,2,Big Bear Lake,0,Condo/Townhome,34.237,FOR SALE,-116.886,"$230,000","1,053",CA,41935 Switzerland Drive 127,92315
+1,2,San Diego,0,Condo/Townhome,32.6893,FOR SALE,-117.098,"$225,000",914,CA,4460 Delta St 9,92113
+2,2,El Cerrito,0,Condo/Townhome,37.89835,FOR SALE,-122.2896,"$1,035,000","1,210",CA,7600 Ward Ave,94530
+2,4,Dos Palos,0,Condo/Townhome,36.99779,FOR SALE,-120.64232,"$775,000","1,911",CA,19868 Reynolds Ave,93620
+2,3,Chatsworth,1,Condo/Townhome,34.255,FOR SALE,-118.618,"$510,000","2,138",CA,10030 Larwin Avenue 2,91311
+2,4,Fullerton,1,Condo/Townhome,33.8867,FOR SALE,-117.878,"$510,000","1,652",CA,2928 Barrington Court,92831
+2,2,Woodland Hills,0,Condo/Townhome,34.1834,FOR SALE,-118.599,"$509,000","1,240",CA,21545 Erwin Street 95,91367
+3,3,Lake Forest,0,Condo/Townhome,33.6794,FOR SALE,-117.634,"$499,000","1,256",CA,28458 Yosemite Drive,92679
+2,3,Monterey Park,1,Condo/Townhome,34.0608,FOR SALE,-118.134,"$495,000","1,250",CA,227 S Atlantic Boulevard B,91754
+2,3,San Marcos,1,Condo/Townhome,33.0991,FOR SALE,-117.201,"$480,000","1,480",CA,1127 Elfin Forest Rd E,92078
+2,3,Seal Beach,0,Condo/Townhome,33.7852,FOR SALE,-118.075,"$479,000","1,124",CA,12200 Montecito Road G101,90740
+2,3,Seal Beach,0,Condo/Townhome,33.7852,FOR SALE,-118.075,"$479,000","1,124",CA,12200 Montecito Road G101,90740
+2,3,Anaheim,0,Condo/Townhome,33.8355,FOR SALE,-117.905,"$469,880","1,185",CA,925 E Broadway,92805
+3,3,Palm Desert,0,Condo/Townhome,33.75948,FOR SALE,-116.385323,"$459,900","2,278",CA,2286 Via Alba,92260
+2,3,Placentia,1,Condo/Townhome,33.8716,FOR SALE,-117.865,"$459,900","1,270",CA,349 E Chapman Avenue B,92870
+1,2,Glendale,1,Condo/Townhome,34.138554,FOR SALE,-118.230011,"$459,000",809,CA,1523 E Windsor Road 115B,91205
+2,2,Camarillo,0,Condo/Townhome,34.203204,FOR SALE,-118.984503,"$439,500","1,029",CA,859 Via Montanez,93012
+1,2,Tustin,1,Condo/Townhome,33.7367,FOR SALE,-117.811,"$425,000","1,005",CA,13660 Red Hill Avenue 52 C,92780
+1,2,Walnut Creek,0,Condo/Townhome,37.8674,FOR SALE,-122.074,"$419,900","1,081",CA,2300 Tice Creek Dr 3,94595
+1,3,Thousand Oaks,1,Condo/Townhome,34.214897,FOR SALE,-118.890626,"$399,000","1,185",CA,569 Serento Circle,91360
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6365,FOR SALE,-117.612,"$387,500",900,CA,79 Abrigo,92688
+2,2,Canyon Country,0,Condo/Townhome,34.4022,FOR SALE,-118.453,"$370,000","1,022",CA,17971 Lost Canyon Road 82,91387
+2,2,Tujunga,0,Condo/Townhome,34.2539,FOR SALE,-118.289,"$349,000",756,CA,10149 Commerce Avenue 10,91042
+1,1,Olympic Valley,0,Condo/Townhome,39.1968,FOR SALE,-120.233,"$328,000",620,CA,1850 Village South Road 4-223,96146
+2,2,Laguna Niguel,1,Condo/Townhome,33.5549,FOR SALE,-117.692,"$455,000","1,124",CA,25111 La Jolla Way D,92677
+2,2,Aliso Viejo,0,Condo/Townhome,33.6,FOR SALE,-117.745,"$450,000",975,CA,138 Cinnamon Teal,92656
+2,3,Lakewood,1,Condo/Townhome,33.8439,FOR SALE,-118.085,"$449,000","1,361",CA,11628 205th Street,90715
+2,2,Garden Grove,1,Condo/Townhome,33.7802,FOR SALE,-118.013,"$435,000","1,330",CA,6848 Citriadora Court 74,92845
+3,3,Palm Desert,1,Condo/Townhome,33.756664,FOR SALE,-116.322311,"$419,000","2,182",CA,882 Red Arrow Trail,92211
+1,2,Mission Viejo,0,Condo/Townhome,33.5614,FOR SALE,-117.662,"$399,900",840,CA,26924 Carnelian,92691
+1,2,Mission Viejo,0,Condo/Townhome,33.5614,FOR SALE,-117.662,"$399,900",840,CA,26924 Carnelian,92691
+2,2,Rancho Cucamonga,0,Condo/Townhome,34.1031,FOR SALE,-117.621,"$388,800","1,246",CA,8427 Autumn Leaf Drive,91730
+2,2,San Diego,0,Condo/Townhome,32.961,FOR SALE,-117.1,"$380,000",881,CA,10359 Azuaga St 194,92129
+2,4,Riverside,1,Condo/Townhome,33.9409,FOR SALE,-117.359,"$379,900","2,004",CA,2260 El Capitan Drive,92506
+2,2,Inglewood,0,Condo/Townhome,33.96857,FOR SALE,-118.36852,"$379,000",952,CA,805 INDUSTRIAL Avenue 6,90302
+2,2,Rancho Mirage,1,Condo/Townhome,33.757298,FOR SALE,-116.414162,"$365,000","1,750",CA,6 La Ronda Drive,92270
+2,2,Corona,0,Condo/Townhome,33.8736,FOR SALE,-117.627,"$355,000","1,115",CA,1151 San Nicolas Court 104,92882
+2,2,El Cajon,1,Condo/Townhome,32.8238,FOR SALE,-116.932,"$350,000","1,540",CA,12027 Royal Road 12,92021
+2,2,Oceanside,0,Condo/Townhome,33.2186,FOR SALE,-117.32,"$315,000","1,050",CA,3812 Orange Way,92057
+2,2,Compton,1,Condo/Townhome,33.9004,FOR SALE,-118.224,"$299,000","1,240",CA,500 N Willowbrook Avenue G1,90220
+1,1,Pomona,0,Condo/Townhome,34.0253,FOR SALE,-117.763,"$298,800",751,CA,27 Carriage Way,91766
+1,3,Escondido,1,Condo/Townhome,33.1026,FOR SALE,-117.07,"$295,000","1,208",CA,170 W Vermont 10,92025
+1,2,Saugus,0,Condo/Townhome,34.4506,FOR SALE,-118.499,"$285,000",834,CA,20811 Plum Canyon Road 202,91350
+2,2,Palm Desert,0,Condo/Townhome,33.762699,FOR SALE,-116.354393,"$269,000","1,360",CA,775 Montana Vista Drive,92211
+2,3,Lake Elsinore,1,Condo/Townhome,33.6608,FOR SALE,-117.306,"$249,000","1,477",CA,1800 E Lakeshore Drive 2503,92530
+2,2,Riverside,0,Condo/Townhome,33.9828,FOR SALE,-117.336,"$249,000",840,CA,1110 W Blaine Street 202,92507
+1,2,San Diego,0,Condo/Townhome,32.6895,FOR SALE,-117.1,"$199,000",753,CA,4398 Delta 1,92113
+2,2,Helendale,0,Condo/Townhome,34.7516,FOR SALE,-117.341,"$150,000","1,224",CA,27535 Lakeview Drive 37,92342
+2,2,Palm Springs,0,Condo/Townhome,33.81615,FOR SALE,-116.53428,"$150,000",916,CA,1050 East RAMON Road 1,92264
+1,1,Palm Springs,0,Condo/Townhome,33.86124,FOR SALE,-116.55753,"$103,000",589,CA,675 North LOS FELICES Circle J 206,92262
+3,3,Oakdale,0,Condo/Townhome,37.78013,FOR SALE,-120.77922,"$619,900","2,214",CA,11706 Big Oak Ct,95361
+2,3,Riverbank,0,Condo/Townhome,37.73546,FOR SALE,-120.95902,"$489,900","2,195",CA,6607 Oakdale Rd,95367
+3,4,Los Banos,0,Condo/Townhome,37.08518,FOR SALE,-120.84015,"$379,900","2,319",CA,756 Rhone Ct,93635
+2,3,Modesto,0,Condo/Townhome,37.66081,FOR SALE,-120.96127,"$329,900","1,452",CA,2009 Woodacre Dr,95355
+3,2,Los Angeles,0,Condo/Townhome,34.05776,FOR SALE,-118.46875,"$1,195,000","1,725",CA,575 S Barrington Ave Unit 210,90049
+2,2,Rancho Palos Verdes,0,Condo/Townhome,33.72726,FOR SALE,-118.33837,"$949,000","1,373",CA,3200 La Rotonda Drive #102,90275
+2,2,San Diego,0,Condo/Townhome,32.73741,FOR SALE,-117.16078,"$899,000","1,167",CA,475 Redwood St 708,92103
+2,2,Studio City,0,Condo/Townhome,34.15067,FOR SALE,-118.38197,"$500,000",884,CA,11485 Moorpark St Unit 2,91602
+1,2,Gilroy,1,Condo/Townhome,37.01683,FOR SALE,-121.59972,"$499,999","1,120",CA,8408 Delta Dr,95020
+1,1,San Jose,0,Condo/Townhome,37.32031,FOR SALE,-121.84224,"$398,000",730,CA,1088 Summerplace Dr,95122
+3,3,Fontana,0,Condo/Townhome,34.03645,FOR SALE,-117.48386,"$380,900","1,279",CA,14720 Long View Dr.,92337
+1,1,Mission Viejo,1,Condo/Townhome,33.62419,FOR SALE,-117.67383,"$305,000",698,CA,26181 La Real #A,92691
+2,2,West Hollywood,1,Condo/Townhome,34.09159,FOR SALE,-118.37839,"$887,000","1,200",CA,1131 ALTA LOMA Road 129,90069
+3,3,Irvine,1,Condo/Townhome,33.6861,FOR SALE,-117.736,"$810,000","1,939",CA,106 Acamar,92618
+3,3,Rancho Mirage,0,Condo/Townhome,33.761333,FOR SALE,-116.421532,"$795,000","3,032",CA,156 Yale Drive,92270
+3,2,San Juan Capistrano,0,Condo/Townhome,33.4916,FOR SALE,-117.652,"$659,000","1,763",CA,27399 Paseo Sienna,92675
+3,2,San Juan Capistrano,0,Condo/Townhome,33.4916,FOR SALE,-117.652,"$659,000","1,763",CA,27399 Paseo Sienna,92675
+2,3,Laguna Woods,0,Condo/Townhome,33.6111,FOR SALE,-117.743,"$648,000","1,656",CA,5515 Paseo Del Lago W 3A,92637
+2,2,Westlake Village,0,Condo/Townhome,34.1451,FOR SALE,-118.822,"$624,999","1,179",CA,4098 Lake Harbor Lane,91361
+3,3,Nipomo,1,Condo/Townhome,35.028,FOR SALE,-120.555,"$595,000","1,933",CA,1187 Swallowtail Way 66,93444
+3,3,Valencia,0,Condo/Townhome,34.4573,FOR SALE,-118.558,"$558,000","2,090",CA,28553 Pietro Drive,91354
+2,4,Canyon Country,1,Condo/Townhome,34.4321,FOR SALE,-118.416,"$429,000","1,580",CA,28955 Oak Spring Canyon Road 2,91387
+2,3,Ontario,1,Condo/Townhome,34.0685,FOR SALE,-117.614,"$425,000","1,900",CA,433 N Placer Privado,91764
+2,3,El Cajon,1,Condo/Townhome,32.8288,FOR SALE,-116.905,"$419,900","1,378",CA,8359 Ora Belle Lane,92021
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6368,FOR SALE,-117.611,"$419,900",990,CA,2 Acalla,92688
+2,2,Rancho Santa Margarita,0,Condo/Townhome,33.6368,FOR SALE,-117.611,"$419,900",990,CA,2 Acalla,92688
+1,1,Aliso Viejo,0,Condo/Townhome,33.5694,FOR SALE,-117.722,"$379,000",780,CA,23412 Pacific Park Drive 17J,92656
+1,1,Aliso Viejo,0,Condo/Townhome,33.5694,FOR SALE,-117.722,"$379,000",780,CA,23412 Pacific Park Drive 17J,92656
+1,1,San Diego,0,Condo/Townhome,32.7476,FOR SALE,-117.145,"$369,900",694,CA,3815 Georgia Street 307,92103
+1,1,Olympic Valley,0,Condo/Townhome,39.1976,FOR SALE,-120.233,"$359,000",580,CA,1750 Village East Road 5-329,96146
+2,3,Huntington Beach,0,Condo/Townhome,33.7281,FOR SALE,-118.051,"$345,000","1,148",CA,4447 Chase Drive 17,92649
+2,3,Huntington Beach,0,Condo/Townhome,33.7281,FOR SALE,-118.051,"$345,000","1,148",CA,4447 Chase Drive 17,92649
+4,3,Los Angeles,2,Condo/Townhome,34.06167,FOR SALE,-118.43432,"$13,500,000","5,770",CA,10601 Wilshire Blvd Unit PHW,90024
+4,4,Lake Almanor West,1,Condo/Townhome,40.24693,FOR SALE,-121.21213,"$2,395,000","5,482",CA,187 Lake Almanor West Drive,96020
+2,2,Malibu,0,Condo/Townhome,34.02955,FOR SALE,-118.75375,"$1,799,000",920,CA,26666 Seagull Way Unit C109,90265
+4,5,San Gabriel,1,Condo/Townhome,34.112146,FOR SALE,-118.088392,"$1,780,000","2,912",CA,6250 N Charlotte Avenue,91775
+2,2,San Francisco,0,Condo/Townhome,37.75683,FOR SALE,-122.44456,"$1,450,000","1,751",CA,5 Burnett N Avenue Unit 17,94131
+3,2,Los Angeles,0,Condo/Townhome,34.0829,FOR SALE,-118.33185,"$998,500","1,542",CA,647 Wilcox Ave Unit 3F,90004
+3,3,San Gabriel,0,Condo/Townhome,34.10161,FOR SALE,-118.10334,"$850,000","1,980",CA,153 Junipero Serra Drive,91776
+2,2,Los Angeles,0,Condo/Townhome,34.07311,FOR SALE,-118.37805,"$799,500","1,282",CA,321 S San Vicente Unit 403,90048
+2,3,San Clemente,1,Condo/Townhome,33.47228,FOR SALE,-117.635276,"$699,000","1,559",CA,1336 Felipe #28,92673
+2,2,Capitola,1,Condo/Townhome,36.97205,FOR SALE,-121.9625,"$679,900","1,359",CA,1505 42nd Ave 12,95010
+2,4,San Diego,0,Condo/Townhome,32.90014,FOR SALE,-117.10556,"$649,900","1,851",CA,9712 Caminito Doha,92131
+1,1,Los Angeles,0,Condo/Townhome,34.06155,FOR SALE,-118.30944,"$550,000",830,CA,3810 Wilshire Blvd Unit 1602,90010
+2,2,Laguna Niguel,1,Condo/Townhome,33.51673,FOR SALE,-117.72123,"$539,000","1,024",CA,30902 Clubhouse Drive #23F,92677
+3,2,Aliso Viejo,0,Condo/Townhome,33.602106,FOR SALE,-117.741845,"$489,000","1,124",CA,47 Night Heron,92656
+1,3,South El Monte,0,Condo/Townhome,34.04377,FOR SALE,-118.04182,"$460,000","1,032",CA,10943 Farndon Street,91733
+1,3,Anaheim,1,Condo/Townhome,33.8188724,FOR SALE,-117.9576636,"$449,900","1,343",CA,2156 W Wellington Circle,92804
+2,3,Port Hueneme,0,Condo/Townhome,34.17878,FOR SALE,-119.21039,"$449,000","1,361",CA,454 Las Palomas Drive,93041
+2,2,Long Beach,0,Condo/Townhome,33.794303,FOR SALE,-118.150751,"$429,000",900,CA,3408 Hathaway Avenue 101,90815
+2,3,Rancho Cucamonga,1,Condo/Townhome,34.12437,FOR SALE,-117.51416,"$425,000","1,611",CA,7161 East Avenue 74,91739
+2,3,Valley Springs,0,Condo/Townhome,38.16407,FOR SALE,-120.83442,"$369,000","2,300",CA,2442 Huckleberry Ln,95252
+2,3,Modesto,0,Condo/Townhome,37.64757,FOR SALE,-121.04539,"$289,900","1,314",CA,900 Panoche Dr,95358
+2,4,Lancaster,0,Condo/Townhome,34.69068,FOR SALE,-118.08616,"$275,000","1,539",CA,44428 Avenida Del Sol,93535
+1,3,Shasta Lake,0,Condo/Townhome,40.68661,FOR SALE,-122.35746,"$119,500","1,058",CA,1008 Eugene Avenue,96019
+2,2,Santa Monica,1,Condo/Townhome,34.02952,FOR SALE,-118.49258,"$1,879,000","1,872",CA,954 14th St Unit 5,90403
+4,3,Los Angeles,0,Condo/Townhome,34.05592,FOR SALE,-118.46526,"$1,196,000","1,708",CA,11636 Montana Ave Apt 310,90049
+2,2,Playa Vista,0,Condo/Townhome,33.972924358,FOR SALE,-118.422405424,"$1,143,884","1,170",CA,6030 S Seabluff Dr Unit 407,90094
+2,2,Irvine,1,Condo/Townhome,33.67471,FOR SALE,-117.8479,"$779,000","1,681",CA,21 Gramercy #218,92612
+2,3,North Hollywood,1,Condo/Townhome,34.14983,FOR SALE,-118.36191,"$699,000","1,660",CA,10609 Bloomfield St Unit 202,91602
+2,2,Aptos,0,Condo/Townhome,36.95036,FOR SALE,-121.86829,"$699,000","1,450",CA,2127 Penasquitas Dr,95003
+2,3,Novato,0,Condo/Townhome,38.12158,FOR SALE,-122.60759,"$639,000","1,491",CA,102 Spruce Place,94945
+2,2,Anaheim,0,Condo/Townhome,33.813614,FOR SALE,-118.011933,"$394,500",968,CA,3520 W Sweetbay Court F,92804
+2,3,mount shasta,1,Condo/Townhome,41.298523,FOR SALE,-122.302625,"$320,000","1,716",CA,1544 village way,96067
+2,3,Santa Rosa,0,Condo/Townhome,38.430557,FOR SALE,-122.677254,"$434,950","1,274",CA,1970 Knolls Drive,95405
+3,2,Newport Beach,0,Condo/Townhome,33.6194,FOR SALE,-117.881,"$4,250,000","2,548",CA,1251 Santa Barbara Drive,92660
+5,4,Oceanside,1,Condo/Townhome,33.1775,FOR SALE,-117.37,"$2,999,000","2,500",CA,1443 S Pacific A,92054
+4,3,Oceanside,1,Condo/Townhome,33.1775,FOR SALE,-117.37,"$2,599,000","2,100",CA,1443 S Pacific B,92054
+2,2,Reseda,0,Condo/Townhome,34.203,FOR SALE,-118.562,"$369,900",818,CA,7308 Corbin Avenue G,91335
+1,2,La Quinta,1,Condo/Townhome,33.629581,FOR SALE,-116.26635,"$369,000","1,706",CA,57750 Interlachen,92253
+3,2,Paramount,0,Condo/Townhome,33.9119,FOR SALE,-118.151,"$360,000","1,074",CA,8320 Somerset Ranch Road B,90723
+2,2,Newhall,0,Condo/Townhome,34.4063,FOR SALE,-118.472,"$359,000","1,135",CA,19405 Oak Crossing Road,91321
+2,3,Rancho Mirage,0,Condo/Townhome,33.749611,FOR SALE,-116.417633,"$345,000","1,700",CA,125 La Cerra Drive,92270
+3,2,Palm Springs,0,Condo/Townhome,33.795246,FOR SALE,-116.543739,"$279,999","1,694",CA,2057 South Ramitas Way,92264
+2,2,Laguna Beach,0,Condo/Townhome,33.501075,FOR SALE,-117.744302,"$1,250,000","1,056",CA,31755  Coast 510,92651
+2,3,Garden Grove,0,Condo/Townhome,33.78426,FOR SALE,-117.99851,"$749,800","1,801",CA,12271 Santa Rosalia,92841
+3,3,Anaheim Hills,0,Condo/Townhome,33.8629,FOR SALE,-117.74021,"$599,999","1,615",CA,536 S. Hollydale,92808
+2,2,Covina,0,Condo/Townhome,34.09039,FOR SALE,-117.87504,"$349,900","1,086",CA,782 E. San Bernardino Rd. #1,91723
+2,3,Elk Grove,0,Condo/Townhome,38.40712,FOR SALE,-121.35591,"$339,000","1,504",CA,9652 Gamay Way,95624
+2,4,Stockton,1,Condo/Townhome,37.96479,FOR SALE,-121.28794,"$300,000","1,807",CA,1117 N California,95202
+1,2,Oxnard,1,Condo/Townhome,34.158831,FOR SALE,-119.176918,"$255,000",863,CA,4560 Saviers Rd,93033
+1,1,Rancho Cucamonga,0,Condo/Townhome,34.099,FOR SALE,-117.5838,"$220,000",708,CA,10151 Arrow Route #133,91730
+1,3,Bakersfield,0,Condo/Townhome,35.3573,FOR SALE,-119.04181,"$169,000","1,040",CA,201 Wetherley Dr,93309
+3,3,Carpinteria,0,Condo/Townhome,34.39905,FOR SALE,-119.52622,"$1,250,000","1,655",CA,4588 4th St Unit A,93013
+3,4,San Juan Capistrano,0,Condo/Townhome,33.492126,FOR SALE,-117.650341,"$849,900","2,177",CA,27475 Paseo Lindero,92675
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.63976,FOR SALE,-117.59941,"$549,900","1,429",CA,80 Via Vicini,92688
+3,4,Chula Vista,1,Condo/Townhome,32.615434,FOR SALE,-116.990572,"$439,000","1,719",CA,1433 Shearwater Street 4,91913
+2,3,San Diego,1,Condo/Townhome,32.8669,FOR SALE,-117.209,"$730,000","1,512",CA,8851 Via Andar,92122
+3,3,Palm Springs,0,Condo/Townhome,33.77016,FOR SALE,-116.52884,"$659,000","2,770",CA,3415 ANDREAS HILLS Drive,92264
+2,2,San Diego,0,Condo/Townhome,32.8045,FOR SALE,-117.254,"$650,000","1,100",CA,4944 Cass St 402,92109
+2,3,Irvine,1,Condo/Townhome,33.6912,FOR SALE,-117.773,"$649,900","1,428",CA,5222 Walnut Avenue 7,92604
+2,3,Thousand Oaks,1,Condo/Townhome,34.172972,FOR SALE,-118.836197,"$565,000","1,954",CA,255 N Skyline Drive,91362
+1,1,San Diego,0,Condo/Townhome,32.7089,FOR SALE,-117.155,"$530,000","1,049",CA,350 11th Ave 347,92101
+2,2,La Mesa,1,Condo/Townhome,32.7775,FOR SALE,-117.043,"$415,000","1,270",CA,7002 Melody Ln,91942
+2,1,Long Beach,0,Condo/Townhome,33.7652,FOR SALE,-118.162,"$369,900",793,CA,2500 E 2nd Street 308,90803
+2,1,Long Beach,0,Condo/Townhome,33.7652,FOR SALE,-118.162,"$369,900",793,CA,2500 E 2nd Street 308,90803
+2,3,Paramount,1,Condo/Townhome,33.8824,FOR SALE,-118.176,"$365,000","1,235",CA,16710 Orange Avenue A2,90723
+2,2,Corona,1,Condo/Townhome,33.8603,FOR SALE,-117.549,"$325,000","1,110",CA,1723 Maxwell Lane C,92881
+2,2,Corona,0,Condo/Townhome,33.8568,FOR SALE,-117.611,"$299,000",956,CA,2572 Avenida Del M204,92882
+1,2,Escondido,1,Condo/Townhome,33.1476,FOR SALE,-117.042,"$256,000",899,CA,520 Sandalwood Place 5,92027
+2,3,Moreno Valley,0,Condo/Townhome,33.9429,FOR SALE,-117.229,"$137,900","1,106",CA,12237 Orchid Lane A,92557
+2,3,Tracy,0,Condo/Townhome,37.674082,FOR SALE,-121.332912,"$748,888","1,830",CA,2129 Albert Ct,95304
+2,3,Port Hueneme,0,Condo/Townhome,34.1436623,FOR SALE,-119.196169779,"$405,000",968,CA,293 E Surfside Dr,93041
+3,4,Quartz Hill,0,Condo/Townhome,34.646189,FOR SALE,-118.212596,"$399,990","2,242",CA,42011 W 47th St,93536
+3,4,Littlerock,0,Condo/Townhome,34.53882,FOR SALE,-117.961855,"$389,900","1,977",CA,9416 E Ave T4,93543
+2,3,Quartz Hill,0,Condo/Townhome,34.67089,FOR SALE,-118.2216,"$329,990","1,532",CA,43357 51st Street West,93536
+2,2,Palmdale,0,Condo/Townhome,34.60017,FOR SALE,-118.12669,"$225,000","1,200",CA,244 E Ave P1,93550
+1,2,South Lake Tahoe,1,Condo/Townhome,38.820513,FOR SALE,-120.01769,"$314,000",960,CA,3025 Christmas Valley Road Unit: 15,96150
+1,1,San Clemente,0,Condo/Townhome,33.4466,FOR SALE,-117.599,"$310,000",680,CA,1062 Calle Del Cerro 1212,92672
+2,2,Palm Desert,0,Condo/Townhome,33.755333,FOR SALE,-116.316246,"$239,000","1,177",CA,77265 Olympic Way,92211
+2,2,Big Bear,0,Condo/Townhome,34.2404,FOR SALE,-116.874,"$238,000","1,000",CA,42533 Moonridge Road B,92315
+2,2,Cathedral City,0,Condo/Townhome,33.79662,FOR SALE,-116.46959,"$192,000","1,406",CA,68283 Calle Cordoba,92234
+1,2,Stockton,0,Condo/Townhome,38.0013,FOR SALE,-121.348,"$190,000",900,CA,2913 Fisher Court,95207
+1,1,Indian Wells,0,Condo/Townhome,33.709625,FOR SALE,-116.301865,"$163,000",576,CA,78155 Cabrillo Lane 38,92211
+2,3,Irvine,1,Condo/Townhome,33.73117,FOR SALE,-117.77557,"$758,500","1,437",CA,52 Deermont,92602
+2,2,Aliso Viejo,0,Condo/Townhome,33.59257,FOR SALE,-117.71986,"$535,000","1,271",CA,8 Marigold #3,92656
+3,4,San Diego,1,Condo/Townhome,32.625105796,FOR SALE,-117.020137099,"$525,000","2,034",CA,1251 Paseo Sea Breeze 20,92154
+3,4,Turlock,0,Condo/Townhome,37.50286,FOR SALE,-120.82408,"$519,000","2,372",CA,2180 Mira Flores Dr,95380
+1,3,Petaluma,1,Condo/Townhome,38.256214,FOR SALE,-122.634041,"$499,000","1,356",CA,154 Park Place Drive,94954
+3,5,Lancaster,0,Condo/Townhome,34.67624,FOR SALE,-118.24246,"$415,000","3,000",CA,43651 Tahoe Way,93536
+1,2,San Diego,0,Condo/Townhome,32.964617,FOR SALE,-117.098847,"$329,987",882,CA,10514 Caminito Sulmona,92129
+2,2,Oceanside,0,Condo/Townhome,33.21171,FOR SALE,-117.3272,"$279,000","1,050",CA,712 Pearwood St,92057
+1,2,Santa Clarita,0,Condo/Townhome,34.45052,FOR SALE,-118.4983,"$253,000",799,CA,28014 Robin Ave,91350
+2,3,Tahoe City,0,Condo/Townhome,39.1602,FOR SALE,-120.145,"$2,100,000","1,645",CA,300 West Lake Boulevard Unit 6,96145
+2,2,San Francisco,0,Condo/Townhome,37.771806,FOR SALE,-122.394187,"$1,429,950","1,290",CA,718 Long Bridge Street Unit 302,94158
+3,3,Stanton,0,Condo/Townhome,33.798112,FOR SALE,-117.992144,"$580,000","1,892",CA,11313 Antonio,90680
+2,3,Whittier,0,Condo/Townhome,34.03145,FOR SALE,-118.01828,"$408,500","1,429",CA,13018 Via Del Sol Ave.,90601
+1,1,Long Beach,0,Condo/Townhome,33.7715878,FOR SALE,-118.1819387,"$399,900",803,CA,834 E 4th Street 5,90802
+2,1,Ontario,0,Condo/Townhome,34.033031464,FOR SALE,-117.638641357,"$318,800",990,CA,3230 E Yountville Dr #14,91761
+1,1,San Diego,0,Condo/Townhome,32.783707,FOR SALE,-117.112175,"$259,500",530,CA,6064 Rancho Mission 444,92108
+1,1,Laguna Woods,0,Condo/Townhome,33.605740708,FOR SALE,-117.708582121,"$189,900",770,CA,104 Via Estrada #N,92637
+4,3,Los Angeles (City),1,Condo/Townhome,34.06093,FOR SALE,-118.43727,"$16,500,000","5,991",CA,10727 WILSHIRE Boulevard PH5,90024
+2,2,San Diego,1,Condo/Townhome,32.7351,FOR SALE,-117.16,"$3,739,500","2,875",CA,2855 5th Avenue 1203,92103
+2,2,West Hollywood,0,Condo/Townhome,34.0885,FOR SALE,-118.37216,"$1,199,000","1,428",CA,949 North KINGS Road 403,90069
+2,2,Huntington Beach,1,Condo/Townhome,33.6819,FOR SALE,-118.027,"$849,000","2,065",CA,19241 Meadowood Circle,92648
+3,3,Oceanside,1,Condo/Townhome,33.1902,FOR SALE,-117.377,"$849,000","2,034",CA,451 South Cleveland Street 103,92054
+2,2,Irvine,0,Condo/Townhome,33.6739,FOR SALE,-117.843,"$739,000","1,520",CA,3131 Michelson Drive 301,92612
+1,1,Los Angeles,1,Condo/Townhome,34.0646,FOR SALE,-118.449,"$725,000",829,CA,10982 Roebling Avenue 104,90024
+2,2,Rancho Mission Viejo,1,Condo/Townhome,33.527,FOR SALE,-117.618,"$598,000","1,557",CA,5 Alzada,92694
+1,3,Palm Desert,2,Condo/Townhome,33.707088,FOR SALE,-116.380928,"$575,000","2,361",CA,46940 Somia Court,92260
+3,2,Alhambra,0,Condo/Townhome,34.0989,FOR SALE,-118.123,"$574,888","1,672",CA,109 N Almansor Street 16,91801
+3,2,Los Angeles (City),0,Condo/Townhome,0.0,FOR SALE,0.0,"$549,000","1,318",CA,3755 LOCKLAND Drive 1,90008
+2,3,Agoura Hills,1,Condo/Townhome,34.1453,FOR SALE,-118.742,"$499,000","1,352",CA,5275 Colodny Drive 4,91301
+2,2,Oxnard,0,Condo/Townhome,34.173026,FOR SALE,-119.231758,"$495,000","1,198",CA,2949 Harbor Boulevard,93035
+2,3,Rancho Cucamonga,1,Condo/Townhome,34.107,FOR SALE,-117.615,"$440,000","1,723",CA,8737 Olive Tree,91730
+1,1,Long Beach,0,Condo/Townhome,33.7707,FOR SALE,-118.115,"$379,000",561,CA,6000 Bixby Village Drive 14,90803
+2,2,Cathedral City,0,Condo/Townhome,33.794712,FOR SALE,-116.46357,"$244,872","1,512",CA,68688 Calle Tolosa,92234
+2,2,San Jose,0,Condo/Townhome,37.32249,FOR SALE,-121.98636,"$888,000","1,350",CA,4691 Albany Circle 133,95129
+1,3,Oxnard,1,Condo/Townhome,34.18265,FOR SALE,-119.21876,"$420,000","1,094",CA,1841 Fisher Dr D,93035
+1,2,San Diego,0,Condo/Townhome,32.96617,FOR SALE,-117.09723,"$334,987",924,CA,13833 Via Rimini,92129
+1,2,Spring Valley,0,Condo/Townhome,32.7349,FOR SALE,-116.96095,"$279,000",862,CA,3031 Blue Oak Ct,91978
+1,3,Stockton,1,Condo/Townhome,37.98599,FOR SALE,-121.27184,"$275,900","1,200",CA,3160 Sanguinetti Ln,95205
+2,4,Lancaster,0,Condo/Townhome,34.68713,FOR SALE,-118.12308,"$230,000","1,282",CA,44251 Gingham Ave,93535
+2,3,Ione,0,Condo/Townhome,38.296475035,FOR SALE,-120.918672947,"$215,000","1,352",CA,5534 N Park Dr,95640
+2,2,Menlo Park,1,Condo/Townhome,37.4252,FOR SALE,-122.21852,"$1,735,000","1,820",CA,1256 Sharon Park Dr,94025
+4,4,Yorba Linda,1,Condo/Townhome,33.90536,FOR SALE,-117.82005,"$1,150,000","3,359",CA,3871 Prima Buca,92886
+2,2,Sherman Oaks,1,Condo/Townhome,34.16731,FOR SALE,-118.45039,"$649,000","1,700",CA,14544 Margate Street #7,91411
+2,2,Sherman Oaks,0,Condo/Townhome,34.16731,FOR SALE,-118.45039,"$649,000","1,700",CA,14544 Margate Street #7,91411
+2,3,Oxnard,0,Condo/Townhome,34.18905,FOR SALE,-119.23226,"$599,500","1,950",CA,1267 Bayside Circle,93035
+2,4,Ojai,0,Condo/Townhome,34.44373,FOR SALE,-119.26097,"$599,000","1,911",CA,1008 Creekside Way #C,93023
+2,2,Chula Vista,0,Condo/Townhome,32.63308,FOR SALE,-116.94014,"$390,000","1,216",CA,1526 Bluffside 1,91915
+2,3,Chester,0,Condo/Townhome,40.29833,FOR SALE,-121.23717,"$269,000","1,416",CA,152 Aldon Drive,96020
+2,2,Brea,0,Condo/Townhome,33.92868,FOR SALE,-117.894726,"$425,000","1,090",CA,520 N Brea Boulevard 8,92821
+2,2,Corona,1,Condo/Townhome,33.7742,FOR SALE,-117.504,"$459,000","2,051",CA,8933 Cuyamaca Street,92883
+2,2,Aliso Viejo,0,Condo/Townhome,33.5516,FOR SALE,-117.727,"$457,250","1,094",CA,3 Florentine,92656
+2,2,Simi Valley,0,Condo/Townhome,34.24572,FOR SALE,-118.809815,"$444,900","1,280",CA,475 Kennerick Lane A,93065
+2,2,Corona,0,Condo/Townhome,33.7745,FOR SALE,-117.506,"$421,900","1,597",CA,8828 Cuyamaca Street,92883
+2,3,Upland,0,Condo/Townhome,34.1103,FOR SALE,-117.67,"$410,000","1,550",CA,1191 Mountain Gate Road,91786
+2,3,Upland,0,Condo/Townhome,34.1103,FOR SALE,-117.67,"$410,000","1,550",CA,1191 Mountain Gate Road,91786
+2,2,Palm Desert,0,Condo/Townhome,33.72263,FOR SALE,-116.38338,"$365,000","1,610",CA,4000 Via Fragante 2,92260
+2,3,Rancho Mirage,0,Condo/Townhome,33.749744,FOR SALE,-116.415092,"$355,000","1,681",CA,150 La Cerra Drive,92270
+2,2,Palm Desert,0,Condo/Townhome,33.739529,FOR SALE,-116.390602,"$349,000","1,800",CA,122 Giralda Circle,92260
+2,3,Sunnyvale,0,Condo/Townhome,37.4013,FOR SALE,-122.002,"$259,000","1,719",CA,1225 Vienna Dr. #270,94089
+2,2,Cathedral City,0,Condo/Townhome,33.796543,FOR SALE,-116.462784,"$249,500","1,512",CA,68724 Calle Tortosa,92234
+2,3,Visalia,0,Condo/Townhome,36.349327,FOR SALE,-119.282318,"$174,900","1,341",CA,943 E Ferguson Avenue,93292
+2,3,Bakersfield,0,Condo/Townhome,35.3414,FOR SALE,-119.056,"$134,900","1,398",CA,4801 Virgo Court,93309
+1,1,Palm Springs,0,Condo/Townhome,33.859119,FOR SALE,-116.557335,"$109,000",589,CA,2812 North Auburn Court F101,92262
+2,3,Newbury Park,1,Condo/Townhome,34.1819,FOR SALE,-118.91233,"$579,000","1,611",CA,1541 Silver Shadow Dr,91320
+2,3,North Hills,0,Condo/Townhome,34.245934,FOR SALE,-118.457385,"$492,000","1,540",CA,9654 Saloma,91343
+2,3,Covina,1,Condo/Townhome,34.10569,FOR SALE,-117.8578,"$375,000","1,477",CA,20240 E Arrow B,91724
+2,4,Patterson,1,Condo/Townhome,37.46109,FOR SALE,-121.13692,"$359,000","1,718",CA,572 Moray Way,95363
+1,1,Pacific Beach,0,Condo/Townhome,32.80095,FOR SALE,-117.228,"$297,000",714,CA,2266 Grand Ave 28,92109
+2,3,La Quinta,1,Condo/Townhome,33.711651,FOR SALE,-116.270462,"$495,000","2,770",CA,79920 Fiesta Drive,92253
+1,1,San Bernardino,0,Condo/Townhome,34.1542,FOR SALE,-117.319,"$129,900",728,CA,1480 W Edgehill Road 63,92405
+2,3,Corona,1,Condo/Townhome,33.83254,FOR SALE,-117.54858,"$469,000","1,797",CA,1372 Soundview Cr,92881
+2,2,Rosamond,0,Condo/Townhome,34.8687,FOR SALE,-118.14998,"$214,000",956,CA,1008 Royal Palm Drive,93560
+1,2,Town Out Of Area,0,Condo/Townhome,39.064949036,FOR SALE,-120.142723083,"$485,000","1,048",CA,7262 Sixth Avenue,96142
+2,3,Chula Vista,0,Condo/Townhome,32.63334,FOR SALE,-116.93689,"$429,500","1,431",CA,1521 Victory Lane 4,91915
+2,3,Oakland,1,Condo/Townhome,37.8318,FOR SALE,-122.276,"$930,880","1,857",CA,971 41st Street 126,94608
+2,3,Oakland,1,Condo/Townhome,37.8318,FOR SALE,-122.276,"$900,800","1,857",CA,971 41st Street 115,94608
+3,3,Huntington Beach,0,Condo/Townhome,33.7177,FOR SALE,-118.04,"$759,900","1,922",CA,16861 Roosevelt Lane,92649
+2,3,Lomita,1,Condo/Townhome,33.7963,FOR SALE,-118.319,"$675,000","1,500",CA,25114 Narbonne Avenue G,90717
+2,3,Huntington Beach,0,Condo/Townhome,33.6634,FOR SALE,-117.973,"$609,000","1,287",CA,8885 Plumas Circle 1116D,92646
+2,3,Huntington Beach,0,Condo/Townhome,33.6634,FOR SALE,-117.973,"$609,000","1,287",CA,8885 Plumas Circle 1116D,92646
+2,3,Tahoe City,1,Condo/Townhome,39.1602,FOR SALE,-120.145,"$600,000","1,268",CA,300 West Lake Boulevard 20,96145
+2,2,San Clemente,0,Condo/Townhome,33.424,FOR SALE,-117.606,"$514,900","1,050",CA,214 Via Robina 14,92672
+2,2,Palm Springs,0,Condo/Townhome,33.80059,FOR SALE,-116.50163,"$459,000","1,965",CA,221 DESERT LAKES Drive,92264
+3,3,Palm Desert,1,Condo/Townhome,33.75396,FOR SALE,-116.35058,"$399,000","2,764",CA,190 WAGON WHEEL Road,92211
+2,2,Ontario,1,Condo/Townhome,34.0547,FOR SALE,-117.664,"$285,000","1,201",CA,838 Carlton Privado,91762
+2,2,Camarillo,0,Condo/Townhome,34.23071,FOR SALE,-118.99758,"$517,500","1,482",CA,1300 Calle Bonita,93012
+1,1,San Diego,1,Condo/Townhome,33.00116,FOR SALE,-117.07165,"$377,000",906,CA,12122 Royal Birkdale Row #104,92128
+1,2,Upland,1,Condo/Townhome,34.10997,FOR SALE,-117.66971,"$342,000","1,386",CA,1182  Mountain Gate Rd,91786
+1,2,Indio,0,Condo/Townhome,33.726994,FOR SALE,-116.232628,"$99,000",999,CA,44260 Monroe Street 52,92201
+1,2,Stockton,0,Condo/Townhome,38.00557,FOR SALE,-121.32235,"$189,000","1,386",CA,999 Porter Ave 39,95207
+1,2,Sacramento,0,Condo/Townhome,38.67186,FOR SALE,-121.35689,"$100,000",933,CA,5738 HILLSDALE Blvd,95842
+4,4,Pebble Beach,0,Condo/Townhome,36.56996,FOR SALE,-121.95218,"$4,800,000","3,243",CA,3301 17 Mile Dr 10,93953
+3,2,Beverly Hills,0,Condo/Townhome,34.07759,FOR SALE,-118.39062,"$1,890,000","2,008",CA,430 N Oakhurst Dr Unit 208,90210
+3,2,Pacific Palisades,0,Condo/Townhome,34.07904,FOR SALE,-118.56535,"$1,425,000","1,919",CA,1529 Michael Ln,90272
+2,2,Los Angeles,0,Condo/Townhome,34.05664,FOR SALE,-118.41143,"$1,095,000","1,380",CA,2131 Century Park Ln Unit 417,90067
+3,3,Woodland Hills,0,Condo/Townhome,34.18336,FOR SALE,-118.61231,"$563,000","1,518",CA,6212 Nita Avenue,91367
+3,3,Woodland Hills,0,Condo/Townhome,34.18336,FOR SALE,-118.61231,"$563,000","1,518",CA,6212 Nita Avenue,91367
+2,3,Sacramento,0,Condo/Townhome,38.49331,FOR SALE,-121.53428,"$359,900","1,400",CA,106 Las Positas Circle,95831
+2,3,Palm Desert,0,Condo/Townhome,33.73177,FOR SALE,-116.31149,"$355,000","1,612",CA,43608 Calle Las Brisas West,92211
+2,2,Sacramento,1,Condo/Townhome,38.56676,FOR SALE,-121.40945,"$350,000","1,623",CA,29 Adelphi Court,95825
+2,4,Yorba Linda,0,Condo/Townhome,33.8656,FOR SALE,-117.78586,"$550,000","1,302",CA,19991 Woodcliff Court 17,92886
+2,2,Laguna Beach,0,Condo/Townhome,33.5029,FOR SALE,-117.747,"$3,299,000","1,460",CA,31561 Table Rock Drive 312,92651
+3,3,Corona del Mar,1,Condo/Townhome,33.6013,FOR SALE,-117.874,"$1,929,000","1,838",CA,519 Fernleaf Avenue,92625
+3,2,Los Angeles (City),0,Condo/Townhome,34.0408,FOR SALE,-118.26319,"$1,877,000","2,370",CA,1155 South GRAND Avenue 1402,90015
+5,5,Huntington Beach,0,Condo/Townhome,33.6513,FOR SALE,-117.983,"$1,499,000","3,763",CA,8181 Noelle Drive,92646
+3,3,Avalon,0,Condo/Townhome,33.3435,FOR SALE,-118.33,"$1,250,000","1,802",CA,316 E Whittley Avenue 4,90704
+2,2,San Luis Obispo,0,Condo/Townhome,35.2748,FOR SALE,-120.656,"$969,000","1,333",CA,1880 Santa Barbara Avenue 350,93401
+2,2,Pasadena,1,Condo/Townhome,34.1369,FOR SALE,-118.146,"$949,000","1,528",CA,509 S Marengo Avenue 1,91101
+3,3,El Segundo,0,Condo/Townhome,33.9305,FOR SALE,-118.418,"$869,000","1,550",CA,222 W Imperial Avenue,90245
+2,2,Laguna Woods,0,Condo/Townhome,33.6129,FOR SALE,-117.753,"$827,000","1,636",CA,3451 Bahia Blanca W A,92637
+2,2,Newport Beach,0,Condo/Townhome,33.6252,FOR SALE,-117.932,"$825,000","1,155",CA,102 Scholz 34,92663
+2,2,Newport Beach,0,Condo/Townhome,33.6252,FOR SALE,-117.932,"$825,000","1,155",CA,102 Scholz 34,92663
+2,3,Signal Hill,0,Condo/Townhome,33.7992,FOR SALE,-118.16,"$775,000","2,291",CA,2700 E Panorama Drive 208,90755
+2,3,Signal Hill,0,Condo/Townhome,33.7992,FOR SALE,-118.16,"$775,000","2,291",CA,2700 E Panorama Drive 208,90755
+2,3,Huntington Beach,1,Condo/Townhome,33.6797,FOR SALE,-117.993,"$675,000","1,700",CA,2505 Delaware Street 2,92648
+2,2,Newport Beach,1,Condo/Townhome,33.6616,FOR SALE,-117.886,"$659,888","1,457",CA,20402 Santa Ana Avenue 9,92660
+2,2,Laguna Niguel,1,Condo/Townhome,33.5222,FOR SALE,-117.719,"$649,000","1,525",CA,30311 Via Reata,92677
+2,2,Laguna Niguel,1,Condo/Townhome,33.5222,FOR SALE,-117.719,"$649,000","1,525",CA,30311 Via Reata,92677
+2,2,Laguna Woods,0,Condo/Townhome,33.6121,FOR SALE,-117.738,"$489,000",992,CA,3160 Alta Vista B,92637
+2,2,Port Hueneme,0,Condo/Townhome,34.180263,FOR SALE,-119.211907,"$389,900","1,038",CA,2634 Hurricane Cove,93041
+1,1,Valencia,0,Condo/Townhome,34.4199,FOR SALE,-118.564,"$339,500",800,CA,24545 Town Center Drive 5303,91355
+2,2,Palmdale,0,Condo/Townhome,34.5956,FOR SALE,-118.148,"$235,000","1,397",CA,39201  10th St W,93551
+2,2,Murrieta,0,Condo/Townhome,33.5592,FOR SALE,-117.207,"$233,000","1,159",CA,41410 Juniper Street 2424,92562
+2,2,Palm Desert,0,Condo/Townhome,33.77219,FOR SALE,-116.348862,"$222,500","1,360",CA,480 Evergreen Ash,92211
+2,2,Laguna Woods,0,Condo/Townhome,33.6134,FOR SALE,-117.744,"$192,500","1,136",CA,24055 Paseo Del Lago 105,92637
+1,1,Indian Wells,0,Condo/Townhome,33.708141,FOR SALE,-116.303185,"$169,900",576,CA,46750 Mountain Cove Drive 23,92210
+2,3,La Mirada,1,Condo/Townhome,33.907985,FOR SALE,-117.981149,"$689,990","1,429",CA,13503 Mount Craig,90638
+2,2,Laguna Woods,0,Condo/Townhome,33.61256,FOR SALE,-117.73334,"$469,900","1,009",CA,3031-Q Calle Sonora,92637
+3,4,Oxnard,0,Condo/Townhome,34.2451,FOR SALE,-119.171,"$487,000","2,084",CA,3133 Orleans Drive,93036
+3,2,Northridge,0,Condo/Townhome,34.2345,FOR SALE,-118.548,"$446,000","1,458",CA,9000 Vanalden Avenue 115,91324
+3,3,Palm Desert,0,Condo/Townhome,33.771839,FOR SALE,-116.350243,"$434,000","2,236",CA,507 Desert Falls Drive North,92211
+2,2,Anaheim,0,Condo/Townhome,33.8486,FOR SALE,-117.94,"$425,000","1,105",CA,1120 N Euclid Street 12,92801
+2,3,Ventura,1,Condo/Townhome,34.30451,FOR SALE,-119.291784,"$415,000","1,264",CA,2414 Chippewa Lane,93001
+2,2,Laguna Woods,0,Condo/Townhome,33.603,FOR SALE,-117.734,"$415,000","1,257",CA,4008 Calle Sonora Oeste 2E,92637
+2,2,Laguna Woods,0,Condo/Townhome,33.6121,FOR SALE,-117.741,"$409,000","1,260",CA,5518 Paseo Del Lago E 1H,92637
+2,3,Oceanside,0,Condo/Townhome,33.2151,FOR SALE,-117.33,"$372,000","1,480",CA,3621 Vista Campana S 83,92057
+2,3,Lake Arrowhead,1,Condo/Townhome,34.2544,FOR SALE,-117.216,"$359,000","1,944",CA,180 S Grass Valley Road S 36,92352
+2,2,Truckee,1,Condo/Townhome,39.3256,FOR SALE,-120.283,"$339,000","1,200",CA,15492 Donner Pass Road 14,96161
+2,2,Oceanside,0,Condo/Townhome,33.21,FOR SALE,-117.332,"$305,000","1,046",CA,3521 Pear Blossom AVENUE,92057
+1,2,Port Hueneme,1,Condo/Townhome,34.145577,FOR SALE,-119.197263,"$290,000",965,CA,263 S Ventura Road 266,93041
+2,2,Palm Springs,0,Condo/Townhome,33.815014,FOR SALE,-116.517647,"$274,900","1,175",CA,500 South Farrell Drive E34,92264
+2,2,Laguna Woods,0,Condo/Townhome,33.6153,FOR SALE,-117.72,"$265,000","1,009",CA,2338 Avenida Sevilla P,92637
+2,3,Palm Springs,0,Condo/Townhome,33.84732,FOR SALE,-116.54894,"$264,000","1,116",CA,2016 North MIRA VISTA Way,92262
+1,2,Truckee,1,Condo/Townhome,39.3546,FOR SALE,-120.26,"$249,000",809,CA,11529 Snowpeak Way 619,96161
+1,1,Palm Springs,0,Condo/Townhome,33.802719,FOR SALE,-116.539093,"$149,900",684,CA,1500 South Camino Real 304A,92264
+2,2,Cathedral City,0,Condo/Townhome,33.799236,FOR SALE,-116.467896,"$147,000","1,255",CA,34159 Calle Mora 83,92234
+2,2,Laguna Woods,0,Condo/Townhome,33.6134,FOR SALE,-117.744,"$132,000","1,200",CA,24055 Paseo Del Lago East 404,92637
+2,2,San Marcos,0,Condo/Townhome,33.1239,FOR SALE,-117.211,"$229,000",962,CA,1508 Circa Del Lago B307,92078
+2,3,Palm Springs,0,Condo/Townhome,33.791138,FOR SALE,-116.543556,"$219,900","1,404",CA,2250 South Palm Canyon Drive 37,92264
+2,2,Cathedral City,0,Condo/Townhome,33.799919,FOR SALE,-116.467262,"$162,500","1,255",CA,34095 Calle Mora,92234
+2,2,Cathedral City,0,Condo/Townhome,33.8144,FOR SALE,-116.474,"$136,000",848,CA,32505 Candlewood Drive 46,92234
+1,1,Borrego Springs,0,Condo/Townhome,33.2547,FOR SALE,-116.388,"$120,000",770,CA,445 Sun and Shadows Dr,92004
+1,1,Cathedral City,0,Condo/Townhome,33.8144,FOR SALE,-116.474,"$119,000",772,CA,32505 Candlewood Drive 111,92234
+1,1,Cathedral City,0,Condo/Townhome,33.8144,FOR SALE,-116.474,"$117,000",772,CA,32505 Candlewood Drive 59,92234
+1,2,Indio,0,Condo/Townhome,33.718365,FOR SALE,-116.238014,"$100,000",907,CA,45546 Aladdin Street D204,92201
+3,4,Lancaster,0,Condo/Townhome,34.66925,FOR SALE,-118.16708,"$498,999","3,638",CA,2035 West Ave K7,93536
+2,4,Stockton,0,Condo/Townhome,38.01717,FOR SALE,-121.35329,"$439,000","2,202",CA,2944 Hempstead Way,95207
+1,1,Encino,0,Condo/Townhome,34.168225,FOR SALE,-118.525134,"$285,000",691,CA,5349 Newcastle Ave #51,91316
+1,2,El Monte,0,Condo/Townhome,34.09143,FOR SALE,-118.04179,"$599,900",663,CA,10320 Lower Azusa Road,91731
+2,2,Palm Desert,0,Condo/Townhome,33.720687087,FOR SALE,-116.398884257,"$449,000","1,882",CA,72389 El Paseo #1406,92260
+1,3,Santee,0,Condo/Townhome,32.83419,FOR SALE,-117.02637,"$384,900","1,323",CA,7897 Rancho Fanita Drive G,92071
+2,2,Palm Springs,0,Condo/Townhome,33.820494002,FOR SALE,-116.541795875,"$260,000",972,CA,222 N Calle El Segundo Unit 546,92262
+1,2,Oceanside,0,Condo/Townhome,33.251778,FOR SALE,-117.308831,"$245,000",806,CA,509 Calle Montecito #49,92057
+1,1,Palm Springs,1,Condo/Townhome,33.79256,FOR SALE,-116.48694,"$119,900",768,CA,5300 E Waverly Drive B14,92264
+1,1,Borrego Springs,0,Condo/Townhome,33.232858,FOR SALE,-116.356313,"$52,000",576,CA,3139 Club Circle East #42,92004
+2,2,San Diego,1,Condo/Townhome,32.7111,FOR SALE,-117.165,"$1,849,900","1,676",CA,550 Front St 1501,92101
+2,3,Ridgecrest,0,Condo/Townhome,35.6148361,FOR SALE,-117.6662019,"$130,000","1,408",CA,275 E Upjohn AVE,93555
+2,2,Newport Beach,1,Condo/Townhome,33.62807,FOR SALE,-117.86765,"$1,288,000","1,606",CA,50 Sea Pine Lane #61,92660
+2,2,Los Angeles,0,Condo/Townhome,34.05796,FOR SALE,-118.41041,"$979,000","1,018",CA,2160 Century Park East Unit 1905,90067
+2,2,Laguna Niguel,0,Condo/Townhome,33.51673,FOR SALE,-117.72123,"$510,000","1,053",CA,30902 Clubhouse Drive #24G,92677
+3,3,Rancho Mirage,0,Condo/Townhome,33.78933,FOR SALE,-116.42842,"$370,000","2,690",CA,813 Inverness Drive,92270
+2,3,Rancho Mirage,0,Condo/Townhome,33.79656,FOR SALE,-116.41469,"$359,999","1,620",CA,39 Colonial Drive,92270
+2,2,Portola,0,Condo/Townhome,39.809621,FOR SALE,-120.485029,"$225,000","1,200",CA,74660 Highway 70,96122
+1,1,Sherman Oaks,0,Condo/Townhome,34.159916,FOR SALE,-118.444926,"$435,000",957,CA,4915 Tyrone Ave #116,91423
+3,4,San Francisco,1,Condo/Townhome,37.801544,FOR SALE,-122.422424,"$3,495,000","2,481",CA,1269 Lombard Street Unit: A,94109
+2,2,Marina Del Rey,1,Condo/Townhome,33.96747,FOR SALE,-118.45735,"$2,695,000","2,315",CA,5209 Ocean Front 101,90292
+3,3,Hermosa Beach,0,Condo/Townhome,33.8629,FOR SALE,-118.398,"$2,250,000","1,712",CA,1136 Monterey Boulevard,90254
+2,2,San Diego,1,Condo/Townhome,32.7146,FOR SALE,-117.171,"$1,869,500","1,806",CA,888 W E St 1402,92101
+2,3,Newport Beach,1,Condo/Townhome,33.6278,FOR SALE,-117.924,"$1,615,000","2,171",CA,3216 Clay Street,92663
+1,2,San Diego,0,Condo/Townhome,32.7732,FOR SALE,-117.253,"$959,000",607,CA,3250 strandway,92109
+2,3,Huntington Beach,1,Condo/Townhome,33.7292,FOR SALE,-118.063,"$949,000","1,856",CA,3792 Montego Drive,92649
+2,3,Huntington Beach,1,Condo/Townhome,33.7292,FOR SALE,-118.063,"$949,000","1,856",CA,3792 Montego Drive,92649
+2,2,Sherman Oaks,0,Condo/Townhome,34.1488,FOR SALE,-118.442,"$789,000","1,673",CA,14159 Dickens Street 301,91423
+2,2,Los Angeles,1,Condo/Townhome,34.103555,FOR SALE,-118.337343,"$769,000","1,400",CA,6735 Yucca Street 406,90028
+2,2,Rancho Mission Viejo,1,Condo/Townhome,33.5584,FOR SALE,-117.633,"$659,900","1,729",CA,65 Garcilla Drive,92694
+3,3,Diamond Bar,0,Condo/Townhome,33.9998,FOR SALE,-117.818,"$580,000","1,468",CA,22905 Estoril Drive 2,91765
+2,2,Ventura,0,Condo/Townhome,34.265162,FOR SALE,-119.22772,"$449,000","1,270",CA,919 Goodman Street,93003
+3,3,Rancho Mirage,0,Condo/Townhome,33.797609,FOR SALE,-116.425018,"$309,500","1,825",CA,464 Sunningdale Drive,92270
+2,2,Venice,0,Condo/Townhome,33.99363,FOR SALE,-118.47498,"$1,695,000","1,790",CA,700 MAIN Street 9,90291
+2,2,Solana Beach,1,Condo/Townhome,32.9817,FOR SALE,-117.268,"$1,679,000","1,921",CA,871 Cofair Ct.,92075
+3,2,San Clemente,1,Condo/Townhome,33.4076,FOR SALE,-117.608,"$1,499,900","1,648",CA,268 Avenida Montalvo 1,92672
+3,4,Redondo Beach,1,Condo/Townhome,33.8782,FOR SALE,-118.375,"$1,299,000","2,369",CA,2016 Gates Avenue B,90278
+2,2,Redondo Beach,1,Condo/Townhome,33.8491,FOR SALE,-118.386,"$889,000","1,304",CA,606 N Guadalupe Avenue F,90277
+2,2,Irvine,0,Condo/Townhome,33.654,FOR SALE,-117.751,"$764,990","1,506",CA,251 Carlow,92618
+2,3,Huntington Beach,1,Condo/Townhome,33.6784,FOR SALE,-117.992,"$675,000","1,291",CA,2332 Delaware Street,92648
+3,3,La Quinta,0,Condo/Townhome,33.679345,FOR SALE,-116.276966,"$599,000","2,747",CA,50970 Mango,92253
+2,2,Newport Beach,0,Condo/Townhome,33.6249,FOR SALE,-117.933,"$525,000",920,CA,500 Cagney Lane PH 17,92663
+2,2,Newport Beach,0,Condo/Townhome,33.6249,FOR SALE,-117.933,"$525,000",920,CA,500 Cagney Lane PH 17,92663
+2,2,Aliso Viejo,1,Condo/Townhome,33.5784,FOR SALE,-117.731,"$515,000","1,329",CA,10 Open View Lane,92656
+2,3,Mountain Center,0,Condo/Townhome,33.621652,FOR SALE,-116.423853,"$465,000","1,855",CA,58761 Avenida Los Feliz,92561
+2,2,Westlake Village,0,Condo/Townhome,34.145835,FOR SALE,-118.808093,"$405,000","1,158",CA,31570 Agoura Road 8,91361
+1,1,Huntington Beach,0,Condo/Townhome,33.7131,FOR SALE,-118.041,"$405,000",800,CA,5071 Dorado Drive 209,92649
+2,3,Moorpark,0,Condo/Townhome,34.280601,FOR SALE,-118.871491,"$319,500","1,038",CA,581 Spring Road 60,93021
+1,1,North Hollywood,0,Condo/Townhome,34.1906,FOR SALE,-118.371,"$289,999",738,CA,11005 Kittridge Street 101,91606
+1,1,Palm Springs,0,Condo/Townhome,33.85878,FOR SALE,-116.55303,"$107,000",589,CA,510 North VILLA CT UNIT 200 Court 200,92262
+3,4,Lancaster,0,Condo/Townhome,34.68728,FOR SALE,-118.17091,"$329,999","1,917",CA,44250 Sundell Ave,93536
+2,2,Chula Vista,0,Condo/Townhome,32.60631,FOR SALE,-117.03101,"$343,000","1,229",CA,530 Georgetown Pl A,91911
+1,1,Laguna Niguel,0,Condo/Townhome,33.52596,FOR SALE,-117.68446,"$339,900",759,CA,61 Martinique Street 280,92677
+1,2,Oxnard,0,Condo/Townhome,34.19013,FOR SALE,-119.24043,"$510,000","1,642",CA,5120 West Wooley Road #1,93035
+2,2,Palm Desert,0,Condo/Townhome,33.693512,FOR SALE,-116.380745,"$325,000","1,202",CA,48865 Mariposa Drive,92260
+2,3,Lake Almanor,0,Condo/Townhome,40.242673,FOR SALE,-121.149935,"$293,000","1,760",CA,1132 Lassen View Drive,96137
+2,3,Solana Beach,1,Condo/Townhome,32.9806,FOR SALE,-117.264,"$1,550,000","1,547",CA,309 Arcaro Ln,92075
+2,3,Laguna Niguel,1,Condo/Townhome,33.5076,FOR SALE,-117.733,"$939,999","2,657",CA,16 Toulon,92677
+1,2,Laguna Beach,0,Condo/Townhome,33.5489,FOR SALE,-117.804,"$785,000",884,CA,1594 Via Capri 11,92651
+2,2,Irvine,0,Condo/Townhome,33.6739,FOR SALE,-117.843,"$749,000","1,580",CA,3141 E Michelson Drive 604,92612
+2,3,South Lake Tahoe,0,Condo/Townhome,38.947481,FOR SALE,-119.961183,"$579,000","1,516",CA,3535 Lake Tahoe Boulevard Unit: 503,96150
+2,3,Valencia,1,Condo/Townhome,34.42727,FOR SALE,-118.5454,"$550,000","1,844",CA,23402 BROOKDALE Lane 56,91355
+2,2,Aliso Viejo,1,Condo/Townhome,33.567,FOR SALE,-117.722,"$499,000","1,305",CA,30 Promontory Park,92656
+2,3,Palm Desert,0,Condo/Townhome,33.692825,FOR SALE,-116.398155,"$360,000","1,592",CA,48949 Sunny Summit Lane,92260
+3,3,Palm Desert,0,Condo/Townhome,33.71665,FOR SALE,-116.37721,"$349,000","1,449",CA,73801 CLUB CIRCLE Drive 303,92260
+2,2,Palm Desert,0,Condo/Townhome,33.6935,FOR SALE,-116.381,"$325,000","1,202",CA,48865 Mariposa Drive,92260
+2,2,Corona,0,Condo/Townhome,33.9006,FOR SALE,-117.531,"$314,900","1,129",CA,2040 Las Colinas Circle 201,92879
+1,1,Westlake Village,0,Condo/Townhome,34.144683,FOR SALE,-118.808134,"$285,000",473,CA,31567 Lindero Canyon Road 7,91361
+2,2,San Diego,0,Condo/Townhome,32.8017,FOR SALE,-117.011,"$265,000","1,114",CA,8749 Lake Murray Blvd 12,92119
+2,3,Spring Valley,1,Condo/Townhome,32.7263,FOR SALE,-117.007,"$369,900","1,179",CA,2037 Terraspiro,91977
+2,2,Palm Desert,0,Condo/Townhome,33.763115,FOR SALE,-116.334663,"$339,000","1,549",CA,76358 Sweet Pea Way,92211
+2,2,Big Bear,1,Condo/Townhome,34.2492,FOR SALE,-116.934,"$290,000","1,574",CA,39802 Lakeview 32,92315
+2,2,Palm Desert,0,Condo/Townhome,33.746658,FOR SALE,-116.39006,"$289,000","1,303",CA,203 Serena Drive,92260
+2,2,La Quinta,0,Condo/Townhome,33.650501,FOR SALE,-116.271332,"$285,000","1,283",CA,55051 Tanglewood,92253
+1,2,Palm Springs,1,Condo/Townhome,33.850249,FOR SALE,-116.545246,"$169,000",896,CA,2298 North Indian Canyon Drive A,92262
+3,4,Simi Valley,0,Condo/Townhome,34.300221619,FOR SALE,-118.698051387,"$590,000","2,167",CA,6440 Summit Village Ln 1,93063
+2,3,South El Monte,1,Condo/Townhome,34.055969,FOR SALE,-118.047581,"$418,000","1,234",CA,2353 Central Ave.,91733
+3,4,Lancaster,0,Condo/Townhome,34.6764,FOR SALE,-118.21491,"$389,000","2,756",CA,43652 Paloma St,93535
+2,4,Rialto,0,Condo/Townhome,34.10297,FOR SALE,-117.35976,"$309,000","1,486",CA,548 E. 2nd St,92376
+2,3,San Gabriel,0,Condo/Townhome,34.10114,FOR SALE,-118.11028,"$638,000","1,275",CA,130 S Mission Drive,91776
+2,3,Quincy,1,Condo/Townhome,39.95091,FOR SALE,-120.89183,"$435,000","2,508",CA,476 carol Lane East,95971
+1,2,Davis,1,Condo/Townhome,38.55009,FOR SALE,-121.79217,"$380,000","1,104",CA,3215 Bermuda Ave 14,95616
+2,2,Indian Wells,0,Condo/Townhome,33.80248,FOR SALE,-116.53827,"$174,900",906,CA,1550 S. Camino Real #124,92264
+3,3,Bakersfield,0,Condo/Townhome,35.39505,FOR SALE,-118.9471588,"$229,950","2,635",CA,2323 Easthills Drive 5,93306
+3,3,San Francisco,0,Condo/Townhome,37.758906,FOR SALE,-122.42553,"$5,995,000","5,493",CA,651 Dolores Street,94110
+1,1,San Francisco,0,Condo/Townhome,37.78606,FOR SALE,-122.392593,"$995,000",710,CA,425 1st Street Unit: 4905,94105
+2,2,West Hollywood,0,Condo/Townhome,34.08658,FOR SALE,-118.38559,"$839,000","1,186",CA,851 North SAN VICENTE 108,90069
+2,3,San Diego,0,Condo/Townhome,32.7437,FOR SALE,-117.159,"$710,000","1,517",CA,3635 7th Ave 8E,92103
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6131,FOR SALE,-117.622,"$639,990","1,777",CA,12 Cascada,92688
+2,3,Lodi,0,Condo/Townhome,38.1103,FOR SALE,-121.49685,"$285,000","1,896",CA,20 Whispering Way,95242
+2,3,Palm Desert,0,Condo/Townhome,33.74,FOR SALE,-116.37535,"$319,000","1,950",CA,122 Camino Arroyo South,92260
+2,2,Irvine,1,Condo/Townhome,33.6671,FOR SALE,-117.852,"$2,350,000","2,375",CA,3159 Scholarship,92612
+3,3,Mammoth Lakes,1,Condo/Townhome,37.628,FOR SALE,-118.977,"$839,000","2,008",CA,1108 Pyramid Peak Drive,93546
+2,2,Dana Point,0,Condo/Townhome,33.4832,FOR SALE,-117.712,"$785,000","1,018",CA,14 Forest Hills Ct. #51,92629
+2,2,Fremont,0,Condo/Townhome,37.5618,FOR SALE,-122.006,"$525,000",988,CA,3648 Birchwood Ter 113,94536
+3,2,Valencia,0,Condo/Townhome,34.404,FOR SALE,-118.563,"$499,000","1,581",CA,24440 Hampton Drive B,91355
+2,2,Laguna Woods,0,Condo/Townhome,33.6116,FOR SALE,-117.753,"$399,900","1,187",CA,3435 Bahia Blanca W P,92637
+3,5,Lancaster,0,Condo/Townhome,34.69623,FOR SALE,-118.18253,"$360,000","2,392",CA,44749 Ravencrest Lane,93536
+1,3,Stockton,0,Condo/Townhome,37.98567,FOR SALE,-121.28701,"$239,000","1,450",CA,3531 San Mateo Ave,95204
+4,5,Lake Almanor West,0,Condo/Townhome,40.24568,FOR SALE,-121.21644,"$1,250,000","4,646",CA,145 Lake Almanor West,96020
+2,2,Corona del Mar,1,Condo/Townhome,33.59754,FOR SALE,-117.86809,"$1,249,000","1,153",CA,606 Marigold Avenue,92625
+2,2,San Jose,0,Condo/Townhome,37.38358,FOR SALE,-121.85917,"$638,800",832,CA,"1055 N Capitol Avenue,#151",95133
+1,1,South Lake Tahoe,0,Condo/Townhome,38.9476471,FOR SALE,-119.9608154,"$359,900",627,CA,3535 Lake Tahoe Boulevard 320,96150
+3,2,Los Angeles (City),0,Condo/Townhome,34.04544,FOR SALE,-118.26576,"$1,950,000","1,822",CA,900 West OLYMPIC Boulevard 38H,90015
+2,3,Redondo Beach,1,Condo/Townhome,33.8397,FOR SALE,-118.377,"$1,345,000","2,102",CA,214 S Lucia Avenue A,90277
+2,2,San Diego,0,Condo/Townhome,32.7089,FOR SALE,-117.158,"$725,000","1,129",CA,325 7Th Ave 1608,92101
+3,4,Rancho Mission Viejo,0,Condo/Townhome,33.5253,FOR SALE,-117.624,"$679,000","1,853",CA,1 Nido Street,92694
+2,2,Irvine,0,Condo/Townhome,33.6739,FOR SALE,-117.843,"$759,000","1,520",CA,3141 Michelson Drive 608,92612
+2,3,Irvine,0,Condo/Townhome,33.6592,FOR SALE,-117.835,"$749,000","1,507",CA,56 Arboles 47,92612
+3,3,Bermuda Dunes,0,Condo/Townhome,33.739723,FOR SALE,-116.287735,"$359,000","2,373",CA,78939 Montego Bay Circle,92203
+1,1,Encino,0,Condo/Townhome,34.1706,FOR SALE,-118.527,"$295,000",706,CA,5500 Lindley Avenue 112,91316
+2,3,Pismo Beach,1,Condo/Townhome,35.16113,FOR SALE,-120.67656,"$879,000","1,749",CA,1923 Barcelona,93449
+2,2,Copperopolis,0,Condo/Townhome,37.92223,FOR SALE,-120.64056,"$435,000","2,180",CA,151 Rock Ridge Ln,95228
+2,3,Modesto,0,Condo/Townhome,37.64383,FOR SALE,-120.98053,"$365,000","2,006",CA,421 Bonita Ave,95354
+2,3,Newport Beach,2,Condo/Townhome,33.610045922,FOR SALE,-117.928305595,"$3,299,000","2,261",CA,2240 Newport Boulevard #17,92663
+3,3,La Jolla,0,Condo/Townhome,32.83691,FOR SALE,-117.2486,"$1,275,000","2,000",CA,6673 La Jolla Scenic Dr. South,92037
+3,4,Monterey Park,0,Condo/Townhome,34.0562,FOR SALE,-118.11516,"$739,000","1,813",CA,521 Sefton Avenue,91755
+3,3,Newport Beach,0,Condo/Townhome,33.6243,FOR SALE,-117.876,"$2,370,000","2,500",CA,4 Rue Fontainbleau,92660
+2,2,Oceanside,1,Condo/Townhome,33.187,FOR SALE,-117.378,"$1,730,000","1,389",CA,700 S The Strand 104,92054
+2,2,Solana Beach,0,Condo/Townhome,32.9821,FOR SALE,-117.272,"$1,098,000","1,175",CA,190 Del Mar Shore Terrace 52,92075
+2,3,San Francisco,0,Condo/Townhome,37.710991,FOR SALE,-122.469482,"$900,000","1,520",CA,180 St Charles Avenue,94132
+2,2,Huntington Beach,1,Condo/Townhome,33.7213,FOR SALE,-118.074,"$814,975","1,400",CA,16608 Bordeaux Lane,92649
+4,4,Rancho Mirage,0,Condo/Townhome,33.762867,FOR SALE,-116.409492,"$749,000","2,797",CA,4 Columbia Drive,92270
+2,2,Los Angeles (City),0,Condo/Townhome,33.980301224,FOR SALE,-118.375764286,"$635,000","1,466",CA,6610 SPRINGPARK Avenue 1,90056
+2,3,Rancho Mission Viejo,1,Condo/Townhome,33.5584,FOR SALE,-117.633,"$599,000","1,681",CA,101 Patria,92694
+2,2,Laguna Woods,0,Condo/Townhome,33.6121,FOR SALE,-117.738,"$528,000","1,014",CA,3154 Alta Vista B,92637
+2,2,Livermore,0,Condo/Townhome,37.70861,FOR SALE,-121.8075,"$525,000",947,CA,289 Wildrose Common 4,94551
+4,5,Newport Beach,0,Condo/Townhome,33.6288,FOR SALE,-117.923,"$1,675,000","3,261",CA,518 Bolsa Avenue,92663
+2,3,Newport Beach,0,Condo/Townhome,33.603,FOR SALE,-117.901,"$1,545,000","1,562",CA,206 Adams Street B,92661
+2,3,Newport Beach,0,Condo/Townhome,33.603,FOR SALE,-117.901,"$1,545,000","1,562",CA,206 Adams Street B,92661
+2,2,Coronado,0,Condo/Townhome,32.675,FOR SALE,-117.173,"$1,395,000","1,126",CA,1810 Avenida del Mundo 602,92118
+2,2,Huntington Beach,0,Condo/Townhome,33.7253,FOR SALE,-118.077,"$899,900","1,571",CA,2872 Coast Circle 102,92649
+1,2,Corona del Mar,0,Condo/Townhome,33.5915,FOR SALE,-117.862,"$679,000","1,000",CA,495 Morning Canyon Road 5,92625
+2,2,Palm Springs,0,Condo/Townhome,33.843007429,FOR SALE,-116.548020857,"$599,000","1,296",CA,247 West STEVENS Road 19,92262
+2,2,Los Angeles (City),0,Condo/Townhome,34.10205,FOR SALE,-118.34651,"$575,000","1,148",CA,7135 HOLLYWOOD Boulevard 407,90046
+2,2,Palm Springs,0,Condo/Townhome,33.802132,FOR SALE,-116.537596,"$334,900","1,084",CA,940 East Palm Canyon Drive 202,92264
+2,2,Oxnard,0,Condo/Townhome,34.177904,FOR SALE,-119.23262,"$655,000","1,627",CA,2317 Martinique Ln,93035
+2,2,Ceres,0,Condo/Townhome,37.5259,FOR SALE,-121.0123,"$219,950",960,CA,7725 Monterey Ave,95307
+3,2,Newport Beach,1,Condo/Townhome,33.61938,FOR SALE,-117.88441,"$2,385,000","2,791",CA,106 Ocean Vista,92660
+3,4,Huntington Beach,1,Condo/Townhome,33.6511,FOR SALE,-117.983,"$1,170,000","2,431",CA,8373 Noelle Drive,92646
+2,3,Palm Springs,0,Condo/Townhome,33.83749,FOR SALE,-116.52551,"$249,000","1,205",CA,1947 East TACHEVAH Drive,92262
+2,3,Palm Springs,1,Condo/Townhome,33.79052,FOR SALE,-116.53233,"$525,000","2,600",CA,2289 Paseo Del Rey,92264
+2,3,Brea,0,Condo/Townhome,33.9128,FOR SALE,-117.902,"$778,000","2,328",CA,514 S Brea Boulevard,92821
+2,2,Aliso Viejo,0,Condo/Townhome,33.575,FOR SALE,-117.736,"$475,000",962,CA,17 Redstone,92656
+1,2,Taft,0,Condo/Townhome,35.1382,FOR SALE,-119.462,"$89,500",943,CA,563 front Street,93268
+3,4,Modesto,0,Condo/Townhome,37.68121,FOR SALE,-120.93721,"$435,000","2,750",CA,2909 Omega Way,95355
+2,2,Laguna Beach,0,Condo/Townhome,33.53117,FOR SALE,-117.77316,"$937,500","1,418",CA,241 Calliope Street #8,92651
+4,3,Manhattan Beach,0,Condo/Townhome,33.8925,FOR SALE,-118.413,"$2,349,000","1,783",CA,320 23rd Street,90266
+2,2,Irvine,0,Condo/Townhome,33.66612,FOR SALE,-117.85305,"$1,100,000","1,701",CA,5081 Scholarship,92612
+2,3,Panorama City,0,Condo/Townhome,34.23445,FOR SALE,-118.4548,"$310,000","1,031",CA,9054 Willis Avenue 31,91402
+2,2,Irvine,0,Condo/Townhome,33.6976,FOR SALE,-117.717,"$599,000","1,296",CA,133 N Silverado Street N,92618
+3,2,Palm Desert,0,Condo/Townhome,33.755108,FOR SALE,-116.340935,"$409,000","2,294",CA,382 Red River Road,92211
+3,3,La Quinta,0,Condo/Townhome,33.683516,FOR SALE,-116.301315,"$329,000","2,121",CA,78145 Calle Norte,92253
+1,1,Escondido,0,Condo/Townhome,33.1243,FOR SALE,-117.064,"$219,900",644,CA,"495 San Pasqual Valley Road, Unit 140",92027
+2,3,Fair Oaks,2,Condo/Townhome,38.64496,FOR SALE,-121.26847,"$599,900","3,370",CA,4400 Bijan Ct,95628
+3,2,Los Angeles,0,Condo/Townhome,34.06272,FOR SALE,-118.43331,"$1,690,000","2,097",CA,10551 Wilshire Unit 904,90024
+2,2,Los Angeles,0,Condo/Townhome,34.06337,FOR SALE,-118.43306,"$1,395,000","1,672",CA,10535 Wilshire Blvd Unit PH 7,90024
+3,3,Pebble Beach,0,Condo/Townhome,36.58096,FOR SALE,-121.91194,"$725,000","2,650",CA,49 Shepherds Knoll,93953
+3,3,Hermosa Beach,1,Condo/Townhome,33.8674,FOR SALE,-118.393,"$2,250,000","2,591",CA,902 17th Street,90254
+2,2,West Hollywood,0,Condo/Townhome,34.09147,FOR SALE,-118.37593,"$749,000","1,248",CA,1124 North LA CIENEGA Boulevard 205,90069
+2,3,Truckee,0,Condo/Townhome,39.321,FOR SALE,-120.212,"$620,000","1,507",CA,11581 Dolomite Way 2,96161
+2,2,Oxnard,0,Condo/Townhome,34.186433,FOR SALE,-119.222641,"$619,000","2,009",CA,1531 Windshore Way,93035
+3,3,Palm Desert,0,Condo/Townhome,33.766827,FOR SALE,-116.339516,"$444,400","2,536",CA,38811 Tandika Trail North,92211
+3,3,Palm Desert,0,Condo/Townhome,33.766663,FOR SALE,-116.330078,"$429,000","1,918",CA,38724 Nasturtium Way,92211
+3,4,Livermore,0,Condo/Townhome,37.7079,FOR SALE,-121.79756,"$775,000","2,190",CA,573 HELIGAN Ln 4,94551
+3,4,Livermore,0,Condo/Townhome,0.0,FOR SALE,0.0,"$775,000","2,190",CA,573 HELIGAN Ln 4,94551
+2,3,San Diego,0,Condo/Townhome,32.7611,FOR SALE,-117.252,"$2,199,000","1,595",CA,2695 Ocean Front Walk,92109
+4,2,Palm Desert,1,Condo/Townhome,33.695538,FOR SALE,-116.377663,"$1,395,000","2,200",CA,48808 Mescal Lane,92260
+2,3,Los Angeles (City),0,Condo/Townhome,34.0656,FOR SALE,-118.28664,"$926,985","1,385",CA,436 South VIRGIL Avenue PH9,90020
+2,3,Los Angeles (City),0,Condo/Townhome,34.0656,FOR SALE,-118.28664,"$855,300","1,411",CA,436 South VIRGIL Avenue 407,90020
+2,2,Rancho Mirage,0,Condo/Townhome,33.770107,FOR SALE,-116.41204,"$349,000","1,815",CA,910 Island Dr. Drive 310,92270
+3,3,Mariposa,0,Condo/Townhome,37.491832261,FOR SALE,-119.82377793,"$650,000","3,100",CA,0 Old Orchard Ln.,95338
+3,5,Cottonwood,1,Condo/Townhome,40.390076607,FOR SALE,-122.314541195,"$525,525","4,000",CA,3616 Electric Lane,96022
+3,5,Lancaster,0,Condo/Townhome,34.68592,FOR SALE,-118.2023,"$439,900","3,454",CA,4020  Dee Dee Court,93536
+2,3,Riverside,0,Condo/Townhome,33.9185,FOR SALE,-117.49981,"$313,200","1,820",CA,11510 Los Molinos Way,92505
+2,3,Del Mar,0,Condo/Townhome,32.93724,FOR SALE,-117.2563,"$1,370,000","1,886",CA,2191 Caminito Del Barco,92014
+2,2,San Francisco,0,Condo/Townhome,37.78063,FOR SALE,-122.389625,"$1,299,000","1,145",CA,88 King Street Unit 304,94107
+4,4,Baldwin Park,0,Condo/Townhome,34.07534,FOR SALE,-117.97525,"$598,000","2,125",CA,13641 Foster Avenue,91706
+3,3,La Quinta,1,Condo/Townhome,33.633057,FOR SALE,-116.26889,"$795,000","2,935",CA,57292 Merion,92253
+2,2,Malibu,0,Condo/Townhome,34.04965,FOR SALE,-118.95452,"$775,000",986,CA,11866 STARFISH Lane,90265
+2,2,Avalon,0,Condo/Townhome,33.3445,FOR SALE,-118.329,"$725,000",940,CA,216 Marilla Avenue,90704
+2,3,San Diego,0,Condo/Townhome,32.7647,FOR SALE,-117.188,"$660,000","1,969",CA,5845 Friars Rd 1403,92110
+3,3,La Quinta,1,Condo/Townhome,33.652882,FOR SALE,-116.273239,"$625,000","2,472",CA,54436 Tanglewood Way,92253
+1,2,Studio City,1,Condo/Townhome,34.1492,FOR SALE,-118.39,"$629,000","1,272",CA,11738 Moorpark Street L,91604
+1,1,West Hollywood,0,Condo/Townhome,34.0876,FOR SALE,-118.389,"$545,000",781,CA,906 N Doheny Drive 220,90069
+2,3,Corona,1,Condo/Townhome,33.8959,FOR SALE,-117.522,"$378,888","1,555",CA,2270 Indigo Hills Drive 4,92879
+2,2,Cathedral City,0,Condo/Townhome,33.787849,FOR SALE,-116.460709,"$231,960","1,512",CA,35955 Paseo Circulo East,92234
+2,3,Modesto,0,Condo/Townhome,37.69155,FOR SALE,-121.03799,"$277,500","1,373",CA,2329 Bolton Ct,95356
+1,2,Chowchilla,0,Condo/Townhome,37.11529,FOR SALE,-120.27381,"$90,000",672,CA,1513 Defender St,93610
+3,3,Laguna Woods,0,Condo/Townhome,33.621,FOR SALE,-117.744,"$1,640,000","2,700",CA,5269 Avenida Del Sol,92637
+2,2,Santa Monica,0,Condo/Townhome,34.02687,FOR SALE,-118.51408,"$1,599,000","1,235",CA,201 OCEAN Avenue 401P,90402
+1,2,Upland,1,Condo/Townhome,34.0981,FOR SALE,-117.645,"$369,888","1,260",CA,456 D Street,91786
+2,2,Canoga Park,0,Condo/Townhome,34.220242,FOR SALE,-118.594414,"$360,000",910,CA,21219 Roscoe Blvd 114,91304
+2,2,Palm Springs,0,Condo/Townhome,33.80199,FOR SALE,-116.52019,"$339,000","1,850",CA,2424 East PALM CANYON Drive 1D,92264
+1,1,Hanford,0,Condo/Townhome,36.33556,FOR SALE,-119.658318,"$60,000",640,CA,888 Greenfield #A,93230
+3,4,Homewood,1,Condo/Townhome,39.05853,FOR SALE,-120.13663,"$1,499,000","2,938",CA,7295 Chinkapin Road,96141
+2,4,Cerritos,0,Condo/Townhome,33.86206,FOR SALE,-118.10775,"$768,888","1,515",CA,10714 Andy,90703
+2,2,Pasadena,1,Condo/Townhome,34.13234,FOR SALE,-118.15814,"$860,000","2,292",CA,776 S Orange Grove Boulevard,91105
+3,3,Santa Monica,0,Condo/Townhome,34.02687,FOR SALE,-118.51408,"$2,150,000","1,745",CA,201 OCEAN Avenue 401-02P,90402
+2,2,San Diego,1,Condo/Townhome,32.7081,FOR SALE,-117.237,"$1,449,000","1,930",CA,345 San Antonio Ave,92106
+2,3,Orange,1,Condo/Townhome,33.8386,FOR SALE,-117.841,"$549,898","1,624",CA,1208 E Bixby Avenue,92865
+2,2,Porter Ranch,0,Condo/Townhome,34.2762,FOR SALE,-118.578,"$549,000","1,298",CA,20425 Paseo Azul,91326
+4,3,Avila Beach,0,Condo/Townhome,35.1815,FOR SALE,-120.731,"$1,129,000","2,346",CA,270 Ocean Oaks Lane,93424
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6102,FOR SALE,-117.623,"$650,000","1,678",CA,87 Fuente,92688
+2,3,Rancho Santa Margarita,1,Condo/Townhome,33.6102,FOR SALE,-117.623,"$650,000","1,678",CA,87 Fuente,92688
+2,2,Dana Point,0,Condo/Townhome,33.4879,FOR SALE,-117.714,"$519,900","1,200",CA,62 Corniche Drive D,92629
+1,2,Fillmore,1,Condo/Townhome,34.39608,FOR SALE,-118.92702,"$307,000","1,060",CA,1056 Tudor Ln,93015
+1,1,Long Beach,0,Condo/Townhome,33.76493,FOR SALE,-118.17556,"$745,000",990,CA,1310 E Ocean Boulevard,90802
+2,2,Carmel,0,Condo/Townhome,36.54262,FOR SALE,-121.87127,"$710,000","1,469",CA,173 Del Mesa Carmel,93923
+4,4,Newport Beach,0,Condo/Townhome,33.6283,FOR SALE,-117.924,"$1,749,000","2,647",CA,3238 Clay Street,92663
+2,2,Long Beach,0,Condo/Townhome,33.7656,FOR SALE,-118.182,"$879,000","1,377",CA,850 E Ocean Boulevard 503,90802
+3,3,Palm Desert,0,Condo/Townhome,33.775021,FOR SALE,-116.342827,"$369,900","1,946",CA,451 Paseo Del Corazon,92211
+3,3,Palm Desert,0,Condo/Townhome,33.768028,FOR SALE,-116.351059,"$355,000","2,236",CA,273 Vista Royale Circle West,92211
+2,2,Palm Desert,0,Condo/Townhome,33.756804535,FOR SALE,-116.378989622,"$319,000","1,494",CA,2101 Via Calderia,92260
+2,2,Laguna Woods,0,Condo/Townhome,33.61122,FOR SALE,-117.74054,"$420,000","1,260",CA,5519-2D Paseo Del Lago,92637
+2,3,Norwalk,1,Condo/Townhome,33.89093,FOR SALE,-118.07047,"$420,000","1,142",CA,12309 Cheshire St #C,90650
+2,3,Port Hueneme,0,Condo/Townhome,34.17909,FOR SALE,-119.20552,"$309,999","1,153",CA,221 Sharon Ln,93041
+2,2,Long Beach,0,Condo/Townhome,33.77132,FOR SALE,-118.19543,"$315,000",937,CA,335 Cedar Avenue 315,90802
+2,2,Rancho Mirage,1,Condo/Townhome,33.766,FOR SALE,-116.40658,"$529,900","2,600",CA,261 Kavenish Drive,92270
+2,2,Atwater,0,Condo/Townhome,37.36571,FOR SALE,-120.60419,"$200,000",153,CA,3069 Summit Ln,95301
+1,3,Apple Valley,0,Condo/Townhome,34.52315,FOR SALE,-117.12205,"$189,000","1,312",CA,24830 Standing Rock Road,92307
+2,2,Laguna Beach,0,Condo/Townhome,33.5452,FOR SALE,-117.79,"$900,000","1,018",CA,262 Jasmine Street 8,92651
+1,1,Los Angeles (City),0,Condo/Townhome,34.06383,FOR SALE,-118.47104,"$599,000",703,CA,11750 West SUNSET 202,90049
+2,3,Palm Springs,1,Condo/Townhome,33.80662,FOR SALE,-116.53725,"$519,000","2,034",CA,1211 OTONO Drive,92264
+3,2,Chatsworth,0,Condo/Townhome,34.25591,FOR SALE,-118.59353,"$399,000","1,446",CA,10215 VARIEL Avenue 17,91311
+3,3,Palm Springs,0,Condo/Townhome,33.793201,FOR SALE,-116.543526,"$320,000","2,355",CA,231 East La Verne Way A,92264
+2,2,Rancho Mirage,0,Condo/Townhome,33.794376,FOR SALE,-116.439796,"$319,000","1,984",CA,543 Desert West Drive,92270
+2,3,Palm Desert,0,Condo/Townhome,33.745693,FOR SALE,-116.382233,"$299,000","1,759",CA,35 Maximo,92260
+3,4,Corona,0,Condo/Townhome,33.87514,FOR SALE,-117.62846,"$569,900","2,363",CA,3305 Deaver Dr.,92882
+2,2,Westlake Village,0,Condo/Townhome,34.14948,FOR SALE,-118.83541,"$639,000","1,829",CA,1170 South Westlake Boulevard #B,91361
+3,3,La Quinta,1,Condo/Townhome,33.651039,FOR SALE,-116.255005,"$599,000","3,031",CA,54693 Southern Hills,92253
+2,3,Palm Desert,0,Condo/Townhome,33.744442,FOR SALE,-116.381416,"$294,000","1,759",CA,18 Maximo Way,92260
+2,2,Oxnard,0,Condo/Townhome,34.24971,FOR SALE,-119.17497,"$360,000",999,CA,3239 N Ventura Rd,93036
+3,5,Palmdale,0,Condo/Townhome,34.571338,FOR SALE,-117.895256,"$259,000","2,180",CA,E 13135 E Ave R 2,93591
+3,3,Rancho Mirage,0,Condo/Townhome,33.765488,FOR SALE,-116.424042,"$699,000","3,088",CA,29 Duke Drive,92270
+3,3,Palm Springs,0,Condo/Townhome,33.80199,FOR SALE,-116.52019,"$519,000","2,500",CA,2424 East PALM CANYON Drive 1B,92264
+3,3,Rancho Mirage,0,Condo/Townhome,33.766934,FOR SALE,-116.413704,"$495,000","2,653",CA,899 Island Drive 212,92270
+2,3,Newhall,0,Condo/Townhome,34.4046,FOR SALE,-118.481,"$469,000","1,599",CA,26335 Long Oak Drive,91321
+2,2,Inglewood,0,Condo/Townhome,33.95722,FOR SALE,-118.34799,"$350,000","1,120",CA,611 E. Kelso St #22,90301
+1,3,Arcadia,1,Condo/Townhome,34.11655,FOR SALE,-118.0542,"$838,000","1,361",CA,1919 S Baldwin Avenue,91007
+1,1,Indian Wells,0,Condo/Townhome,33.70945,FOR SALE,-116.30187,"$172,000",576,CA,78225 Cabrillo Lane #110,92210
+2,3,Long Beach,0,Condo/Townhome,33.7648,FOR SALE,-118.174,"$724,000","1,282",CA,1500 E Ocean Boulevard 417,90802
+3,3,Palm Desert,1,Condo/Townhome,33.757671,FOR SALE,-116.32872,"$599,000","2,368",CA,561 Falcon View Circle,92211
+2,2,Los Angeles,1,Condo/Townhome,33.99942,FOR SALE,-118.27508,"$450,000","1,408",CA,129 W 48th Street,90037
+2,2,Palm Springs,0,Condo/Townhome,33.802719,FOR SALE,-116.539093,"$169,900","1,139",CA,1500 South Camino Real 202A,92264
+3,3,La Quinta,1,Condo/Townhome,33.64476,FOR SALE,-116.27445,"$687,000","3,054",CA,55825 Congressional,92253
+3,3,Newport Beach,0,Condo/Townhome,33.6125,FOR SALE,-117.929,"$2,175,000","2,500",CA,2600 Newport Boulevard 314,92663
+3,3,Newport Beach,0,Condo/Townhome,33.6125,FOR SALE,-117.929,"$2,175,000","2,500",CA,2600 Newport Boulevard 314,92663
+2,2,Lake Arrowhead,0,Condo/Townhome,34.2516,FOR SALE,-117.194,"$615,000","1,473",CA,358 Lake Resort Road,92352
+2,3,Indian Wells,1,Condo/Townhome,33.714733,FOR SALE,-116.303047,"$395,000","2,124",CA,45295 Vista Santa Rosa,92210
+2,2,Laguna Woods,0,Condo/Townhome,33.62,FOR SALE,-117.715,"$368,000","1,009",CA,2231 Via Puerta P,92637
+2,2,Palm Desert,0,Condo/Townhome,33.747402,FOR SALE,-116.318787,"$249,900","1,091",CA,41440 Kansas Street,92211
+1,1,Palm Springs,0,Condo/Townhome,33.827659232,FOR SALE,-116.532580586,"$149,000",633,CA,351 North HERMOSA Drive 1D1,92262
+2,3,Little Rock,0,Condo/Townhome,34.521286011,FOR SALE,-117.971183777,"$320,000","1,804",CA,8721 Rowley Street,93543
+2,3,La Habra,1,Condo/Townhome,33.9397,FOR SALE,-117.956,"$479,000","1,579",CA,828 Citrus Drive 5,90631
+2,3,Laguna Woods,0,Condo/Townhome,33.603,FOR SALE,-117.734,"$369,900","1,334",CA,4012 Calle Sonora Oeste 2G,92637
+1,1,Carpinteria,0,Condo/Townhome,34.39657,FOR SALE,-119.52695,"$575,000",623,CA,130 Ash Ave Unit 20,93013
+1,1,Long Beach,0,Condo/Townhome,33.76566,FOR SALE,-118.17112,"$290,000",632,CA,1724 E 1st St 11A,90802
+2,3,Livermore,0,Condo/Townhome,37.71469,FOR SALE,-121.74839,"$609,000","1,224",CA,4262 RED FIR Way,94551
+2,3,Livermore,0,Condo/Townhome,37.71469,FOR SALE,-121.74839,"$609,000","1,224",CA,4262 RED FIR Way,94551
+2,2,La Quinta,0,Condo/Townhome,33.728172,FOR SALE,-116.301132,"$199,000",912,CA,78177 Indigo Drive,92253
+2,2,Los Angeles,0,Condo/Townhome,33.95947,FOR SALE,-118.24834,"$380,000","1,672",CA,8619 Prince Ave.,90002
+2,3,Rancho Mirage,0,Condo/Townhome,33.747684,FOR SALE,-116.410713,"$355,000","1,581",CA,30 Majorca Drive,92270
+1,4,Bucks Lake,0,Condo/Townhome,39.849873,FOR SALE,-121.17017,"$195,000","2,016",CA,1225 Highlands Road,95956
+2,2,La Quinta,0,Condo/Townhome,33.650665,FOR SALE,-116.274445,"$339,000","1,549",CA,54956 Riviera,92253
+4,5,San Dimas,1,Condo/Townhome,34.109597,FOR SALE,-117.830486,"$1,100,000","3,940",CA,1131 Las Colinas Way,91773
+2,2,Irvine,0,Condo/Townhome,33.6986,FOR SALE,-117.754,"$858,000","1,545",CA,53 Mission Bell,92620
+3,3,Palm Desert,0,Condo/Townhome,33.7482,FOR SALE,-116.305,"$280,000","1,808",CA,41356 East Woodhaven Drive East,92211
+3,2,Los Angeles (City),0,Condo/Townhome,34.04544,FOR SALE,-118.26576,"$1,995,000","1,760",CA,900 West OLYMPIC 32D,90015
+2,3,Chino,1,Condo/Townhome,34.0175,FOR SALE,-117.7,"$320,000","1,281",CA,4808 Southfork,91710
+2,1,Cathedral City,0,Condo/Townhome,33.844238,FOR SALE,-116.488342,"$105,900",851,CA,67269 North Chimayo Drive,92234
+2,2,Palm Desert,0,Condo/Townhome,33.7157,FOR SALE,-116.378,"$329,900","1,577",CA,45755 Juniper Circle 617,92260
+2,2,Mariposa,0,Condo/Townhome,37.45515,FOR SALE,-120.0196,"$529,000","2,657",CA,4009 Guadalupe Creek,95338
+1,1,Oxnard,0,Condo/Townhome,34.1733,FOR SALE,-119.22562,"$335,000",681,CA,2901 Peninsula Road #137,93035
+2,2,Laguna Woods,0,Condo/Townhome,33.603,FOR SALE,-117.734,"$369,000","1,300",CA,4008 Calle Sonora Oeste 2H,92637
+2,3,Oakdale,0,Condo/Townhome,37.77242,FOR SALE,-120.90734,"$640,000","1,743",CA,4837 River Rd,95361
+1,1,Palm Springs,0,Condo/Townhome,33.8257,FOR SALE,-116.541,"$139,900",653,CA,222 N Calle El Segundo 537,92262
+2,2,San Diego,1,Condo/Townhome,32.708917,FOR SALE,-117.162494,"$1,400,000","3,069",CA,100 Harbor Dr. 303,92101
+2,3,Montecito,0,Condo/Townhome,34.41929,FOR SALE,-119.63977,"$1,299,000","1,875",CA,70 Olive Mill Road,93108
+2,3,Vista,0,Condo/Townhome,33.1696,FOR SALE,-117.226,"$300,000","1,325",CA,986 Lupine Hills Drive 88,92081
+3,4,Farmington,0,Condo/Townhome,37.92393,FOR SALE,-120.83986,"$1,200,000","5,890",CA,19642 Milton Rd,95230
+2,2,La Mesa,0,Condo/Townhome,32.7558,FOR SALE,-117.031,"$255,700",988,CA,4262 Parks Ave 207,91941
+3,3,Newport Beach,0,Condo/Townhome,33.6103652,FOR SALE,-117.928470283,"$3,000,000","2,723",CA,2280 Newport Boulevard #6,92663
+3,3,Tustin,0,Condo/Townhome,33.7403,FOR SALE,-117.789,"$640,000","1,718",CA,12666 Homestead,92782
+2,2,Sherman Oaks,0,Condo/Townhome,34.1652,FOR SALE,-118.467,"$509,999","1,355",CA,15335 Magnolia Boulevard 113,91403
+2,3,Long Beach,1,Condo/Townhome,33.76532,FOR SALE,-118.16275,"$1,600,000","3,000",CA,139 Lindero Avenue,90803
+3,4,Chatsworth,1,Condo/Townhome,34.2563,FOR SALE,-118.594,"$475,000","1,896",CA,10229 Variel Avenue 10,91311
+2,3,Laguna Woods,0,Condo/Townhome,33.6122,FOR SALE,-117.747,"$475,000","1,627",CA,5371 Punta Alta 2D,92637
+2,2,Graeagle,0,Condo/Townhome,39.7632,FOR SALE,-120.613,"$217,700","1,288",CA,86 Graeagle Meadows Road,96103
+3,3,Modesto,0,Condo/Townhome,37.65056,FOR SALE,-120.81947,"$1,639,000","2,489",CA,9337 Creekside Ln,95357
+2,3,Corona,1,Condo/Townhome,0.0,FOR SALE,0.0,"$479,900","2,180",CA,2772 Apollo Way 105,92883
+2,3,Corona,1,Condo/Townhome,0.0,FOR SALE,0.0,"$429,000","1,948",CA,4261 Odyssey Drive 106,92883
+2,3,Corona,1,Condo/Townhome,0.0,FOR SALE,0.0,"$429,000","1,948",CA,4261 Odyssey Drive 103,92883
+2,2,Port Hueneme,0,Condo/Townhome,34.18002,FOR SALE,-119.19644,"$442,000","1,496",CA,311 E Fiesta Green,93041
+2,2,Laguna Woods,0,Condo/Townhome,33.61101,FOR SALE,-117.74533,"$438,000","1,152",CA,3327 Bahia Blanca #O,92637
+3,4,Irvine,0,Condo/Townhome,33.7009,FOR SALE,-117.724,"$1,250,000","2,395",CA,113 Bumblebee,92618
+3,4,Irvine,0,Condo/Townhome,33.6988,FOR SALE,-117.713,"$935,000","1,875",CA,128 Yellow Pine,92618
+2,4,Merced,0,Condo/Townhome,37.30479,FOR SALE,-120.46844,"$250,500","1,825",CA,430 E Santa Fe Ave,95340
+3,3,Rancho Mirage,0,Condo/Townhome,33.772092777,FOR SALE,-116.399937869,"$777,000","2,324",CA,66 Kavenish Drive,92270
+3,3,Pomona,0,Condo/Townhome,34.05073,FOR SALE,-117.73358,"$335,000","1,664",CA,1039 S Reservoir St,91766
+2,3,Laguna Niguel,0,Condo/Townhome,33.508429,FOR SALE,-117.716489,"$535,000","1,238",CA,31267 E Nine Dr 20G,92677
+2,2,Carlsbad,0,Condo/Townhome,33.16712,FOR SALE,-117.3041,"$440,000","1,112",CA,2806 Chatsworth,92010
+2,3,Oxnard,1,Condo/Townhome,34.242926,FOR SALE,-119.173038,"$349,000","1,519",CA,407 Flathead River Street,93036
+4,5,Arcadia,1,Condo/Townhome,34.12263,FOR SALE,-118.01582,"$2,390,000","4,133",CA,1519 S 8th Avenue,91006
+2,4,Lancaster,1,Condo/Townhome,34.718480619,FOR SALE,-118.148765637,"$175,000","1,648",CA,1034 W Ave H-7,93534
+2,3,Newport Beach,1,Condo/Townhome,33.6449,FOR SALE,-117.875,"$1,095,000","1,887",CA,438 Vista Parada,92660
+2,3,Palm Springs,0,Condo/Townhome,33.79862,FOR SALE,-116.51744,"$425,000","2,199",CA,2522 East MORONGO Trails,92264
+2,3,Dana Point,0,Condo/Townhome,33.4736,FOR SALE,-117.704,"$1,379,000","2,069",CA,33672 Blue Lantern Street 7,92629
+2,3,Los Angeles (City),0,Condo/Townhome,34.0656,FOR SALE,-118.28664,"$787,700","1,411",CA,436 South VIRGIL Avenue 307,90020
+2,3,Los Osos,0,Condo/Townhome,35.307941437,FOR SALE,-120.832298279,"$834,900","1,563",CA,2456 Bayview Heights Dr,93402
+1,1,La Puente,0,Condo/Townhome,34.046005249,FOR SALE,-117.964950562,"$105,000",567,CA,14530  Amar Rd R,91744
+1,1,Benicia,0,Condo/Townhome,38.078514,FOR SALE,-122.189148,"$191,000",687,CA,900  Cambridge Drive Unit: 169,94510
+2,2,Palm Desert,0,Condo/Townhome,33.76733,FOR SALE,-116.333977,"$259,000","1,330",CA,38545 Dahlia Way,92211
+1,1,San Diego,0,Condo/Townhome,32.707996368,FOR SALE,-117.154937744,"$260,000",739,CA,253 10th Ave 222,92101
+2,2,Santa Barbara,1,Condo/Townhome,34.416086,FOR SALE,-119.63904,"$4,700,000","1,666",CA,1389 Plaza Pacifica,93108
+3,4,Carmel,2,Condo/Townhome,36.4856,FOR SALE,-121.933,"$4,495,000","7,200",CA,5 Mentone RD,93923
+4,4,San Mateo,0,Condo/Townhome,37.5528,FOR SALE,-122.339,"$2,999,888","4,060",CA,791 Crystal Springs RD,94402
+2,4,Saratoga,0,Condo/Townhome,37.2676,FOR SALE,-122.027,"$2,498,000","1,870",CA,20221 Herriman AVE,95070
+3,5,Gilroy,1,Condo/Townhome,37.0201,FOR SALE,-121.615,"$2,150,000","4,672",CA,8685 Larkspur LN,95020
+4,4,Santa Cruz,0,Condo/Townhome,36.9647,FOR SALE,-122.006,"$1,999,700","2,602",CA,310 Atlantic AVE,95062
+2,2,Pasadena,1,Condo/Townhome,34.14279,FOR SALE,-118.158874,"$1,995,000","2,760",CA,192 S Orange Grove Boulevard 301,91105
+4,4,Pasadena,1,Condo/Townhome,34.14218,FOR SALE,-118.101453,"$1,918,000","3,405",CA,188 S Sierra Madre Boulevard 5,91107
+3,4,Santa Clara,1,Condo/Townhome,37.3534,FOR SALE,-122.001,"$1,898,000","2,227",CA,1055 Helen AVE,95051
+2,3,Mountain View,1,Condo/Townhome,37.3717,FOR SALE,-122.061,"$1,849,000","2,261",CA,1303 Cuernavaca Circulo,94040
+3,4,Santa Clara,1,Condo/Townhome,37.3442,FOR SALE,-121.988,"$1,748,000","2,050",CA,3802 Mark Spitz Place,95051
+2,4,San Jose,0,Condo/Townhome,37.2312,FOR SALE,-121.888,"$1,599,000","1,873",CA,1385 Kinsport LN,95120
+3,4,San Jose,1,Condo/Townhome,37.2886,FOR SALE,-121.805,"$1,499,000","3,100",CA,1346 Thornbury LN,95138
+2,3,San Mateo,1,Condo/Townhome,37.5636,FOR SALE,-122.291,"$1,450,000","1,690",CA,1311 Shoal DR,94404
+2,2,Pasadena,1,Condo/Townhome,34.13799,FOR SALE,-118.158132,"$1,325,000","2,310",CA,480 S Orange Grove Boulevard 22,91105
+2,3,Pasadena,0,Condo/Townhome,34.137839,FOR SALE,-118.158194,"$1,310,000","2,110",CA,480 S Orange Grove Boulevard 16,91105
+3,3,Santa Barbara,0,Condo/Townhome,34.434913,FOR SALE,-119.707854,"$1,254,000","2,232",CA,400 E Pedregosa Street L,93103
+2,2,Burbank,0,Condo/Townhome,34.155828,FOR SALE,-118.349259,"$519,000",982,CA,4340 W Kling Street 15,91505
+2,2,Tarzana,0,Condo/Townhome,34.17788,FOR SALE,-118.541274,"$515,000","1,528",CA,18713 Hatteras Street 7,91356
+1,2,Novato,1,Condo/Townhome,38.106499,FOR SALE,-122.580196,"$515,000","1,238",CA,1717 Novato Boulevard Unit: 30,94947
+1,2,Santa Barbara,1,Condo/Townhome,34.415473,FOR SALE,-119.740657,"$515,000",952,CA,1225 Rebecca Ln B,93105
+2,3,Santa Rosa,1,Condo/Townhome,38.454853,FOR SALE,-122.727837,"$499,999","1,346",CA,988 Raccoon Lane,95401
+2,2,Montrose,1,Condo/Townhome,34.209513,FOR SALE,-118.225749,"$499,000","1,346",CA,2218 Del Mar Road 1,91020
+1,2,San Rafael,0,Condo/Townhome,38.012051,FOR SALE,-122.543335,"$499,000",850,CA,1064 Los Gamos Road Unit: B,94903
+3,2,Solvang,0,Condo/Townhome,34.600672,FOR SALE,-120.137597,"$495,000","1,560",CA,685 Roskilde Road,93463
+1,1,Pasadena,1,Condo/Townhome,34.138543,FOR SALE,-118.137863,"$475,000",965,CA,420 S Madison Avenue 301,91101
+1,1,Huntington Beach,0,Condo/Townhome,33.662673,FOR SALE,-118.008079,"$475,000",781,CA,1200 Pacific Coast Highway 113,92648
+2,2,Pasadena,0,Condo/Townhome,34.154047,FOR SALE,-118.129149,"$465,000","1,050",CA,480 N Catalina Avenue 303,91106
+2,3,Salinas,0,Condo/Townhome,36.7071,FOR SALE,-121.624,"$450,000","1,403",CA,757 Saucito AVE,93906
+1,2,Petaluma,0,Condo/Townhome,38.242424,FOR SALE,-122.638115,"$450,000",952,CA,39 Edith Street,94952
+2,3,Pinole,0,Condo/Townhome,38.000538,FOR SALE,-122.315224,"$449,888","1,218",CA,109 Dursey Drive,94564
+2,3,Rohnert Park,1,Condo/Townhome,38.366653,FOR SALE,-122.687798,"$448,000","1,378",CA,4519 Harbor Lane,94928
+3,4,Rancho Cucamonga,0,Condo/Townhome,34.1067,FOR SALE,-117.52,"$447,900","1,905",CA,8090 Cornwall Court Unit: 38,91739
+2,3,Buellton,1,Condo/Townhome,34.616194,FOR SALE,-120.198866,"$445,000","1,474",CA,330 Matthew Way 105,93427
+2,2,Fairfield,0,Condo/Townhome,38.292759,FOR SALE,-122.071503,"$440,000","1,409",CA,3263 Inwood Place,94534
+2,2,Benicia,1,Condo/Townhome,38.063892,FOR SALE,-122.158051,"$439,000","1,224",CA,2003 Clearview Circle,94510
+2,2,Solvang,0,Condo/Townhome,34.599804,FOR SALE,-120.138088,"$439,000","1,041",CA,631 Roskilde Road,93463

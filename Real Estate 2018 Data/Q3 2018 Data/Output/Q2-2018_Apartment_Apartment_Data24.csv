@@ -1,0 +1,140 @@
+"
+                        1 Bedroom
+                            –
+2 Bedrooms                    ","
+                        1 Bedroom
+                            –
+3 Bedrooms                    ","
+                        Studio
+                            –
+2 Bedrooms                    ","
+                        Studio
+                            –
+3 Bedrooms                    ","
+                        Studio
+                            –
+4 Bedrooms                    ",1 Bedroom,2 Bedrooms,3 Bedrooms,Bedroom_Info,City_Rent,Property_Name_Rent,State_Rent,Studio,Type,Zip_code
+,,,,,"$2,045 ","$2,234 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,045 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,234 '}]",Santa Ana,PRISMA,CA,,Apartment,92705
+,,,,,,,,"[{'bedroom_type': '\r\n                        Studio\r\n                            –\r\n3 Bedrooms                    ', 'price': ''}]",Los Angeles,THE MANSFIELD,CA,,Apartment,90036
+,,,,,"$2,628 ","$3,173 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,628 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,173 '}]",Fremont,Artist Walk,CA,,Apartment,94536
+,,,,,"$2,175 ","$3,280 ",,"[{'bedroom_type': 'Studio', 'price': '$2,065 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,175 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,280 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Irvine,Rize Irvine Apartments,CA,"$2,065 ",Apartment,92614
+,,,,,"$2,265 ","$3,650 ",,"[{'bedroom_type': 'Studio', 'price': '$1,995 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,265 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,650 '}]",Los Angeles,The Roy,CA,"$1,995 ",Apartment,90034
+,,,,,"$2,615 ","$2,930 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,615 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,930 '}]",Dublin,Aster,CA,,Apartment,94568
+,,,,,"$2,775 ","$3,465 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,775 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,465 '}]",San Francisco,Waterbend,CA,,Apartment,94124
+,,,,,"$3,190 ","$3,795 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$3,190 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,795 '}]",Playa Vista,Villas at Playa Vista - Malibu,CA,,Apartment,90094
+,,,,,"$2,645 ","$4,150 ",,"[{'bedroom_type': 'Studio', 'price': '$2,400 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,645 '}, {'bedroom_type': '2 Bedrooms', 'price': '$4,150 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Diego,AV8,CA,"$2,400 ",Apartment,92101
+,,,,,"$3,185 ","$3,640 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$3,185 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,640 '}]",Oakland,777 Broadway,CA,,Apartment,94607
+,,,,,"$1,810 ","$2,332 ","$2,705 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,810 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,332 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,705 '}]",Chula Vista,Enclave Otay Ranch,CA,,Apartment,91913
+,,,,,,,,"[{'bedroom_type': '\r\n                        1 Bedroom\r\n                            –\r\n3 Bedrooms                    ', 'price': ''}]",Riverside,The Core at Sycamore Highlands,CA,,Apartment,92507
+,,,,,"$1,530 ","$1,705 ","$2,065 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,530 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,705 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,065 '}]",Elk Grove,Vasari,CA,,Apartment,95758
+,,,,,,,,"[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': ''}]",Carlsbad,Portola,CA,,Apartment,92008
+,,,,,"$2,245 ","$2,445 ","$3,295 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,245 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,445 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,295 '}]",Santa Rosa,Canyon Oaks Luxury Apartments,CA,,Apartment,95403
+,,,,,,,,"[{'bedroom_type': '\r\n                        1 Bedroom\r\n                            –\r\n3 Bedrooms                    ', 'price': ''}]",Murrieta,Mitchell Place,CA,,Apartment,92562
+,,,,,,,,"[{'bedroom_type': '\r\n                        Studio\r\n                            –\r\n4 Bedrooms                    ', 'price': ''}]",Sacramento,The Crossings Student Living,CA,,Apartment,95826
+,,,,,"$1,900 ",,,"[{'bedroom_type': 'Studio', 'price': '$1,795 '}, {'bedroom_type': '1 Bedroom', 'price': '$1,900 '}]",Los Angeles,Grand View Apartments,CA,"$1,795 ",Apartment,90066
+,,,,,"$1,849 ","$2,235 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,849 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,235 '}]",Anaheim,The Cascades,CA,,Apartment,92808
+,,,,,"$1,225 ","$1,350 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,225 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,350 '}]",Citrus Heights,The Oaks At Stock Ranch,CA,,Apartment,95610
+,,,,,,"$1,995 ","$2,695 ","[{'bedroom_type': '2 Bedrooms', 'price': '$1,995 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,695 '}]",Sacramento,SUR Apartments at 1317 F,CA,,Apartment,95814
+,,,,,"$1,720 ","$2,275 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,720 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,275 '}]",Costa Mesa,eaves South Coast,CA,,Apartment,92626
+,,,,,,"$1,730 ",,"[{'bedroom_type': '2 Bedrooms', 'price': '$1,730 '}]",San Dimas,eaves San Dimas Canyon,CA,,Apartment,91773
+,,,,,"$2,216 ","$2,848 ","$3,277 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,216 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,848 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,277 '}]",Woodland Hills,Triana at Warner Center,CA,,Apartment,91367
+,,,,,"$1,803 ","$2,225 ","$3,113 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,803 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,225 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,113 '}]",Huntington Beach,Huntington Vista,CA,,Apartment,92646
+,,,,,"$1,850 ",,,"[{'bedroom_type': 'Studio', 'price': '$1,650 '}, {'bedroom_type': '1 Bedroom', 'price': '$1,850 '}]",San Jose,Westwood Properties,CA,"$1,650 ",Apartment,95112
+,,,,,"$2,085 ","$2,500 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,085 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,500 '}]",Fremont,Ardenwood Forest Rental Condominiums,CA,,Apartment,94555
+,,,,,"$1,300 ",,,"[{'bedroom_type': '1 Bedroom', 'price': '$1,300 '}]",Rancho Cucamonga,The Terrace Apartments,CA,,Apartment,91730
+,,,,,,,,"[{'bedroom_type': '2 Bedrooms', 'price': ''}]",Thousand Oaks,Park View Apartment Homes,CA,,Apartment,91362
+,,,,,"$1,750 ","$2,025 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,750 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,025 '}]",Anaheim,Le Med Apartment Homes,CA,,Apartment,92806
+,,,,,"$1,315 ","$1,420 ","$1,804 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,315 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,420 '}, {'bedroom_type': '3 Bedrooms', 'price': '$1,804 '}]",Redlands,Brookside Park Apartments,CA,,Apartment,92373
+,,,,,"$2,406 ","$2,781 ","$3,559 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,406 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,781 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,559 '}]",Fremont,Alborada,CA,,Apartment,94538
+,,,,,$850 ,"$1,000 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$850 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,000 '}]",Rialto,Quailpointe Apartments,CA,,Apartment,92376
+,,,,,"$2,178 ","$2,639 ","$2,779 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,178 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,639 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,779 '}]",San Diego,Cresta Bella,CA,,Apartment,92129
+,,,,,"$3,145 ","$3,795 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$3,145 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,795 '}]",Sunnyvale,The Meadows Apartments,CA,,Apartment,94085
+,,,,,,"$3,935 ",,"[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$3,935 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Redwood City,885 Woodside,CA,,Apartment,94061
+,,,,,"$2,052 ","$2,233 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,052 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,233 '}]",Huntington Beach,Elan Huntington Beach,CA,,Apartment,92648
+,,,,,,,,"[{'bedroom_type': '\r\n                        1 Bedroom\r\n                            –\r\n3 Bedrooms                    ', 'price': ''}]",Marina del Rey,Tribeca Urban,CA,,Apartment,90292
+,,,,,"$1,938 ","$2,606 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,938 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,606 '}]",Calabasas,Avalon Calabasas,CA,,Apartment,91302
+,,,,,,,"$2,672 ","[{'bedroom_type': '3 Bedrooms', 'price': '$2,672 '}]",Santa Clarita,Townhomes at Lost Canyon,CA,,Apartment,91387
+,,,,,"$2,339 ","$2,940 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,339 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,940 '}]",Sunnyvale,The Arches,CA,,Apartment,94089
+,,,,,"$2,120 ","$2,500 ","$3,595 ","[{'bedroom_type': 'Studio', 'price': '$2,065 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,120 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,500 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,595 '}]",Laguna Niguel,Broadstone Cavora,CA,"$2,065 ",Apartment,92677
+,,,,,,"$2,249 ",,"[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$2,249 '}]",La Mesa,Adagio,CA,,Apartment,91942
+,,,,,"$1,995 ","$2,690 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,995 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,690 '}]",Los Angeles,eaves Los Feliz,CA,,Apartment,90027
+,,,,,"$1,675 ","$1,790 ","$2,275 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,675 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,790 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,275 '}]",Anaheim,Pacific Palms,CA,,Apartment,92802
+,,,,,"$1,410 ","$1,650 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,410 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,650 '}]",Vista,Millcreek Apartments,CA,,Apartment,92084
+,,,,,"$2,095 ","$2,945 ","$4,395 ","[{'bedroom_type': 'Studio', 'price': '$1,955 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,095 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,945 '}, {'bedroom_type': '3 Bedrooms', 'price': '$4,395 '}]",Daly City,Westlake Village,CA,"$1,955 ",Apartment,94015
+,,,,,"$1,760 ","$2,475 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,760 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,475 '}]",Rancho Santa Margarita,Buena Vida,CA,,Apartment,92688
+,,,,,"$1,095 ",,,"[{'bedroom_type': '1 Bedroom', 'price': '$1,095 '}, {'bedroom_type': '2 Bedrooms', 'price': ''}]",Sacramento,SUR Apartments at 2927 Marconi,CA,,Apartment,95821
+,,,,,"$1,760 ","$2,220 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,760 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,220 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Vista,Avalon Vista,CA,,Apartment,92081
+,,,,,"$2,340 ","$3,295 ","$4,260 ","[{'bedroom_type': 'Studio', 'price': '$2,135 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,340 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,295 '}, {'bedroom_type': '3 Bedrooms', 'price': '$4,260 '}]",Los Angeles,Sofia Los Angeles,CA,"$2,135 ",Apartment,90017
+,,,,,"$2,126 ","$2,627 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,126 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,627 '}]",Studio City,Avalon Studio City,CA,,Apartment,91604
+,,,,,"$1,981 ","$2,427 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,981 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,427 '}]",Walnut Creek,eaves Walnut Creek,CA,,Apartment,94597
+,,,,,"$1,495 ","$1,680 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,495 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,680 '}]",Santa Ana,Villa Del Sol,CA,,Apartment,92704
+,,,,,"$1,695 ",,,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$1,695 '}, {'bedroom_type': '2 Bedrooms', 'price': ''}]",Mission Viejo,Mosaic Apartment Homes,CA,,Apartment,92692
+,,,,,"$2,700 ","$4,170 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,700 '}, {'bedroom_type': '2 Bedrooms', 'price': '$4,170 '}]",Walnut Creek,Vaya,CA,,Apartment,94596
+,,,,,,"$3,393 ",,"[{'bedroom_type': 'Studio', 'price': '$2,212 '}, {'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$3,393 '}]",Pasadena,Andalucia Townhomes and Flats,CA,"$2,212 ",Apartment,91101
+,,,,,"$1,900 ","$3,320 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,900 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,320 '}]",Emeryville,The Courtyards at 65th Street,CA,,Apartment,94608
+,,,,,"$2,540 ","$3,030 ",,"[{'bedroom_type': 'Studio', 'price': '$2,325 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,540 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,030 '}]",San Mateo,Laurel Crossing Apartment Homes,CA,"$2,325 ",Apartment,94403
+,,,,,"$1,840 ","$2,425 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,840 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,425 '}]",Aliso Viejo,Vista Bella Apartment Homes,CA,,Apartment,92656
+,,,,,"$1,915 ","$2,570 ","$2,840 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,915 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,570 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,840 '}]",Dublin,eaves Dublin,CA,,Apartment,94568
+,,,,,,"$1,795 ",,"[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$1,795 '}]",Anaheim,Glen Oaks Apartments,CA,,Apartment,92801
+,,,,,"$1,547 ","$1,970 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,547 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,970 '}]",Downey,Park Regency Club,CA,,Apartment,90242
+,,,,,,,,"[{'bedroom_type': '\r\n                        1 Bedroom\r\n                            –\r\n2 Bedrooms                    ', 'price': ''}]",Campbell,The Parc at Pruneyard,CA,,Apartment,95008
+,,,,,"$2,750 ","$3,936 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,750 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,936 '}]",Cupertino,Arioso Apartments,CA,,Apartment,95014
+,,,,,"$2,030 ","$2,735 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,030 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,735 '}]",Fullerton,City Pointe,CA,,Apartment,92832
+,,,,,"$2,964 ",,,"[{'bedroom_type': 'Studio', 'price': '$2,604 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,964 '}]",San Francisco,1188 Mission at Trinity Place,CA,"$2,604 ",Apartment,94103
+,,,,,"$1,390 ",,,"[{'bedroom_type': '1 Bedroom', 'price': '$1,390 '}, {'bedroom_type': '2 Bedrooms', 'price': ''}]",Anaheim,Glen Forest Apartments,CA,,Apartment,92804
+,,,,,"$1,450 ","$1,890 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,450 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,890 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Corona,Artisan at Main Street Metro Apartment Homes,CA,,Apartment,92880
+,,,,,"$2,175 ","$2,479 ","$3,699 ","[{'bedroom_type': 'Studio', 'price': '$1,950 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,175 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,479 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,699 '}]",Los Angeles,Da Vinci,CA,"$1,950 ",Apartment,90012
+,,,,,"$1,795 ","$2,390 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,795 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,390 '}]",San Diego,La Jolla International Gardens,CA,,Apartment,92122
+,,,,,,"$2,344 ",,"[{'bedroom_type': 'Studio', 'price': '$1,378 '}, {'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$2,344 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Diego,Entrada,CA,"$1,378 ",Apartment,92101
+,,,,,"$1,410 ",,,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$1,410 '}, {'bedroom_type': '2 Bedrooms', 'price': ''}]",Upland,Canyon Club Apartments,CA,,Apartment,91786
+,,,,,"$2,125 ","$2,780 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,125 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,780 '}]",Irvine,The Alton,CA,,Apartment,92606
+,,,,,"$2,050 ","$2,785 ",,"[{'bedroom_type': 'Studio', 'price': '$1,640 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,050 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,785 '}]",San Diego,AVA Pacific Beach,CA,"$1,640 ",Apartment,92109
+,,,,,"$1,990 ","$2,406 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,990 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,406 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Diego,Verge,CA,,Apartment,92120
+,,,,,,,,"[{'bedroom_type': '\r\n                        Studio\r\n                            –\r\n2 Bedrooms                    ', 'price': ''}]",Hollywood,Alaya Hollywood,CA,,Apartment,90028
+,,,,,"$2,055 ","$2,369 ",,"[{'bedroom_type': 'Studio', 'price': '$1,837 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,055 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,369 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Jose,Avana Skyway,CA,"$1,837 ",Apartment,95136
+,,,,,"$1,470 ","$1,730 ","$2,225 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,470 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,730 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,225 '}]",Folsom,Overlook at Blue Ravine,CA,,Apartment,95630
+,,,,,"$1,245 ","$1,435 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,245 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,435 '}]",Fresno,Cascades,CA,,Apartment,93720
+,,,,,"$1,920 ","$2,505 ","$2,855 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,920 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,505 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,855 '}]",Chula Vista,Pulse Millenia Apartments,CA,,Apartment,91915
+,,,,,"$2,356 ","$2,846 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,356 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,846 '}]",Milpitas,Amalfi Apartments,CA,,Apartment,95035
+,,,,,"$1,731 ","$1,929 ","$2,465 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,731 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,929 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,465 '}]",Rancho Cucamonga,Homecoming At Terra Vista,CA,,Apartment,91730
+,,,,,"$1,540 ","$1,910 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,540 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,910 '}]",Brea,Tamarack Gardens Apartments,CA,,Apartment,92821
+,,,,,"$3,375 ","$4,110 ","$5,205 ","[{'bedroom_type': '1 Bedroom', 'price': '$3,375 '}, {'bedroom_type': '2 Bedrooms', 'price': '$4,110 '}, {'bedroom_type': '3 Bedrooms', 'price': '$5,205 '}]",Menlo Park,Elan Menlo Park,CA,,Apartment,94025
+,,,,,"$1,950 ","$2,021 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,950 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,021 '}]",Huntington Beach,The Californian Apartments-Huntington Beach,CA,,Apartment,92647
+,,,,,"$2,995 ",,,"[{'bedroom_type': '1 Bedroom', 'price': '$2,995 '}]",Culver City,3838 by CLG,CA,,Apartment,90232
+,,,,,$975 ,"$1,100 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$975 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,100 '}]",Chino,Hillsborough Village Senior Apartments,CA,,Apartment,91710
+,,,,,"$1,820 ",,,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$1,820 '}, {'bedroom_type': '2 Bedrooms', 'price': ''}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Marcos,Block C,CA,,Apartment,92078
+,,,,,"$3,030 ","$3,760 ",,"[{'bedroom_type': 'Studio', 'price': '$3,300 '}, {'bedroom_type': '1 Bedroom', 'price': '$3,030 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,760 '}]",Santa Clara,Monticello Apartment Homes,CA,"$3,300 ",Apartment,95051
+,,,,,"$1,950 ","$2,290 ","$2,895 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,950 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,290 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,895 '}]",Van Nuys,Woodley Sara Apartments,CA,,Apartment,91406
+,,,,,"$1,925 ","$2,245 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,925 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,245 '}]",San Diego,Modernaire Luxury Apartments,CA,,Apartment,92123
+,,,,,"$1,665 ","$2,265 ","$2,455 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,665 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,265 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,455 '}]",Chino,The Crossings Of Chino Hills,CA,,Apartment,91709
+,,,,,"$2,289 ","$2,731 ","$3,307 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,289 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,731 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,307 '}]",Carlsbad,Montecito Apartments at Carlsbad,CA,,Apartment,92010
+,,,,,"$2,460 ","$2,804 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,460 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,804 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Burbank,Avalon Burbank,CA,,Apartment,91502
+,,,,,,"$2,995 ","$3,795 ","[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$2,995 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,795 '}]",Glendale,Verdara Glendale,CA,,Apartment,91204
+,,,,,"$2,057 ","$2,630 ",,"[{'bedroom_type': 'Studio', 'price': '$2,005 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,057 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,630 '}]",Walnut Creek,Avalon Walnut Ridge,CA,"$2,005 ",Apartment,94597
+,,,,,"$1,363 ","$1,635 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,363 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,635 '}]",Folsom,Folsom Ranch,CA,,Apartment,95630
+,,,,,"$1,680 ","$2,085 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,680 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,085 '}]",Mission Viejo,Bella Vista,CA,,Apartment,92691
+,,,,,"$2,175 ","$2,585 ",,"[{'bedroom_type': 'Studio', 'price': '$1,899 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,175 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,585 '}]",Los Angeles,The Visconti,CA,"$1,899 ",Apartment,90017
+,,,,,"$1,960 ","$2,655 ",,"[{'bedroom_type': 'Studio', 'price': '$1,725 '}, {'bedroom_type': '1 Bedroom', 'price': '$1,960 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,655 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Burbank,AVA Burbank,CA,"$1,725 ",Apartment,91505
+,,,,,"$2,075 ","$2,625 ","$3,095 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,075 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,625 '}, {'bedroom_type': '3 Bedrooms', 'price': '$3,095 '}]",San Diego,Arrive Mission Valley,CA,,Apartment,92110
+,,,,,"$1,190 ","$1,315 ","$1,720 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,190 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,315 '}, {'bedroom_type': '3 Bedrooms', 'price': '$1,720 '}]",Sacramento,The Palms Apartment Homes,CA,,Apartment,95815
+,,,,,,"$2,295 ",,"[{'bedroom_type': '1 Bedroom', 'price': ''}, {'bedroom_type': '2 Bedrooms', 'price': '$2,295 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Campbell,Cedar Glen,CA,,Apartment,95008
+,,,,,"$3,200 ","$4,499 ",,"[{'bedroom_type': 'Studio', 'price': '$2,650 '}, {'bedroom_type': '1 Bedroom', 'price': '$3,200 '}, {'bedroom_type': '2 Bedrooms', 'price': '$4,499 '}]",Los Angeles,Vinz on Fairfax,CA,"$2,650 ",Apartment,90036
+,,,,,"$2,200 ","$2,495 ","$2,765 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,200 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,495 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,765 '}]",Anaheim,Stadium House Apartments,CA,,Apartment,92806
+,,,,,"$6,595 ","$7,995 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$6,595 '}, {'bedroom_type': '2 Bedrooms', 'price': '$7,995 '}]",Los Angeles,Wilshire Victoria,CA,,Apartment,90024
+,,,,,"$2,175 ","$2,825 ","$4,000 ","[{'bedroom_type': 'Studio', 'price': '$1,975 '}, {'bedroom_type': '1 Bedroom', 'price': '$2,175 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,825 '}, {'bedroom_type': '3 Bedrooms', 'price': '$4,000 '}]",San Diego,Towers at Costa Verde,CA,"$1,975 ",Apartment,92122
+,,,,,"$3,080 ","$3,715 ","$5,776 ","[{'bedroom_type': 'Studio', 'price': '$2,541 '}, {'bedroom_type': '1 Bedroom', 'price': '$3,080 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,715 '}, {'bedroom_type': '3 Bedrooms', 'price': '$5,776 '}]",San Jose,Misora,CA,"$2,541 ",Apartment,95128
+,,,,,"$2,025 ","$2,395 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,025 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,395 '}]",Huntington Beach,Boardwalk by Windsor,CA,,Apartment,92647
+,,,,,,"$3,864 ","$5,322 ","[{'bedroom_type': '2 Bedrooms', 'price': '$3,864 '}, {'bedroom_type': '3 Bedrooms', 'price': '$5,322 '}]",Cupertino,Nineteen800,CA,,Apartment,95014
+,,,,,"$2,413 ","$3,321 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,413 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,321 '}]",Pasadena,Avalon Pasadena,CA,,Apartment,91101
+,,,,,"$1,325 ","$1,600 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,325 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,600 '}]",Vista,Sunset Springs Apartments,CA,,Apartment,92081
+,,,,,"$1,760 ","$2,048 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,760 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,048 '}]",Rancho Santa Margarita,Avila at Rancho Santa Margarita Apartments,CA,,Apartment,92688
+,,,,,"$4,185 ","$5,310 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$4,185 '}, {'bedroom_type': '2 Bedrooms', 'price': '$5,310 '}]",San Francisco,The Paramount,CA,,Apartment,94105
+,,,,,"$2,819 ","$3,058 ","$4,275 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,819 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,058 '}, {'bedroom_type': '3 Bedrooms', 'price': '$4,275 '}]",San Jose,Domain,CA,,Apartment,95134
+,,,,,"$1,871 ","$2,185 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,871 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,185 '}]",San Dimas,Avalon San Dimas,CA,,Apartment,91773
+,,,,,"$2,710 ","$3,192 ","$4,419 ","[{'bedroom_type': '1 Bedroom', 'price': '$2,710 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,192 '}, {'bedroom_type': '3 Bedrooms', 'price': '$4,419 '}]",Marina Del Rey,Jefferson at Marina del Rey,CA,,Apartment,90292
+,,,,,"$2,385 ","$3,065 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$2,385 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,065 '}]",San Jose,Avalon Willow Glen,CA,,Apartment,95125
+,,,,,"$1,660 ","$2,110 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,660 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,110 '}]",Huntington Beach,Casa Del Sol,CA,,Apartment,92646
+,,,,,"$1,625 ","$1,825 ","$2,245 ","[{'bedroom_type': '1 Bedroom', 'price': '$1,625 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,825 '}, {'bedroom_type': '3 Bedrooms', 'price': '$2,245 '}]",Santa Clarita,River Ranch Townhomes &amp; Apartments,CA,,Apartment,91387
+,,,,,"$1,910 ","$2,195 ",,"[{'bedroom_type': 'Studio', 'price': '$1,785 '}, {'bedroom_type': '1 Bedroom', 'price': '$1,910 '}, {'bedroom_type': '2 Bedrooms', 'price': '$2,195 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",San Marcos,Maxfield at Marc San Marcos,CA,"$1,785 ",Apartment,92069
+,,,,,"$1,254 ","$1,494 ",,"[{'bedroom_type': '1 Bedroom', 'price': '$1,254 '}, {'bedroom_type': '2 Bedrooms', 'price': '$1,494 '}]",Citrus Heights,Montage Apartments,CA,,Apartment,95610
+,,,,,"$2,366 ","$3,015 ",,"[{'bedroom_type': 'Studio', 'price': ''}, {'bedroom_type': '1 Bedroom', 'price': '$2,366 '}, {'bedroom_type': '2 Bedrooms', 'price': '$3,015 '}, {'bedroom_type': '3 Bedrooms', 'price': ''}]",Union City,Avalon Union City,CA,,Apartment,94587
