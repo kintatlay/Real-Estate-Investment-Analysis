@@ -1,0 +1,9 @@
+City_Rent,Type,State_Rent,Zip_code,Bedroom_Info,Full_Address,Rent_link,Bath_Info,Square_Feet_Data,Square_Feet,Lease_length,Availability_check,"
+												2 Beds
+														–
+3 Beds										",1 Bed,2 Beds,3 Beds
+6115 Brookside Cir,Townhomes,Rocklin,CA,"[{'bedroom_type': '\r\n\t\t\t\t\t\t\t\t\t\t\t\t2 Beds\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t–\r\n3 Beds\t\t\t\t\t\t\t\t\t\t', 'price': ''}]","6115 Brookside Cir, Rocklin, CA 95677",https://www.apartments.com/woodstream-townhomes-rocklin-ca/en0js5q/,1 BA,845 Sq Ft,845,,Not Available,,,,
+1625 W Pacific Coast Hwy,Townhomes,Wilmington,CA,"[{'bedroom_type': '1 Bed', 'price': '$1,941'}, {'bedroom_type': '2 Beds', 'price': '$2,549'}, {'bedroom_type': '3 Beds', 'price': '$2,996'}]","1625 W Pacific Coast Hwy, Wilmington, CA 90744",https://www.apartments.com/portofino-townhomes-wilmington-ca/96znhk7/,1 BA,575 Sq Ft,575,,Available Now,,"$1,941","$2,549","$2,996"
+1327-1329 S Crenshaw Blvd,Townhomes,Los Angeles,CA,"[{'bedroom_type': '2 Beds', 'price': '$1,970'}, {'bedroom_type': '3 Beds', 'price': '$2,365'}]","1327-1329 S Crenshaw Blvd, Los Angeles, CA 90019",https://www.apartments.com/crenshaw-townhouse-los-angeles-ca/701dj3w/,2 BAs,825 Sq Ft,825,,Jul 6,,,"$1,970","$2,365"
+17621 W Pauline Ct,Townhomes,Santa Clarita,CA,"[{'bedroom_type': '2 Beds', 'price': '$1,907'}, {'bedroom_type': '3 Beds', 'price': '$2,496'}]","17621 W Pauline Ct, Santa Clarita, CA 91387",https://www.apartments.com/colony-townhomes-santa-clarita-ca/t19x7x9/,2½ BAs,"1,056 Sq Ft","1,056",,Available Now,,,"$1,907","$2,496"
+3601 Hilltop Dr,Townhomes,Lemon Grove,CA,"[{'bedroom_type': '3 Beds', 'price': '$2,149'}]","3601 Hilltop Dr, Lemon Grove, CA 91945",https://www.apartments.com/hilltop-townhomes-lemon-grove-ca/dmzvcvj/,1½ BAs,"1,250 - 1,400 Sq Ft","1,250",,Available Now,,,,"$2,149"
