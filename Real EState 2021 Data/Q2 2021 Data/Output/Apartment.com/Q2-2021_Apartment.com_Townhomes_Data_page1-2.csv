@@ -1,0 +1,33 @@
+City_Rent,Type,State_Rent,Zip_code,Full_Address,Rent_link,Bath_Info,Square_Feet_Data,Square_Feet,2 beds,4 beds,5 beds,Studio,1 bed,3 beds
+Los Angeles,Townhomes,CA,90019,"1327-1329 S Crenshaw Blvd, Los Angeles, CA 90019",https://www.apartments.com/crenshaw-townhouse-los-angeles-ca/701dj3w/,1.5 baths,"1,152 sq ft","1,152",,,,,,
+Los Angeles,Townhomes,CA,90038,"920 Wilcox Ave, Los Angeles, CA 90038",https://www.apartments.com/wilcox-townhomes-los-angeles-ca/6601sns/,1.5 baths,"1,152 sq ft","1,152",,,,,,
+Oxnard,Townhomes,CA,93036,"560 Winchester Dr, Oxnard, CA 93036",https://www.apartments.com/mayfair-oxnard-ca/nzkvm1n/,2.5 baths,"1,649 sq ft","1,649",3415.0,,,,,
+Chico,Townhomes,CA,95926,"647-701 W 4th Ave, Chico, CA 95926",https://www.apartments.com/the-regency-townhouses-available-chico-ca/nezc4fq/,3 baths,"2,000 sq ft","2,000",,1760.0,2100.0,,,
+Los Angeles,Townhomes,CA,90066,"4151 Redwood Ave, Los Angeles, CA 90066",https://www.apartments.com/r1-living-townhouses-los-angeles-ca/kpetvmc/,3 baths,"2,000 sq ft","2,000",,,,,,
+Lancaster,Townhomes,CA,93536,"2060 Westwood Ct, Lancaster, CA 93536",https://www.apartments.com/westwood-park-townhomes-lancaster-ca/98cgzm6/,2 baths,978 sq ft,978,2525.0,,,,,
+Torrance,Townhomes,CA,90503,"20440 Anza Ave, Torrance, CA 90503",https://www.apartments.com/seville-townhouse-torrance-ca/jd8jvf4/,2 baths,"1,000 sq ft","1,000",2250.0,,,1599.0,1800.0,
+Tracy,Townhomes,CA,95376,"315 Mt Oso Ave, Tracy, CA 95376",https://www.apartments.com/tuscana-townhomes-tracy-ca/s5rwft7/,2 baths,"1,000 sq ft","1,000",,,,,,
+Montclair,Townhomes,CA,91763,"9200 Monte Vista Ave, Montclair, CA 91763",https://www.apartments.com/lexington-townhomes-montclair-ca/26nlcsc/,1.5 baths,946 sq ft,946,2634.0,,,,,
+Santa Rosa,Townhomes,CA,95407,"801 Dutton Ave, Santa Rosa, CA 95407",https://www.apartments.com/walkham-townhomes-santa-rosa-ca/54d6qxn/,1.5 baths,946 sq ft,946,,,,,,
+Castro Valley,Townhomes,CA,94546,"2511 Grove Way, Castro Valley, CA 94546",https://www.apartments.com/town-house-plaza-castro-valley-ca/6exdjfr/,2 baths,"1,050 sq ft","1,050",2495.0,,,,,
+Ventura,Townhomes,CA,93003,"3074 Channel Dr, Ventura, CA 93003",https://www.apartments.com/ocean-view-townhomes-ventura-ca/63wecpr/,2 baths,"1,050 sq ft","1,050",,,,,,
+La Mesa,Townhomes,CA,91942,"7561 El Cajon Blvd, La Mesa, CA 91942",https://www.apartments.com/trio-townhomes-la-mesa-ca/phs98ft/,2.5 baths,"1,262 sq ft","1,262",2925.0,,,,,
+El Cajon,Townhomes,CA,92021,"2000 E Main St, El Cajon, CA 92021",https://www.apartments.com/canyon-springs-el-cajon-ca/vw43b6d/,2.5 baths,"1,240 sq ft","1,240",,,,,,2395.0
+Pasadena,Townhomes,CA,91101,"686 E Union St, Pasadena, CA 91101",https://www.apartments.com/the-andalucia-pasadena-ca/388rgpg/,1 bath,522 sq ft,522,,,,2450.0,,
+Van Nuys,Townhomes,CA,91406,"15716 Saticoy St, Van Nuys, CA 91406",https://www.apartments.com/lake-balboa-townhomes-van-nuys-ca/kbqrweb/,1 bath,578 sq ft,578,,,,,1950.0,
+San Lorenzo,Townhomes,CA,94580,"15700 Washington Ave, San Lorenzo, CA 94580",https://www.apartments.com/washington-townhomes-san-lorenzo-ca/lmfd95g/,1 bath,578 sq ft,578,,,,,,
+El Cajon,Townhomes,CA,92021,"8031 Winter Gardens Blvd, El Cajon, CA 92021",https://www.apartments.com/shannon-wood-townhomes-el-cajon-ca/d2f0kdj/,2 baths,"1,118 sq ft","1,118",,,,,,2395.0
+North Highlands,Townhomes,CA,95660,"4930 Polk St, North Highlands, CA 95660",https://www.apartments.com/sierra-park-townhomes-north-highlands-ca/yxmqsjt/,1 bath,706 sq ft,706,1685.0,,,,,
+Santee,Townhomes,CA,92071,"8777 Graves Ave, Santee, CA 92071",https://www.apartments.com/greystone-ridge-townhomes-santee-ca/d1lczpl/,1 bath,706 sq ft,706,,,,,,
+Sacramento,Townhomes,CA,95825,"100 Cadillac Dr, Sacramento, CA 95825",https://www.apartments.com/cadillac-drive-townhomes-sacramento-ca/2kqw9d8/,1.5 baths,950 sq ft,950,1800.0,,,,1650.0,
+Costa Mesa,Townhomes,CA,92627,"2110 Thurin St, Costa Mesa, CA 92627",https://www.apartments.com/greystone-townhouses-costa-mesa-ca/nnfd2jp/,1.5 baths,950 sq ft,950,,,,,,
+Pasadena,Townhomes,CA,91101,"218 S Oakland Ave, Pasadena, CA 91101",https://www.apartments.com/los-patios-de-cordova-218-s-oakland-ave-pasadena-ca/e4xc97q/,1.5 baths,"1,170 sq ft","1,170",3850.0,,,,,
+Fullerton,Townhomes,CA,92832,"1200 S Highland Ave, Fullerton, CA 92832",https://www.apartments.com/fullerton-townhouse-apartments-fullerton-ca/9thw7g6/,1.5 baths,"1,170 sq ft","1,170",,,,,,
+Goleta,Townhomes,CA,93117,"243-247 Mathilda Dr, Goleta, CA 93117",https://www.apartments.com/entrada-townhomes-goleta-ca/9nkw406/,1.5 baths,"1,170 sq ft","1,170",,,,,,
+San Leandro,Townhomes,CA,94578,"16001 Liberty St, San Leandro, CA 94578",https://www.apartments.com/liberty-hill-townhomes-san-leandro-ca/etf636q/,1.5 baths,"1,400 sq ft","1,400",1900.0,,,,,2100.0
+Riverside,Townhomes,CA,92504,"3680 Monroe St, Riverside, CA 92504",https://www.apartments.com/presidential-townhomes-riverside-ca/nh4cvjn/,1.5 baths,"1,100 sq ft","1,100",1995.0,,,,,
+Chico,Townhomes,CA,95928,"581 Pomona Ave, Chico, CA 95928",https://www.apartments.com/pomona-townhomes-chico-ca/wp7v83j/,2 baths,"1,500 sq ft","1,500",,1782.0,,,,
+Rocklin,Townhomes,CA,95677,"2500 Chalmette Ct, Rocklin, CA 95677",https://www.apartments.com/sunset-rocklin-townhomes-rocklin-ca/b3bg8d8/,2.5 baths,"1,423 sq ft","1,423",,,,,,2250.0
+Rancho Cucamonga,Townhomes,CA,91730,"8450 Carson Pl, Rancho Cucamonga, CA 91730",https://www.apartments.com/sycamore-villas-luxury-townhomes-rancho-cucamonga-ca/y3qh0pv/,2.5 baths,"1,619 sq ft","1,619",,3100.0,,,,2800.0
+Santa Rosa,Townhomes,CA,95407,"1791 Sebastopol Rd, Santa Rosa, CA 95407",https://www.apartments.com/sendero-townhomes-santa-rosa-ca/c40slcg/,2.5 baths,"1,235 sq ft","1,235",,,,1545.0,,2695.0
+Hemet,Townhomes,CA,92543,"1100 E Whittier Ave, Hemet, CA 92543",https://www.apartments.com/mountain-view-townhomes-hemet-ca/xxp931p/,2.5 baths,"1,235 sq ft","1,235",,,,,,
